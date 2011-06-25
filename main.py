@@ -4,8 +4,17 @@ REST server for the similarity data
 
 import web
 import json
+import urllib2
 from pyechonest import artist, util
-  
+ 
+#Ex: get_twitter_id('djfractal')
+def get_twitter_id(screen_name):
+    url_str = 'https://thierrybm.cloudant.com/twitterrecommend/_search?q=screen_name:%s&include_docs=true' % screen_name
+    res = urllib2.urlopen(url_str)
+    d = json.loads(res.read())
+    return d['rows'][0]['doc']['twitter_id']
+
+ 
 urls = (
     '/similar/(.*)', 'similar'
 )
