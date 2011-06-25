@@ -35,7 +35,7 @@
 
         $.ajax({
           type: "get",
-          url: "http://127.0.0.1:8080/usernamesimilar/" + artistName,
+          url: "http://localhost:8080/usernamesimilar/" + artistName,
           success: function(data) { ret = $.parseJSON(data) },
           async: false
         });
@@ -46,7 +46,7 @@
       } else {
         $.ajax({
           type: "get",
-          url: "http://127.0.0.1:8080/usernamesimilar/" + artistName,
+          url: "http://localhost:8080/usernamesimilar/" + artistName,
           success: grabSimilarArtistsSuccessCallback,
           error: function() {
             $("#loading_spinner").hide();
