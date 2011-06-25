@@ -19,8 +19,8 @@ for line in sys.stdin:
     line = line.strip()
     artist, username = line.split('\t')
     tid = api.GetUser(username).id
-    artist_twitterid.append((artist, tid))
+    artist_twitterid.append((artist, username, tid))
 
-for artist, tid in artist_twitterid:
-    print '%s\t%s'% (artist, tid)
+for artist, username, tid in artist_twitterid:
+    print '%s\t%s\t%s'% (artist, username, tid)
 
