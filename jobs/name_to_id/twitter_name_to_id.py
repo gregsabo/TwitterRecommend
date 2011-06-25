@@ -1,32 +1,26 @@
 #!/usr/bin/env python
 
 import os, sys
-from mrjob.job import MRJob
+import httplib, json
 
-sys.path.append("deps/httplib2-0.7.1")
-sys.path.append("deps/python-oauth2")
-sys.path.append("deps/simplejson-2.1.6")
-sys.path.append("deps/python-twitter-0.8.2")
+def get_twitter_id(username, api):
+  api.request('GET', '/1/users/show.json?screen_name='+username)
+  res = api.getresponse().read()
+  return json.loads(res)['id']
 
-import twitter
+def main():
+  artist_twitterid = []
+  api = httplib.HTTPConnection('api.twitter.com')
 
-class MRNameToId(MRJob):
-  def run(self):
-    return[self.mr(self.get_ids, self.reduce),]
+  for line in sys.stdin:
+      line = line.strip()
+      id, artist, profile = line.split('\t')
+      username = profile.split('/')[-1]
+      tid = get_twitter_id(username, api)
+      artist_twitterid.append((artist, username, tid))
 
-  def get_ids():
-    api = twitter.Api()
-    artist_twitterid = []
-
-    for line in sys.stdin:
-        line = line.strip()
-        id, artist, profile = line.split('\t')
-        username = profile.split('/')[-1]
-        tid = api.GetUser(username).id
-        artist_twitterid.append((artist, username, tid))
-
-    for artist, username, tid in artist_twitterid:
-        print '%s\t%s\t%s'% (artist, username, tid)
+  for artist, username, tid in artist_twitterid:
+      print '%s\t%s\t%s'% (artist, username, tid)
 
 if __name__ == '__main__':
-  MRNameToId.run()
+  main()
