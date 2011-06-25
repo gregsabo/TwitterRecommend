@@ -1,0 +1,60 @@
+
+<html>
+
+
+<head>
+  <title>Insert Clever Title Here</title>
+
+
+
+  <script src="http://code.jquery.com/jquery-latest.js"></script>
+
+  <script type="text/javascript">
+    // TODO(tek): Move this out to a new file?
+
+    function grabSimilarArtistsSuccessCallback(data) {
+      console.log(data);
+    }
+
+    function grabSimilarArtists() {
+      $.ajax({
+        type: "get",
+        url: "http://127.0.0.1",
+        success: grabSimilarArtistsSuccessCallback,
+        error: function() {
+          console.log("fail");
+        }
+      });
+    }
+    
+
+  </script>
+
+
+  <LINK REL=StyleSheet HREF="ui.css" TYPE="text/css" MEDIA=screen>
+
+</head>
+
+
+<body>
+
+  <div class="CSS_SEARCH_HORIZ">
+    <div class="CSS_SEARCH_BAR">
+      <form action="?">
+	<input type="text" name="artist_handle" size="40">
+
+	<input type="submit">
+      </form>
+    </div>
+
+    <div class="CSS_LOADING_SPINNER">
+      <img src="ajax-loader.gif">
+    </div>
+  </div>
+
+
+  <div class="CSS_RESULTS">
+    
+  </div>
+
+</body>

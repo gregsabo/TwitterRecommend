@@ -1,0 +1,14 @@
+
+    .CSS_SEARCH_HORIZ {
+    
+    }
+
+    .CSS_SEARCH_BAR {
+      float: left
+    }
+    
+    .CSS_LOADING_SPINNER {
+      float: left;
+      	     margin-left: 10px;
+      margin-top: 3px;
+          }
