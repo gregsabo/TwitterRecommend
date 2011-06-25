@@ -14,8 +14,7 @@ COLOR =
   node: "#CCC"
 
 class Node
-  constructor: (@x, @y) ->
-    @name = "Michael Jackson"
+  constructor: (@x, @y, @name) ->
     @connections = []
     @size = 10
     @hover_x = 0
@@ -73,22 +72,22 @@ draw = (ctx) ->
 
 
   
-add_node = (root_node) ->
-  if not root_node
-    this_x = 0
-    this_y = 0
-    root_node = new Node(this_x, this_y)
-    nodes.push(root_node)
+add_node = (root_node, connections) ->
     
   RADIUS = 200  
-  num_similar = Math.floor(Math.random() * 20)
+  num_similar = connections.length
   angle = 2 * Math.PI / num_similar
-  for i in [0...num_similar]
+  i = 0
+
+  for connection in connections
     this_x = Math.cos(angle * i) * RADIUS + root_node.x
     this_y = Math.sin(angle * i) * RADIUS + root_node.y
-    node = new Node(this_x, this_y)
+    node = new Node(this_x, this_y, connection)
     root_node.connections.push node
     nodes.push node
+
+    i += 1
+
   return root_node
 
 find_node_by_coordinates = (x, y) ->
@@ -105,7 +104,10 @@ bind_click_events = ->
 
     if node
       currentTargetNode = node
-      add_node(node)
+
+      connections = getConnectionsFor(node.name, true)
+
+      add_node(node, connections)
       target_x_offset = (-1 * node.x) + WIDTH/2
       target_y_offset = (-1 * node.y) + HEIGHT/2
       
@@ -118,8 +120,17 @@ initialize_canvas = ->
   , 10)
 
 
-$( ->
+window.start_canvas_with_nodes = (initial_person, connected_names) ->
   initialize_canvas()
-  currentTargetNode = add_node()
+
+
+  this_x = 0
+  this_y = 0
+  root_node = new Node(this_x, this_y, initial_person)
+ 
+
+
+  currentTargetNode = add_node(root_node, connected_names)
   bind_click_events()
-)
+    
+
