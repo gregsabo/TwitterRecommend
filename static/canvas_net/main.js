@@ -1,8 +1,16 @@
 (function() {
-  var Node, add_node, bind_click_events, draw, find_node_by_coordinates, initialize_canvas, nodes, x_offset, y_offset;
+  var COLOR, HEIGHT, Node, WIDTH, add_node, advance_offset_target, bind_click_events, clear_screen, draw, find_node_by_coordinates, initialize_canvas, nodes, target_x_offset, target_y_offset, x_offset, y_offset;
+  HEIGHT = 500;
+  WIDTH = 800;
   x_offset = 400;
   y_offset = 200;
+  target_x_offset = 400;
+  target_y_offset = 200;
   nodes = [];
+  COLOR = {
+    background: "#FFF",
+    node: "#000"
+  };
   Node = (function() {
     function Node(x, y) {
       this.x = x;
@@ -12,6 +20,7 @@
     }
     Node.prototype.draw = function(ctx) {
       var connection, _i, _len, _ref, _results;
+      ctx.strokeStyle = COLOR.node;
       ctx.strokeRect(this.x + x_offset - (this.size / 2), this.y + y_offset - (this.size / 2), this.size, this.size);
       _ref = this.connections;
       _results = [];
@@ -26,8 +35,18 @@
     };
     return Node;
   })();
+  clear_screen = function(ctx) {
+    ctx.fillStyle = COLOR.background;
+    return ctx.fillRect(0, 0, WIDTH, HEIGHT);
+  };
+  advance_offset_target = function() {
+    x_offset += (target_x_offset - x_offset) * 0.05;
+    return y_offset += (target_y_offset - y_offset) * 0.05;
+  };
   draw = function(ctx) {
     var node, _i, _len, _results;
+    clear_screen(ctx);
+    advance_offset_target();
     _results = [];
     for (_i = 0, _len = nodes.length; _i < _len; _i++) {
       node = nodes[_i];
@@ -60,8 +79,8 @@
     var node, nx, ny, _i, _len;
     for (_i = 0, _len = nodes.length; _i < _len; _i++) {
       node = nodes[_i];
-      nx = node.x + x_offset;
-      ny = node.y + y_offset;
+      nx = node.x + x_offset - node.size / 2;
+      ny = node.y + y_offset - node.size / 2;
       if (nx < x && nx + node.size > x && ny < y && ny + node.size > y) {
         return node;
       }
@@ -72,9 +91,10 @@
     return $('canvas').click(function(event) {
       var node;
       node = find_node_by_coordinates(event.offsetX, event.offsetY);
-      console.log(node);
       if (node) {
-        return add_node(node);
+        add_node(node);
+        target_x_offset = (-1 * node.x) + WIDTH / 2;
+        return target_y_offset = (-1 * node.y) + HEIGHT / 2;
       }
     });
   };
