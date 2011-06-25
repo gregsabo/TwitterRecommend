@@ -17,7 +17,8 @@ artist_twitterid = []
 
 for line in sys.stdin:
     line = line.strip()
-    artist, username = line.split('\t')
+    id, artist, profile = line.split('\t')
+    username = profile.split('/')[-1]
     tid = api.GetUser(username).id
     artist_twitterid.append((artist, username, tid))
 
