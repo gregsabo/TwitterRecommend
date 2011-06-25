@@ -100,6 +100,7 @@
     i = 0;
     for (_i = 0, _len = connections.length; _i < _len; _i++) {
       connection = connections[_i];
+      RADIUS = 60 * Math.random() + 140;
       this_x = Math.cos(angle * i) * RADIUS + root_node.x;
       this_y = Math.sin(angle * i) * RADIUS + root_node.y;
       node = new Node(this_x, this_y, connection);
@@ -151,6 +152,7 @@
     this_x = 0;
     this_y = 0;
     root_node = new Node(this_x, this_y, initial_person);
+    nodes.push(root_node);
     target_x_offset = 400;
     target_y_offset = 200;
     currentTargetNode = add_node(root_node, connected_names);

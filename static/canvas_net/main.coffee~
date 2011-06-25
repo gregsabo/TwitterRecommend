@@ -9,6 +9,8 @@ target_y_offset = 200
 currentTargetNode = null
 nodes = []
 
+initialized_canvas = false
+
 COLOR =
   background: "#FFF"
   node: "#CCC"
@@ -121,16 +123,26 @@ initialize_canvas = ->
 
 
 window.start_canvas_with_nodes = (initial_person, connected_names) ->
-  initialize_canvas()
+  if (!initialized_canvas)
+    initialize_canvas()
 
+  nodes = []
 
   this_x = 0
   this_y = 0
   root_node = new Node(this_x, this_y, initial_person)
+
+
+  target_x_offset = 400
+  target_y_offset = 200
  
 
 
   currentTargetNode = add_node(root_node, connected_names)
-  bind_click_events()
+  
+  if (!initialized_canvas)
+    bind_click_events()
+
+  initialized_canvas = true
     
 

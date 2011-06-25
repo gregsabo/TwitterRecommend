@@ -82,6 +82,7 @@ add_node = (root_node, connections) ->
   i = 0
 
   for connection in connections
+    RADIUS = 60 * Math.random() + 140;
     this_x = Math.cos(angle * i) * RADIUS + root_node.x
     this_y = Math.sin(angle * i) * RADIUS + root_node.y
     node = new Node(this_x, this_y, connection)
@@ -132,6 +133,7 @@ window.start_canvas_with_nodes = (initial_person, connected_names) ->
   this_y = 0
   root_node = new Node(this_x, this_y, initial_person)
 
+  nodes.push(root_node)
 
   target_x_offset = 400
   target_y_offset = 200
