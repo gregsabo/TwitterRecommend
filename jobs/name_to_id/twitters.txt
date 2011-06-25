@@ -1,0 +1,2341 @@
+72c536dc-7137-4477-a521-567eeb840fa8	Bob Dylan	http://twitter.com/bobdylan
+c3aeb863-7b26-4388-94e8-5a240f2be21b	Tom Waits	http://twitter.com/tomwaits
+f9ef7a22-4262-4596-a2a8-1d19345b8e50	Garbage	http://twitter.com/garbageofficial
+1dcc8968-f2cd-441c-beda-6270f70f2863	Hole	http://twitter.com/holerock
+4bdcee62-4902-4773-8cd1-e252e2e31225	Alanis Morissette	http://twitter.com/morissette
+309c62ba-7a22-4277-9f67-4a162526d18a	Beck	http://twitter.com/beck
+65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab	Metallica	http://twitter.com/metallica
+67f66c07-6e61-4026-ade5-7e782fad3a5d	Foo Fighters	http://twitter.com/foofighters
+f90e8b26-9e52-4669-a5c9-e28529c47894	Snoop Dogg	http://twitter.com/snoopdogg
+83b9cbe7-9857-49e2-ab8e-b57b01038103	Pearl Jam	http://twitter.com/PearlJam
+6da0515e-a27d-449d-84cc-00713c38a140	Skid Row	http://twitter.com/officialskidrow
+a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432	U2	http://twitter.com/u2com
+67930b3e-e00b-469f-8c74-fd69f20522ec	Sade	http://twitter.com/sadeofficial
+1946a82a-f927-40c2-8235-38d64f50d043	The Chemical Brothers	http://twitter.com/ChemBros
+b6b2bb8d-54a9-491f-9607-7b546023b433	Pixies	http://twitter.com/PIXIES
+7249b899-8db8-43e7-9e6e-22f1e736024e	Def Leppard	http://twitter.com/def_leppard
+cbf9738d-8f81-4a92-bc64-ede09341652d	Chris Cornell	http://twitter.com/chriscornell
+b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d	The Beatles	http://twitter.com/thebeatles
+8538e728-ca0b-4321-b7e5-cff6565dd4c0	Depeche Mode	http://twitter.com/depechemode
+8970d868-0723-483b-a75b-51088913d3d4	Moby	http://twitter.com/thelittleidiot
+bf600e2b-dc2d-4839-a1be-6ebef4087cd0	311	http://twitter.com/311
+0ef3f425-9bd2-4216-9dd2-219d2fe90f1f	Lenny Kravitz	http://twitter.com/LennyKravitz
+7527f6c2-d762-4b88-b5e2-9244f1e34c46	Deftones	http://twitter.com/deftonesband
+f22942a1-6f70-4f48-866e-238cb2308fbd	Aphex Twin	http://twitter.com/AphexTwin
+c5eb9407-caeb-4303-b383-6929aa94021c	Papa Roach	http://twitter.com/paparoach
+8777a849-fb4e-4430-9918-170f619c5286	Bebel Gilberto	http://twitter.com/bebelgilberto
+c5a0a216-c33c-42dc-92b8-4b60236f8dad	Andrea Bocelli	http://twitter.com/bocelliandrea
+6fe07aa5-fec0-4eca-a456-f29bff451b04	Weezer	http://twitter.com/Weezer
+fbd2a255-1d57-4d31-ac11-65b671c19958	No Doubt	http://twitter.com/nodoubt
+92a42e82-b36f-4308-82c1-68bad2e03c89	Third Eye Blind	http://twitter.com/3eB
+084308bd-1654-436f-ba03-df6697104e19	Green Day	http://twitter.com/GreenDay
+3b221a54-54b9-435c-a7f3-5cf8e2ce9fb2	MxPx	http://twitter.com/mxpx
+8c32bb01-58a3-453b-8050-8c0620edb0e5	Stone Temple Pilots	http://twitter.com/stpband
+85d7666c-d3ce-4e2c-8b1b-f20db7cdae4f	Warren G	http://twitter.com/Regulator
+be540c02-7898-4b79-9acc-c8122c7d9e83	Pet Shop Boys	http://twitter.com/petshopboys
+149e6720-4e4a-41a4-afca-6d29083fc091	Bad Religion	http://twitter.com/badreligion
+45a663b5-b1cb-4a91-bff6-2bef7bbfdd76	Britney Spears	http://twitter.com/britneyspears
+abae8575-ec8a-4736-abc3-1ad5093a68aa	Jewel	http://twitter.com/jeweljk
+23d9d74d-c95e-46a6-be26-a6075c49747a	Faithless	http://twitter.com/faithless
+a0955511-1324-4e9b-834f-e1e140502850	Monster Magnet	http://twitter.com/monstermagnetnj
+b95ce3ff-3d05-4e87-9e01-c97b66af13d4	Eminem	http://twitter.com/eminem
+7746d775-9550-4360-b8d5-c37bd448ce01	"Weird Al" Yankovic	http://twitter.com/alyankovic
+a0327dc2-dc76-44d5-aec6-47cd2dff1469	Counting Crows	http://twitter.com/countingcrows
+067102ea-9519-4622-9077-57ca4164cfbb	Morcheeba	http://twitter.com/realmorcheeba
+a4a3048f-3968-4848-9f53-94e3d4f88b53	Mr. Oizo	http://twitter.com/oizo3000
+faabb55d-3c9e-4c23-8779-732ac2ee2c0d	Shania Twain	http://twitter.com/FollowShania
+7944ed53-2a58-4035-9b93-140a71e41c34	Sting	http://twitter.com/yogisting
+4f29ecd7-21a5-4c03-b9ba-d0cfe9488f8c	Wyclef Jean	http://twitter.com/wyclef
+6ae51665-8261-4ae5-883f-1899651ad31b	Filter	http://twitter.com/officialfilter
+62dc94cc-f611-4345-87cb-b914796a4a45	Hooverphonic	http://twitter.com/hooverphonicoff
+87c5dedd-371d-4a53-9f7f-80522fb7f3cb	Björk	http://twitter.com/bjork
+aa266ac7-d919-4132-982e-76cbd95591a7	Collective Soul	http://twitter.com/Collective_Soul
+1f43d76f-8edf-44f6-aaf1-b65f05ad9402	The Flaming Lips	http://twitter.com/theflaminglips
+667e856e-f3a7-42e9-8244-95422ef31321	The Breeders	http://twitter.com/thebreeders
+cf119120-7df5-47d7-9dec-49f8837a4e40	Suzanne Vega	http://twitter.com/Suzyv
+db3c0a20-bf05-4b30-ac22-f294aea24172	Aimee Mann	http://twitter.com/aimeemann
+bf24ca37-25f4-4e34-9aec-460b94364cfc	Shakira	http://twitter.com/shakira
+e212efdf-98b2-4dce-92ed-62cfc1e29854	Skunk Anansie	http://twitter.com/SkunkAnansie1
+2fae3969-96cb-4dea-91c8-9108848de808	Aleks Syntek	http://twitter.com/syntekoficial
+8385f26a-f374-4a04-9aad-4442ce24db2b	VNV Nation	http://twitter.com/VNV_Nation
+dcaa4f81-bfb7-44eb-8594-4e74f004b6e4	NOFX	http://twitter.com/nofxofficial
+fe37acd4-893c-4b2c-8ad2-7fd394280354	Jessica Simpson	http://twitter.com/JessicaSimpson
+5c210861-2ce2-4be3-9307-bbcfc361cc01	Pennywise	http://twitter.com/Pennywise
+24f8d8a5-269b-475c-a1cb-792990b0b2ee	Rancid	http://twitter.com/Rancid
+481bf5f9-2e7c-4c44-b08a-05b32bc7c00d	INXS	http://twitter.com/inxs
+b2dbfc09-b332-408b-a235-1850e41971c5	Bloodhound Gang	http://twitter.com/bloodhoundgang
+a1419808-65d3-4d40-998c-1a0bac65eabc	The Faint	http://twitter.com/thefaint
+b3ae82c2-e60b-4551-a76d-6620f1b456aa	Melissa Etheridge	http://twitter.com/speak_true
+e6211cf7-272f-4431-bbd3-40c081b992d4	Altan	http://twitter.com/altanmusic
+7e786a4c-c743-4713-9340-a6f12d8515d4	Ultravox	http://twitter.com/UltravoxUK
+7291957b-c463-4275-a41c-a104c9e2337f	Alan Jackson	http://twitter.com/OfficialJackson
+456eabce-d1dd-4481-a206-36ab4f2eaeb8	Herbert Grönemeyer	http://twitter.com/groenemeyer
+78661da3-894c-4947-a34b-fb7edf585d9b	Our Lady Peace	http://twitter.com/ourladypeace
+d3b2bec4-b70e-460e-b433-a865ceac2de8	Anastacia	http://twitter.com/AnastaciaFanily
+788ad31c-bf0c-4a31-83f8-b8b130d79c76	Apocalyptica	http://twitter.com/apocalypticafi
+321531fc-db73-4ffa-a959-61a61a2908c1	Erykah Badu	http://twitter.com/fatbellybella
+4b585938-f271-45e2-b19a-91c634b5e396	Kate Bush	http://twitter.com/katebushmusic
+ba550d0e-adac-4864-b88b-407cab5e76af	Paul McCartney	http://twitter.com/PaulMcCartney
+cc197bad-dc9c-440d-a5b5-d52ba2e14234	Coldplay	http://twitter.com/coldplay
+440cb8ef-cee3-4711-8408-b1bd6e93f390	Towa Tei	http://twitter.com/towatei
+bc880664-6751-4998-984d-ebdbff15d229	Trent Reznor	http://twitter.com/trent_reznor
+5a8e07d5-d932-4484-a7f7-e700793a9c94	Robyn	http://twitter.com/robynkonichiwa
+0d74dcc7-5684-4695-830f-a9846aad8ba9	Wynton Marsalis	http://twitter.com/wyntonmarsalis
+ce7b75bb-3744-4af6-aa4a-65d9b5c92913	Saez	http://twitter.com/damiensaez
+9c9f1380-2516-4fc9-a3e6-f9f61941d090	Muse	http://twitter.com/muse
+9aa0d535-3efe-468c-afda-43bd17d44641	Warrant	http://twitter.com/warrantrocks
+cba94150-9113-4017-acc2-a8cc0313a084	MC Hammer	http://twitter.com/MCHammer
+0ea427c8-07d4-4f9c-92c6-bc4e8241799a	Cirque du Soleil	http://twitter.com/Cirque
+e5c7b94f-e264-473c-bb0f-37c85d4d5c70	Belle and Sebastian	http://twitter.com/bellesglasgow
+a42d3fd5-55de-4206-86c3-4fbb5404018f	Neil Diamond	http://twitter.com/neildiamond
+22c5cef9-80e8-48d2-acd3-6d16f6c8a16d	Lisa Loeb	http://twitter.com/lisaloeb4real
+7c5e39c3-7645-4e37-968d-a4e45cd38c5d	Mýa	http://twitter.com/missmya
+dfc43cef-4be2-45a2-931c-56fc48ca0f07	Denis Leary	http://twitter.com/denisleary
+1f1f6737-b930-46fc-8d25-110bb99f7490	Redman	http://twitter.com/therealredman
+5cbef01b-cc35-4f52-af7b-d0df0c4f61b9	Sonic Youth	http://twitter.com/thesonicyouth
+0b461f11-c7af-4ddb-a30e-5cb0aabb3e7f	Kristin Hersh	http://twitter.com/#!/kristinhersh
+d700b3f5-45af-4d02-95ed-57d301bda93e	Mogwai	http://twitter.com/mogwaiband
+a7f7df4a-77d8-4f12-8acd-5c60c93f4de8	坂本龍一	http://twitter.com/ryuichisakamoto
+2cf241c0-0d6e-472c-be49-d7691a7aec61	Daniela Mercury	http://twitter.com/danielamercury
+6e5477fa-8946-4a33-89fe-9f16c0568d12	Ann Hampton Callaway	http://twitter.com/ahctweet
+1b54e90c-638e-4fdd-a20e-4ab09db9fdaf	The Get Up Kids	http://twitter.com/tguk
+bdacc37b-8633-4bf8-9dd5-4662ee651aec	Slayer	http://twitter.com/SlayerBand
+8ac580bd-5b33-4ee3-83df-8d406908e300	Armored Saint	http://twitter.com/thearmoredsaint
+17d78170-7194-4603-8dbb-ca1108430882	Avishai Cohen	http://twitter.com/AvishaiCohen
+2251718f-7b5c-4a92-9267-895125c594d3	Sodom	http://twitter.com/sodomized
+28c0c945-dea4-4090-9257-c039c464b89d	In Strict Confidence	http://twitter.com/isc_music
+668fd73c-bf54-4310-a139-305517f05311	Willie Nelson	http://twitter.com/willienelson
+94d9ee75-2ae0-455f-a22c-c2690882e170	Bass Mekanik	http://twitter.com/bassmekanik
+5f572b31-8fd9-45ae-9beb-358c98d839df	The Dandy Warhols	http://twitter.com/theDandyWarhols
+0bfba3d3-6a04-4779-bb0a-df07df5b0558	Stereophonics	http://twitter.com/stereophonics
+da90427c-0699-4a6a-845f-c3fb56b43706	The Independents	http://twitter.com/independents92
+8475297d-fb78-4630-8d74-9b87b6bb7cc8	of Montreal	http://twitter.com/XXOFMONTREALXX
+4f6dd51e-bfd7-4153-ace7-9316d1757a57	Roots Manuva	http://twitter.com/rootsmanuva
+8b20ad3e-925f-4274-9b9a-06eea76b7ccb	Arthur Louis	http://twitter.com/arthurlouis
+78f797e3-4913-4026-aad0-1cd858bd735b	Bright Eyes	http://twitter.com/#!/brighteyesband
+84eac621-1c5a-49a1-9500-555099c6e184	Spoon	http://twitter.com/SpoonTheBand
+f66d71fd-ccd7-4426-8781-b75b9e390f74	Bill Lloyd	http://twitter.com/blloyd
+6cf63e15-aa3f-4b18-bbf7-f318a63ce4a2	Peter Himmelman	http://twitter.com/peterhimmelman
+066e598e-baa0-4e34-b511-c70bcec6f783	Toadies	http://twitter.com/thetoadies
+d01185da-21e0-4d86-a53a-3aa87d85b89e	Ganz Schön Feist	http://twitter.com/ganzschoenfeist
+a7409219-a681-4072-adb2-5285106ce6f2	The The	http://twitter.com/thethe
+3cd18a93-1797-4bbb-9b8a-c096d5e7864c	Amy Grant	http://twitter.com/amygrant
+3533dea4-218c-4fc9-ab6e-2e3dc0ffde6e	Pete Yorn	http://twitter.com/PeteYorn
+9beb62b2-88db-4cea-801e-162cd344ee53	Beastie Boys	http://twitter.com/beastieboys
+883ece23-2779-4091-b527-62eb07ee79d4	Goran Bregović	http://twitter.com/goranbregovictw
+3faa019a-ad91-4ddf-87d5-fdcbdfd8327c	Jerry Jeff Walker	http://twitter.com/jerryjeffwalker
+f4d5cc07-3bc9-4836-9b15-88a08359bc63	P!nk	http://twitter.com/Pink
+ca891d65-d9b0-4258-89f7-e6ba29d83767	Iron Maiden	http://twitter.com/ironmaidenfc
+efa2c11a-1a35-4b60-bc1b-66d37de88511	DJ Shadow	http://twitter.com/djshadow
+9bacf78f-9132-43da-8873-8a9eb49da0e9	Alejandro Sanz	http://twitter.com/AlejandroSanz
+ea4dfa26-f633-4da6-a52a-f49ea4897b58	R.E.M.	http://twitter.com/remhq
+a3212186-5da5-4e84-a935-6952b3e14921	Os Mutantes	http://twitter.com/osmvtantes
+9dc9f4b0-a7b4-43c5-8f6b-fcd43c426a4b	Mandy Moore	http://twitter.com/TheMandyMoore
+d5be5333-4171-427e-8e12-732087c6b78e	The Black Eyed Peas	http://twitter.com/bep
+8a75ce0d-1df3-47cc-b076-ce2f4e8250f0	Ice-T	http://twitter.com/FINALLEVEL
+2095b935-2007-4ae0-a48a-ef4d6fc3aac0	Photek	http://twitter.com/photek
+f59c5520-5f46-4d2c-b2c4-822eabf53419	Linkin Park	http://twitter.com/linkinpark
+3414d446-735a-443c-931f-10634f57e5b9	Usher	http://twitter.com/UsherRaymondIV
+c2b37a39-c66a-44b2-b190-a69485ae5d95	Café Tacvba	http://twitter.com/cafetacvba
+ba0d6274-db14-4ef5-b28d-657ebde1a396	The Smashing Pumpkins	http://twitter.com/smashingpumpkin
+1ac10f5e-2079-4435-b78f-dda6ecdeba15	Eve	http://twitter.com/TheRealEve
+0638ba22-040f-438d-83a5-9b670c4adaf5	Ludacris	http://twitter.com/ludajuice
+8456e9f7-debf-4579-a86c-33a325a35d2d	Chevelle	http://twitter.com/chevelleinc
+a4d62ced-2f87-488a-9c76-ab88ea7a2cbf	Pharoahe Monch	http://twitter.com/pharoahemonch
+db76c5ca-d555-4f09-b1db-baa1b713d875	Mary J. Blige	http://twitter.com/MARyJBLiGE
+9f5a87ec-0201-45ba-8b03-3b9e0b50a112	Tom McRae	http://twitter.com/tommcrae
+35581de7-591f-424f-9c64-7b22fd45605e	Sportfreunde Stiller	http://twitter.com/sportfreunde
+13655113-cd16-4b43-9dca-cadbbf26ee05	Nelly Furtado	http://twitter.com/nellyfurtado
+2fddb92d-24b2-46a5-bf28-3aed46f4684c	Kylie Minogue	http://twitter.com/kylieminogue
+52f2c49e-43c4-4716-bf4a-0eac1c651d3a	Die Sterne	http://twitter.com/Die_Sterne
+bc3d74c5-9328-4a1b-8014-3ecdb3dababe	Nitin Sawhney	http://twitter.com/thenitinsawhney
+324db1e6-1ec6-415c-ae5f-903b78513d3f	Eddie Izzard	http://twitter.com/eddieizzard
+8e68819d-71be-4e7d-b41d-f1df81b01d3f	50 Cent	http://twitter.com/50cent
+bbc5b66b-d037-4f26-aecf-0b129e7f876a	Jimmy Eat World	http://twitter.com/jimmyeatworld
+24cac374-29bd-499f-a0f8-72165d2f2f43	Midge Ure	http://twitter.com/midgeure1
+d70416d3-c006-4a8b-aebd-91a4f198591f	The Donnas	http://twitter.com/the_donnas
+5dca4d22-d6c8-4e70-8ca1-4543e43353c7	Kenny Chesney	http://twitter.com/KENNYCHESNEY
+7b885d42-3c41-4f43-9944-a5855ec5155e	Goldfrapp	http://twitter.com/goldfrapp
+da014b60-38aa-422c-9f65-e3f0bd0e39c2	Rodgau Monotones	http://twitter.com/rodgaumonotones
+0039c7ae-e1a7-4a7d-9b49-0cbc716821a6	Death Cab for Cutie	http://twitter.com/dcfctours
+29e9c7d7-e79a-41d5-a255-c19ff04d5065	Hubert-Félix Thiéfaine	http://twitter.com/hfthiefaine
+e21857d5-3256-4547-afb3-4b6ded592596	Gorillaz	http://twitter.com/gorillazband
+0b4f226d-3d6b-4aa1-ae8c-127e5d9475e5	Turntablerocker	http://twitter.com/ttr_official
+6e650a01-6489-4dc8-85e1-8ec809dd72a2	Saliva	http://twitter.com/saliva
+8ef1df30-ae4f-4dbd-9351-1a32b208a01e	Alicia Keys	http://twitter.com/aliciakeys
+87081e94-32b2-4112-a656-85ca6fc803c6	Jody Marie Gnant	http://twitter.com/jodyg
+a344d1d3-bc5e-4a59-95f1-814999d009ac	Alizée	http://twitter.com/mellealizee
+8ac6cc32-8ddf-43b1-9ac4-4b04f9053176	Alien Ant Farm	http://twitter.com/alienantfans
+d12b5853-71eb-41d9-8d18-a4259477848a	Swing Out Sister	http://twitter.com/swingoutsister
+43e9fa3d-6b16-4595-8cf6-323c93d4d80d	Jingle Cats	http://twitter.com/jinglecats
+0c98815e-054c-48c4-b3f7-e0fe0dff548a	Shihad	http://twitter.com/Shihad_Band
+337e30b6-3dbe-44f2-a3fd-84a80abdb5a1	Blutengel	http://twitter.com/_Blutengel
+131153ae-1455-48fc-9c30-6074ae5f158e	Anthony Robbins	http://twitter.com/#!/tonyrobbins
+9ff60a50-6288-4b46-8b69-75877450d282	Plastilina Mosh	http://twitter.com/plastilinamosh
+51b7f46f-6c0f-46f2-9496-08c9ec2624d4	Ben Folds	http://twitter.com/BenFolds
+50f10489-c87e-4df3-800f-be1f8d6bda4b	Sebastian Bach	http://twitter.com/sebastianbach
+49c4378b-3c36-4c5a-8999-8d936e74f39b	The Divine Comedy	http://twitter.com/divinecomedyhq
+280ddd36-ac7d-4446-8689-a548d6f3458e	Keb' Mo'	http://twitter.com/kebmomusic
+0f96c38b-8e21-4571-afe0-cb11196a8acd	Gossip	http://twitter.com/GossipMusic
+ff460a70-fdf4-4aa2-b021-8a04da76d88e	Puddle of Mudd	http://twitter.com/pdlofmudd
+7d1118da-9f27-4ed1-93a7-210f8d5cb7a6	David Usher	http://twitter.com/davidusher
+bba11721-9195-4a6c-8218-a128c9ef5846	松居慶子	http://twitter.com/keikomatsui
+afb6453b-7b86-4f12-a234-f4bb3e78f52c	CoLD SToRAGE	http://twitter.com/coldstorage
+eace2373-31c8-4aba-9a5c-7bce22dd140a	Within Temptation	http://twitter.com/WTofficial
+144ef525-85e9-40c3-8335-02c32d0861f3	John Mayer	http://twitter.com/johncmayer
+c80f38a6-9980-485d-997c-5c1a9cbd0d64	Ryan Adams	http://twitter.com/theryanadams
+6fea1339-260c-40fe-bb7a-ace5c8438955	Lacuna Coil	http://twitter.com/shallowlife
+74508b04-b376-4f38-966c-f16d53eab3de	Dover	http://twitter.com/dover_oficial
+773af101-792f-48b8-a588-09a07cff5e53	Sara Evans	http://twitter.com/saraevansmusic
+9d30e408-1559-448b-b491-2f8de1583ccf	Dark Tranquillity	http://twitter.com/dtofficial
+93e8c41e-8e4f-4d08-bbf5-bc1a903b2423	Devin Townsend	http://twitter.com/dvntownsend
+3cef89c4-efca-4160-8741-82999cf5ee56	Eligh	http://twitter.com/therealeligh
+8d6a4455-1ae8-4e51-a481-08a85cb0141a	DJ Ötzi	http://twitter.com/dj_oetzi
+ec7bd678-53d1-4ad4-8e59-639ce44f583f	Axxis	http://twitter.com/Axxisworld
+3697647f-1839-479e-98a1-9ad39004d923	The Rapture	http://twitter.com/ITSTHERAPTURE
+3bcff06f-675a-451f-9075-99e8657047e8	Four Tet	http://twitter.com/fourtet
+83998f9c-846b-4294-aede-d7735531c901	Edguy	http://twitter.com/_edguy
+bbd2242b-1e2c-49e6-9572-652fee7f8ed0	D:Ream	http://twitter.com/d_ream
+3c84773a-7885-4aa1-9af5-d7323a83bb9b	The Saw Doctors	http://twitter.com/sawdoctors
+ea65e66b-c6ba-465a-ba18-380423b173b4	Kemopetrol	http://twitter.com/kemopetrol
+f114b6c4-78f7-45d2-ae73-001e2a77ab9f	Emil Bulls	http://twitter.com/EMILBULLS
+6ec7336b-a56a-4b5d-bcec-575d2b8ed4e1	Roger McGuinn	http://twitter.com/rogermcguinn
+6b77fc81-cc4f-4c31-bb4a-dc97cbd284f7	So Solid Crew	http://twitter.com/OFFICIALSOSOLID
+4cab12f3-af12-4a55-ade2-606bd9524425	Dannii Minogue	http://twitter.com/DanniiMinogue
+28932069-7965-4c78-b67a-5c917057f30f	Merzhin	http://twitter.com/Merzhinofficiel
+3ee6c983-4d00-4ef0-85c7-419433e71129	Landslide	http://twitter.com/landslide
+29b550f2-04a3-4733-b6f5-4e347fac7e11	Charlie Brown Jr.	http://twitter.com/cbjroficial
+3864b9cc-05f3-4478-a02e-18504b3dfa33	Ilse DeLange	http://twitter.com/ilsedelange
+4df5d35b-a9d4-4d4f-91f6-bae55693de31	Zebrahead	http://twitter.com/zebrahead_twits
+6688577a-b211-473e-b97a-66b98f1259eb	Hi-Fi	http://twitter.com/group_HiFi
+6f607087-9c46-4bb2-a884-e4efc764554c	The Streets	http://twitter.com/skinnermike
+ff9deaae-da4f-42b7-a19e-36fedd3fc706	Ben Kweller	http://twitter.com/benkweller
+47d5e136-57cc-4a82-9263-c5ec5ab7e2ee	Wynonna	http://twitter.com/WynonnaMusic
+979d01bc-a4da-4c80-8cc1-be40bd35cd5e	Gustavo Cerati	http://twitter.com/cerati
+a47ed6d5-480e-428c-8ce9-d7a6a571e857	Ashanti	http://twitter.com/ashantithisisme
+43024b74-34df-4520-87f9-a579a4a56db4	Lovebugs	http://twitter.com/lovebugsmusic
+83237b6a-be97-4fdb-ba53-bc979721987f	Abandoned Pools	http://twitter.com/abandonedpools
+2a7fb97d-b2fe-4fdc-ac40-e283050aebe9	downhere	http://twitter.com/downhere
+ca37b54d-a509-4f18-91b4-d083d76fd4fa	Die Happy	http://twitter.com/realdiehappy
+584c04d2-4acc-491b-8a0a-e63133f4bfc4	Yeah Yeah Yeahs	http://twitter.com/YYYs
+746737be-e792-42bb-b18c-fb46d7935d7a	Finch	http://twitter.com/OfficialFinch
+b324dcad-82fa-4fe2-9a97-26fff814d36e	B.U.G. Mafia	http://twitter.com/bugmafia
+03df376e-f696-4df0-a8e4-3bbc9c8c1c5d	4LYN	http://twitter.com/follow4lyn
+2ad66473-ccb3-41d2-8756-b56680cdfe62	Blake Shelton	http://twitter.com/BLAKESHELTON
+8315641a-6dca-40fd-a893-d247e4db84c3	17 Hippies	http://twitter.com/17hippies
+ca7ce20f-c735-4ad9-b664-d8d83b3c7948	The Dears	http://twitter.com/thedears
+b332473e-a39d-4b39-968a-635119a1de35	Catamenia	http://twitter.com/catameniaband
+350bce49-c21b-4137-b50a-0766ded07e4d	Taking Back Sunday	http://twitter.com/tbsofficial
+247b7af7-e63e-49f1-bfab-206cd4314768	Chino XL	http://twitter.com/CHINOXL
+38e2bd6c-c8f0-4e63-ae1e-ccbd2e085772	Banda Eva	http://twitter.com/#!/grupoeva
+8b70ea26-5c2a-4101-bca6-6b74752a64bb	Blueprint	http://twitter.com/printmatic
+4a4ee089-93b1-4470-af9a-6ff575d32704	The Prodigy	http://twitter.com/THE_PRODIGY
+ad92dd9c-56ef-4443-b2c0-ff2f7d9cca49	The Sounds	http://twitter.com/thesounds
+33c2a158-a788-44e5-81ab-142d544a165b	Antibalas	http://twitter.com/antibalas
+496bd9bb-902a-49ed-9aba-edf430762a14	Agnes Chan	http://twitter.com/agneschan
+0103c1cc-4a09-4a5d-a344-56ad99a77193	Avril Lavigne	http://twitter.com/AvrilLavigne
+ba23bac1-2b00-43fb-95e5-c3c0fd286e7e	Inon Zur	http://twitter.com/inonzur
+fb56cc34-2ab1-4621-ac18-9bf2895e5f4f	Graham Coxon	http://twitter.com/grahamcoxon
+6e891631-d99c-4768-8bc2-5e5feb42881c	Mike Patton	http://twitter.com/michael_patton
+f3bcf7b3-be33-493b-8557-b201b3567828	Mike Doughty	http://twitter.com/Mike_Doughty_
+b3c94036-6166-41d2-91a2-dc3a0b5fa188	Q-Tip	http://twitter.com/qtiptheabstract
+8b0f05ce-354e-4121-9e0b-8b4732ea844f	Juanes	http://twitter.com/juanes
+fefbecd0-0314-4af5-b9c8-a6893175fdf9	Driver	http://twitter.com/DRIVERMC
+94b505c0-31a8-4900-96f1-da3a163864c4	Electrasy	http://twitter.com/electrasy
+442e5e86-6151-41a4-bb6d-2e97b62f5e38	Outlandish	http://twitter.com/outlandishDK
+3a2f09c1-fb16-4a98-9dd6-3c67e40d70e8	Pastora Soler	http://twitter.com/#!/pastorasoler
+d6a0bda7-e864-49d4-8127-1687276316f1	Esa Ruoho	http://twitter.com/esaruoho
+7ed8ab11-74e7-4ecc-beaf-73feb3ab6c44	Tuck & Patti	http://twitter.com/tuckandpatti
+d13f0f47-36f9-4661-87fe-2de56f45c649	Tegan and Sara	http://twitter.com/teganandsara
+e6424fa5-08d3-41c6-96f3-8549f733708c	Clipse	http://twitter.com/theclipse
+fbcd7b29-455f-49e6-9c4f-8249d20a055e	Seether	http://twitter.com/seetherofficial
+b23e8a63-8f47-4882-b55b-df2c92ef400e	Interpol	http://twitter.com/interpol
+c854e1fa-5063-4a74-ac5a-59e8a88ecd2c	Makoto	http://twitter.com/humanelements
+d553e89c-3c2a-4f10-9ce1-9eaa74de0129	Ivete Sangalo	http://twitter.com/#!/ivetesangalo
+d8354b38-e942-4c89-ba93-29323432abc3	30 Seconds to Mars	http://twitter.com/30SECONDSTOMARS
+606bf117-494f-4864-891f-09d63ff6aa4b	Rise Against	http://twitter.com/riseagainst
+1c70a3fc-fa3c-4be1-8b55-c3192db8a884	Röyksopp	http://twitter.com/royksopp
+8262d8e4-9137-4bb3-a787-3caabbbc13e9	The Used	http://twitter.com/wearetheused
+30e8e6e2-7b79-4eef-ba91-8435d4ba0fac	Butch Walker	http://twitter.com/butchwalker
+0e0dd9da-5878-4c46-9a9a-6df43abb5c96	Hot Hot Heat	http://twitter.com/HotHotHeat
+891abb2e-0156-411b-bf60-f4104e71ddfa	SMiLE.dk	http://twitter.com/smiledkmusic
+0b0c25f4-f31c-46a5-a4fb-ccbf53d663bd	Jon Hopkins	http://twitter.com/Jon_Hopkins_
+892500b7-09a6-4049-ba92-2d192dd70563	Biffy Clyro	http://twitter.com/biffy_clyro
+f751d19a-e5d5-48b2-8308-f5df37933aa0	Chris T-T	http://twitter.com/christt
+1d4762ed-85e1-4684-8409-beeb00977d1a	Jill Tracy	http://twitter.com/jilltracymusic
+ea3b707a-7616-487f-a7d7-81ac947fd146	Signum	http://twitter.com/signumofficial
+ed46f02c-0801-40f1-872c-5259ce334476	Klee	http://twitter.com/kleemusik
+a619471e-ee2f-430f-b57b-262f94457559	Elza Soares	http://twitter.com/elza_soares
+41bc5842-c4e1-439e-a784-98a7f11dbd27	Poly Styrene	http://twitter.com/#!/poly_styrene
+2f354cca-0eba-46e2-a716-96f14f47865a	Mike Batt	http://twitter.com/Mike_Batt
+596ffa74-3d08-44ef-b113-765d43d12738	Justin Timberlake	http://twitter.com/jtimberlake
+01252145-c9e8-4de5-a480-9b2bed05450a	Émilie Simon	http://twitter.com/emiliesmusic
+5eaf11c4-12bf-4545-929b-76f2e03ca208	John Vanderslice	http://twitter.com/johnvanderslice
+ac9a487a-d9d2-4f27-bb23-0f4686488345	Lil Wayne	http://twitter.com/liltunechi
+f9113809-1403-4575-8c20-61bfa96b48db	Skunk D.F.	http://twitter.com/skunkdf
+99ba08b9-433e-440b-b901-87736c90562f	Circle Takes the Square	http://twitter.com/#!/circletweets
+4c61c6e4-b8d2-45b5-b31a-ab064f5ef9f4	Carlinhos Brown	http://twitter.com/carlinhosbrown
+ada1a988-1510-45e8-9cb2-268a36d19d5a	Margareth Menezes	http://twitter.com/#!/magaafropop
+89d7b859-e989-4e05-bfb3-884befdcdb35	Sita	http://twitter.com/Sitamusic
+7d7fd458-5486-4fb6-a8f8-f9eefe4ca68d	Moenia	http://twitter.com/MOENIAMX
+698ff525-ff51-4206-8f08-60a7458aab24	Swizz Beatz	http://twitter.com/therealSwizzz
+8a27b390-5306-489d-a459-f48c1431ca68	Michael Woods	http://twitter.com/michael_woods
+5e7a7026-dfc5-4aba-8496-95140716f3db	Slash	http://twitter.com/slash
+79255a50-40df-447f-9612-2cf669080196	The Raveonettes	http://twitter.com/theraveonettes
+e2a02b0b-ce39-46d8-82fb-2a0fdeff929e	Urban Species	http://twitter.com/URBAN_SPECIES
+1b3e92d4-1c68-412d-a92d-1172f24f7de3	Aqualung	http://twitter.com/aqualungmusic
+69aa17d9-b9b0-433b-b81d-0033e6f9b7fd	Drunken Tiger	http://twitter.com/drunkentigerjk
+f4a31f0a-51dd-4fa7-986d-3095c40c5ed9	Evanescence	http://twitter.com/evanescence
+7cf0ea9d-86b9-4dad-ba9e-2355a64899ea	M.I.A.	http://twitter.com/_m_i_a_
+756cf672-d4ae-4470-a3af-a43d776a211d	Saul Williams	http://twitter.com/saulwilliams
+dea28aa9-1086-4ffa-8739-0ccc759de1ce	Berliner Philharmoniker	http://twitter.com/BerlinPhil
+184699cd-f489-463a-95c3-f2f72d6fd92a	Neil Halstead	http://twitter.com/neilhalstead
+0ab49580-c84f-44d4-875f-d83760ea2cfe	Maroon 5	http://twitter.com/maroon5
+2bf3971e-8595-4bd2-aace-8a71c42afb66	Kano	http://twitter.com/therealkano
+74ba575f-3420-4d62-8e48-ac473d3c4282	Klaus Badelt	http://twitter.com/kbadelt
+1f064e2d-aa55-4631-8f62-e2c14bbe1f4e	Vitalic	http://twitter.com/vitalicofficial
+3cf02d78-2f60-4e82-8252-ec080941a00f	Deep Dive Corp.	http://twitter.com/deepdivecorp
+82eb8936-7bf6-4577-8320-a2639465206d	Jason Mraz	http://twitter.com/jason_mraz
+b55f7b2e-3310-4eaf-94e1-9b21ba5ee1e1	M.A.N.D.Y.	http://twitter.com/dj_m_a_n_d_y
+bef3df97-224c-4d3c-b09f-4cefb941dedf	Jürgen Drews	http://twitter.com/onkeljuergen
+a4cda071-2ba4-4fa9-a50d-4378c408676d	古代祐三	http://twitter.com/yuzokoshiro
+49a5f5b9-44f3-4db2-a9a8-db8773de4edc	Asura	http://twitter.com/asuracfarewell
+20883363-1ea4-4d72-ad72-c0e767038f3e	The Mars Volta	http://twitter.com/themarsvolta
+601f8530-9009-4f73-94fb-a355b4497b70	Julieta Venegas	http://twitter.com/julietav
+853dbc3e-8e00-4a1c-a2c4-8153eaa96e85	Jenifer	http://twitter.com/jeniferofficiel
+4236d929-9a81-4c8e-97c3-8d3306780f50	Scissor Sisters	http://twitter.com/scissorsisters
+7a025186-92ea-40b4-8a9a-a6e452754033	Dynamix II	http://twitter.com/dynamixii
+2ceb4e66-4eaa-4dba-ad3a-30df3b742557	Natalia Lafourcade	http://twitter.com/lafourcade
+3575a514-ef96-41a0-adc2-c5ed5827d8e7	Nolwenn Leroy	http://twitter.com/Nolwennleroyoff
+2b64e811-cbcd-45f7-b29d-296444cad4f1	múm	http://twitter.com/mumtheband
+82d2c56e-cf05-4dfa-b962-58b09e6c5ebd	Volker Rosin	http://twitter.com/volkerrosin
+d6215935-98cf-464d-93bb-cc5fd58518bd	Nick Cannon	http://twitter.com/NickCannon
+d40a1b3b-f230-46b2-92b5-921fdf1335b0	Neil Hamburger	http://twitter.com/Neil_Hamburger
+328d146c-79f1-4eb6-9e40-8ee5710c14e5	Imogen Heap	http://twitter.com/imogenheap
+6f11f22e-2a8f-48cc-b1b3-79760d317f76	松浦亜弥	http://twitter.com/matsuura_aya
+80fe34d0-6b4f-4ccd-81c3-281ab37f0451	Angélique Kidjo	http://twitter.com/angeliquekidjo
+4e36d06c-40bf-41cc-9644-0763acaab1d7	Maia Sharp	http://twitter.com/maiasharp
+2eada8f8-056a-4093-bbc2-004909ce743b	Broken Social Scene	http://twitter.com/bssmusic
+63829fad-a23b-45d9-bd0c-7486558a1399	Barrington Pheloung	http://twitter.com/bpheloung
+9c71481b-1375-401f-af4a-31dd347c15e1	DJ Digress	http://twitter.com/DJDIGRESS
+5156bb2c-45d7-4660-8234-4d84452c93e1	Jesper Kyd	http://twitter.com/jesperkyd
+82315599-2215-4c3e-a36f-87be58d06ec0	J Mascis	http://twitter.com/jmascis
+950e5ae2-2d7d-46de-9ed8-5e9d5617bbab	Andy Hunter°	http://twitter.com/ANDYJHUNTER
+199d0ab3-22c0-4c00-b99d-257f591dda1f	Funeral for a Friend	http://twitter.com/ffaf
+b0b33754-a664-43b7-ba00-be0dc4ec2396	Yoko Ono	http://twitter.com/yokoono
+003b2747-b74a-46c1-a51e-aeaffe88256c	Erdmöbel	http://twitter.com/erdmoebel
+07aaebd9-0c37-4a65-80c8-48ae7cc99337	Dwight Twilley	http://twitter.com/#!/DwightTwilley
+353856b7-8d79-4136-9ac6-7e47954e5be9	John B	http://twitter.com/johnbbeta
+fd655963-c774-4ef2-b683-5fb73235ef40	Elba Ramalho	http://twitter.com/#!/elbaramalho
+0408fd4e-b098-43a0-91e6-681a704dee4d	Trijntje Oosterhuis	http://twitter.com/Trijntje_O
+53900ab1-8a1c-443c-b552-b53e6b52b3b7	CLS	http://twitter.com/djtoddterry
+24d3c205-7263-4bbf-aa7d-2057298730f2	Apparat Organ Quartet	http://twitter.com/ApparatOrgan
+664c3e0e-42d8-48c1-b209-1efca19c0325	The National	http://twitter.com/The_National
+caba22ae-1ef8-4778-9148-074d24d8ce35	Raul Paz	http://twitter.com/raulpazofficiel
+15f48f68-b87c-4824-8f16-db300b996b72	Sorriso Maroto	http://twitter.com/sorrisomaroto
+d530dad4-81e5-4874-808a-d708039289fb	Gavin Rossdale	http://twitter.com/GavinRossdale
+2aaf7396-6ab8-40f3-9776-a41c42c8e26b	LCD Soundsystem	http://twitter.com/lcdsoundsystem
+aa171050-89fe-437e-974d-9a38cc683434	Kingsley	http://twitter.com/kingsleyband
+4a438422-be3a-4359-98de-4d1d62ae1860	Matthew Ryan	http://twitter.com/MatthewRyan101
+e105c272-b5d7-4135-82ef-d60bded54345	The Wombats	http://twitter.com/thewombats
+90330a83-5547-491e-b83c-d10858e6073f	Michel Polnareff	http://twitter.com/michelpolnareff
+78404fdf-23b4-465e-ab02-21adf9ad6d28	Autolux	http://twitter.com/autolux101
+f6dc7cce-1e39-40cd-abaa-08e230dd454b	Catherine Ferry	http://twitter.com/catherineferry
+6c11d222-c84b-43c7-8646-b88d35c09268	Endymion	http://twitter.com/endymionmusic
+81711b10-abb9-42e8-850f-88d5dc8d665f	Lockstoff	http://twitter.com/lockstoffband
+3cbfd3e3-6d9b-4327-84ba-42cf646c98f9	Billy Corgan	http://twitter.com/Billy
+f87b740a-c22b-4fae-9987-1f3e16f840c4	Sugarland	http://twitter.com/sugarlandmusic
+81fda97d-5170-4a9b-a431-44baac75b58d	Jürgen	http://twitter.com/bbjuergen
+4c1bc698-088f-41d6-84f6-b9378f752d9c	Nick Harper	http://twitter.com/NickHarperNews
+cef9233d-78ef-41d5-9bac-f2ca21aa4a40	Poisonblack	http://twitter.com/officialpb
+1a99cc88-aea3-4fe3-96b9-20791667f65f	Dizzee Rascal	http://twitter.com/DizzeeRascal
+3dfb71a2-2e06-4a69-8839-3e1fc07e92ea	k-os	http://twitter.com/koskhv
+3dfb71a2-2e06-4a69-8839-3e1fc07e92ea	k-os	http://twitter.com/kosinception
+61513925-697a-4404-a428-521dbf3357ea	Campo	http://twitter.com/Campomusic
+593a682a-4161-4d62-a60a-5007d8d55d79	Luciano Supervielle	http://twitter.com/lsupervielle
+07f59ab8-32ff-48ad-a9ff-866078e1a2d5	Gothminister	http://twitter.com/gothminister
+889b69e3-7b18-4889-b953-9f2931597204	High Contrast	http://twitter.com/linkcontrast
+c3c82bdc-d9e7-4836-9746-c24ead47ca19	Mark Ronson	http://twitter.com/iamMarkRonson
+46f6013f-35b8-4df0-9449-abe41dc859b5	Nil Karaibrahimgil	http://twitter.com/niltakipte
+ad608e84-8686-41a0-9cfd-d303ba7d9aaa	Jason Webley	http://twitter.com/jasonwebley
+3097f3f8-784b-4e91-becd-834c8bc5c8b1	Luka	http://twitter.com/luka_acauan
+cda86e8a-a26a-4b3a-959c-bc9f8a88a1c1	Nando Reis	http://twitter.com/nando_reis
+63b43c69-b822-4268-bdad-bcde12531f50	Lindsay Lohan	http://twitter.com/lindsaylohan
+463c514e-c30d-4a2a-a87b-762535253a80	Ashlee Simpson	http://twitter.com/ashsimpsonwentz
+30436682-edb0-4a1c-b15c-4a34f0b5c81b	Daniel Küblböck	http://twitter.com/kueblboeck
+0c6b687a-1225-47a1-b6a9-55381755ecf4	HORSE the band	http://twitter.com/horsetheband
+3c12ecf2-91da-4d4a-8462-e4d5d9e273e7	Maria Rita	http://twitter.com/mroficial
+4d179bc2-4242-4040-aaeb-4368c6c5a53d	Blacklist	http://twitter.com/BlacklistNY
+2be7b462-382f-4dd4-a635-99c4801dcd39	Superbus	http://twitter.com/superbusmusic
+ca0cf630-5aa9-4e60-b49c-9bb4b049a309	Stefie Shock	http://twitter.com/stefieshock
+ab309b83-904f-4e2c-8d11-a0223bba51f9	DIR EN GREY	http://twitter.com/direngrey_web
+3fa7095b-4447-465e-a784-14b07789d7a1	hellogoodbye	http://twitter.com/itshellogoodbye
+d7ab5dd4-9923-4e3f-b8ac-ae028cdfb167	Malcolm Middleton	http://twitter.com/m_middleton_UK
+13246906-ec3b-4ec5-bc2f-f7ca802facea	Bushido	http://twitter.com/Bushido78
+b10806de-2198-4313-af6a-13df4acb912f	Jamie Cullum	http://twitter.com/jamiecullum
+107c7983-0728-46ea-8550-77e698adf690	The Dresden Dolls	http://twitter.com/DresdenDolls
+dc19ac9b-9b65-4bb0-8871-163ace14618a	Lost Soul	http://twitter.com/lost_soul_band
+9df31471-e54e-43ba-bbe8-38fd94c63dbb	Shearwater	http://twitter.com/ShearwaterBand
+ccd1dd44-141b-4b76-88e4-3c7b12f516f9	Yfriday	http://twitter.com/yfriday
+98c0eed5-5a33-4cc8-b785-9fa26db868ab	Curt Smith	http://twitter.com/curtsmith
+bdeb87af-e850-4d71-a0d4-92e133fdc04e	Hattler	http://twitter.com/HATTLER
+8ad34646-2184-42f4-8182-60d0b0926ccd	Printed Circuit	http://twitter.com/printedcircuit
+f91b9b28-25b7-4064-81d1-f43163085770	Мумий Тролль	http://twitter.com/MumiyTroll_
+11918eb2-ac9a-4db9-8ae6-18730e20c1d6	Willy Michl	http://twitter.com/isarindian
+f6729db6-b0a1-45a4-96d2-009c8e0dd35e	Desdemona	http://twitter.com/Desdemonapl
+e1410ddc-9745-4b5d-814d-77eb0cdfa6ad	高橋幸宏	http://twitter.com/room66plus
+9c8b5123-d994-4c0c-85c0-465636ae241e	B-Real	http://twitter.com/B_Real420
+2950968a-c34f-48e2-b88f-787befc25c3b	Loyiso	http://twitter.com/loyisomusic
+40fa3a53-cfef-4294-8aa7-b03f06e8277f	Lasse Lindh	http://twitter.com/lasselindh
+030e3e72-e3b7-4707-957a-b5ed835b7e15	DJ Oxide	http://twitter.com/DJOxide
+6d7a0609-01e7-4c7c-a604-d98fea333533	Nils Wülker	http://twitter.com/nilswuelker
+5cad62bb-d08e-4ed7-9b22-7c2026587fc4	Cali	http://twitter.com/caliofficiel
+14d78134-bb77-4c1e-8c9b-b74284abf1cc	Belinda	http://twitter.com/belindapop
+0171668b-ba7a-4cef-8a28-22aa782dd56c	Zoë Keating	http://twitter.com/zoecello
+bd3b1f63-946b-400f-acd1-cac0c1aa2115	Robots in Disguise	http://twitter.com/WeRTheRobots
+90ba97be-5daf-4365-8704-9a74b780591b	Agoria	http://twitter.com/agoriamusic
+9ca3ed7d-9573-49e1-856c-584442dde215	Carina Round	http://twitter.com/carinaround
+1f336376-2dca-4e6f-9714-68f2b92ef13b	DJ Delicious	http://twitter.com/DjDeliciousLIVE
+4d56eb9f-13b3-4f05-9db7-50195378d49f	David Rovics	http://twitter.com/drovics
+2a9ea5bf-fc08-4fbc-ab73-17afa7906a52	Annie	http://twitter.com/annieponannie
+b8e2ac00-21c7-4fa8-a612-774d0caf9000	Desert Planet	http://twitter.com/desertplanet
+a0f7a7d5-33fa-43ae-98b2-6aea41aa9f64	Scout Niblett	http://twitter.com/scoutist
+28bacb90-e70f-4219-b6e9-5ce0149facff	J.Viewz	http://twitter.com/jviewz
+d7916dc0-1f58-4a41-968d-d5692e2e492e	Christina Stürmer	http://twitter.com/officialcs
+31eee448-f9c7-4ea6-9a06-d82897813aeb	Danila	http://twitter.com/danila
+592b9a1b-b900-4c1a-a165-bd7e7ce87d23	Groundation	http://twitter.com/groundation707
+d6b9bc68-dcf7-4ec1-8416-a7f046e9354c	Sabi	http://twitter.com/taropeterlittle
+d98878ec-110e-4dd3-8796-ebb55bd80398	Izzi Dunn	http://twitter.com/izzidunn
+8c538f11-c141-4588-8ecb-931083524186	Bloc Party	http://twitter.com/thisisblocparty
+98c02872-ea66-410b-8179-d37097bac8d9	The Vegetable Orchestra	http://twitter.com/vegetableorch
+08c45854-c1a3-44ae-8050-6d3ad524418d	DJ Almklausi	http://twitter.com/almklausi
+560910ec-0124-4d7b-9295-be0e6e4055f9	Richard Marvin	http://twitter.com/harmonusik
+e0b6eb89-0768-41e9-b647-68e6b3ae9b3d	田村ゆかり	http://twitter.com/yukari_tamura
+39c346d7-c098-4b04-ab74-62d59fe4070b	Fred Durst	http://twitter.com/freddurst
+656a7ed6-fb23-4bc3-a7f2-90406ca86fc9	Nokturnal Mortum	http://twitter.com/nokturnalmortum
+e13e44ef-5b8c-46f9-ba91-dc66f4954f16	Lobelia	http://twitter.com/lobelia
+c7e90641-f441-4801-8e4a-d09e10f452b8	Ill Bill	http://twitter.com/ILLBILL1972
+7cb38ec6-00d2-42e2-9b32-913faaf6d175	Pitty	http://twitter.com/pittyleone
+4ac4e32b-bd18-402e-adad-ae00e72f8d85	Patrick Wolf	http://twitter.com/#!/_PATRICK_WOLF
+6fe25812-9155-43a1-b5af-8371f90a4f59	mind.in.a.box	http://twitter.com/_mindinabox
+0c3b764b-c633-4270-a13c-b04a8705cf46	Solitary Experiments	http://twitter.com/solitaryex
+0d4be665-5d8b-475c-ad74-5a830e4427f2	Hellmut Hattler	http://twitter.com/HellmutHattler
+509f20b2-5df3-4aec-9bbc-002131fb3f99	Max Richter	http://twitter.com/maxrichtermusic
+ee74192c-d21f-4de7-83e5-eed93e07ac07	El Canto del Loco	http://twitter.com/elcantodelloco
+d0f61299-9caa-4e6b-8b10-2839de120b27	Wiley	http://twitter.com/WileyArtist
+a56bd8f9-8ef8-4d63-89a4-794ed1360dd2	Diplo	http://twitter.com/diplo
+77ad47f8-7d53-4ae8-9716-a99f3dc375a6	Armin Metz	http://twitter.com/arminmetz
+fe8c4eb3-9f83-47e5-8bef-3547e684b162	end of green	http://twitter.com/end_of_green
+f73b2b70-33d5-4118-923b-05ba8ad7e702	The Kleptones	http://twitter.com/kleptones
+a61c2a08-e7d6-4672-9307-0b6ff0bc7136	Aextra	http://twitter.com/aextramusic
+39153756-5ffa-42a1-9b97-0468839021c3	Belanova	http://twitter.com/Belanova
+ef6e2e49-aa93-41bd-89b0-8c7d2f260a83	Lostprophets	http://twitter.com/lostprophets
+dc737da0-2d56-4e51-8c0b-2b101287c85a	Don Chezina	http://twitter.com/donchezina
+e54be6b7-5c26-4b47-bb3f-c137429b9b55	Sara Bareilles	http://twitter.com/SaraBareilles
+8877610e-66bd-4bb5-ba82-e3c255ad9903	Hypnogaja	http://twitter.com/hypnogaja
+52f34f97-084d-4cb2-94c6-aa384041e022	Secret Machines	http://twitter.com/therealmachines
+0faaba05-d9b3-4bde-85d1-bbbbcb838ece	Bonnie McKee	http://twitter.com/BonnieMcKeee
+ed29398b-bbf3-42a0-8eff-8631509c271d	JoJo	http://twitter.com/JoJoistheway
+44f0cb8f-0a56-43fe-b361-294c94c4a67d	A.C. Newman	http://twitter.com/ACNewman
+0944e98f-0b9f-4574-babc-7badf4cd0f74	Король и Шут	http://twitter.com/korol_i_shut
+61dd30be-8e7b-4c85-9aa4-be66702c4644	Japanther	http://twitter.com/japanther
+7cf33179-ddf7-4870-be36-d7f698ae20ce	Glenn Aitken	http://twitter.com/glennaitken
+cabb4fcf-4067-4ba5-908d-76ee66fcf0c6	P. Diddy	http://twitter.com/iamdiddy
+0d00b498-512d-4a4d-9234-a4d710f37e6d	Ben Moody	http://twitter.com/TheBenMoody
+fa1ab6bd-bd0c-4903-97eb-4e0eed1100d0	Speech Defect	http://twitter.com/speech_defect
+9436fbf8-5498-43e9-9a8d-eccbe53df6ad	?uestlove	http://twitter.com/questlove
+8522b9b6-b295-48d7-9a10-8618fb80beb8	Battles	http://twitter.com/Battles
+c9b00c4c-44ff-47be-9fc8-5764b45cc7a3	The Duke Spirit	http://twitter.com/dukespirit
+da90b5da-349e-4906-a0b4-805f5e46190d	Midlake	http://twitter.com/MidlakeBand
+b017a7ae-e5ee-4675-bb13-c83346134971	Nouvelle Vague	http://twitter.com/nouvellesvagues
+035610f3-b143-4caf-85ca-8eb7efdae170	Paul Jackson, Jr.	http://twitter.com/pauljacksonjr
+f959a1a4-168e-4225-aa9b-d0edc5ed7bf3	Демо	http://twitter.com/sz_demo
+c7edf9a2-3754-4691-b842-f0818245c1cd	v01d	http://twitter.com/v01d
+34ac278d-bd34-4756-85a5-19130b65a3cc	Tyske Ludder	http://twitter.com/TyskeLudder
+a30afb69-42aa-4242-b1e0-41c71de5a2b0	Paula Lima	http://twitter.com/lima_paula
+87b6344f-c874-49ce-a8b3-e467ed6e05d0	Rivers Cuomo	http://twitter.com/riverscuomo
+43968c1e-dc13-4559-9568-de8372513377	Cary Brothers	http://twitter.com/carybrothers
+0d2abdda-fdf8-46c5-b0dd-bd9306f7cae8	Danger Radio	http://twitter.com/dangerradio
+8a396a9c-2e4f-47e2-a587-c26e93a0953f	The Go! Team	http://twitter.com/the_go_team
+3fd46a7c-34ad-4385-bd28-a37c2fdfb153	Тролль гнёт ель	https://twitter.com/trollbendsfir
+dc55fd0d-9dbf-4aba-8931-5f82b20125ed	SOUL FLOWER MONONOKE SUMMIT	http://twitter.com/soulflowerunion
+7d6d748f-13fc-4f9c-adc8-087d34c4bdef	Mala Rodríguez	http://twitter.com/malarodriguez
+b67babbc-b126-4e6f-996d-d1b6162e16b1	Allister Brimble	http://twitter.com/AllisterBrimble
+f6705e91-319c-4ef2-879b-4f4e670e38ee	Till Brönner	http://twitter.com/TillBroenner
+91afb013-16ee-42a1-ba7d-9f365a76477b	Bantu	http://twitter.com/#!/Bantucrew
+bb0085ff-c63b-4611-b582-40b7797d4a04	Götz Widmann	http://twitter.com/goetzwidmann
+5e23ff6c-4c77-4cb9-8d64-079aa1adcd9e	Polkaholix	http://twitter.com/Polkaholix_PHX
+59745a87-e2d6-4892-9847-5c07b2708d6b	Morningwood	http://twitter.com/morningwood
+e4d05411-9a3d-452e-8b0e-a55b86b7cf85	IAMX	http://twitter.com/IAMX
+6c3d622d-4807-4a71-8ffd-1f4b8b876da0	Klashnekoff	http://twitter.com/klashnekoff
+36fb40e7-380e-4463-bf4c-358080c11462	CRASHDÏET	http://twitter.com/crashdiet_org
+3dffd6a7-9fc6-4875-be64-f4c71e195f5c	Kontrust	http://twitter.com/kontrust
+1fda852b-92e9-4562-82fa-c52820a77b23	Pussycat Dolls	http://twitter.com/pcdmusic
+03172286-f7ed-4864-a4db-459cd5ca9790	Ciara	http://twitter.com/ciara
+20e264d7-b4d5-4e49-8931-a9c67ff07f04	The Subways	http://twitter.com/thesubways
+e6fe053e-cf77-4da8-87ff-da4ba34a2c53	Safi	http://twitter.com/diesafi
+65f083ea-dcb8-4918-a236-56a5a558bd33	Mitch Allan	http://twitter.com/MitchAllan
+29ec65e9-0dcf-4dfa-9155-7f13cef07335	Ані Лорак	http://twitter.com/AniLorak
+1c89bbcc-a253-452a-9181-546eb536e06f	Art Brut	http://twitter.com/art_brut_
+0cd12ab3-9628-45ef-a97b-ff18624f14a0	65daysofstatic	http://twitter.com/65dos
+c8bc9ad3-1df2-4c9b-9cf7-cf6fc60441dc	Emilie Autumn	http://twitter.com/emilieautumn
+e74d1be6-ed61-480f-bcbc-7f33530494fb	Alex M.O.R.P.H.	http://twitter.com/#!/alexmorph
+7f209814-e231-47f1-9a16-4f75a42d92eb	Sebastian Krumbiegel	http://twitter.com/sebkrumbiegel
+1ac710c8-2072-4736-ba33-76f79bebd012	Ali Wilson	http://twitter.com/#!/DJAliWilson
+47948cf4-1c10-4acc-a3b9-8a9cda532dfb	Frauenarzt	http://twitter.com/FRAUENARZT
+c860af48-e9c1-49cd-b441-8d18e9f522f2	Thirteen Senses	http://twitter.com/thirteensenses
+a111c7e6-bbb7-43bc-a2dd-f0aee3a592c1	J.R. Writer	http://twitter.com/THISISJRWRITER
+2d25118d-d49a-4b21-8431-00f6771d768f	Nachtmahr	http://twitter.com/nachtmahr_funk
+02389c03-98a1-420b-8fa9-323f4bd2be8a	Gubi Sandhu	http://twitter.com/GubiSandhu
+8cc8eb33-616e-4392-9fe5-28b1fd15adad	Rex the Dog	http://twitter.com/rexthedog1980
+1536bf88-dee8-444a-912d-dcc14cc17c0d	Dan Miracle	http://twitter.com/danmiraclevlv
+226ab2f2-592b-4323-94f9-5b3f0ef86158	Miranda!	http://twitter.com/esmirandamiamor
+8a7bed97-f080-4984-8db5-2ea5c82d8b33	Efterklang	http://twitter.com/efterklang
+cf23db24-d797-4fcf-929a-e03a8e00bb25	Obrint Pas	http://twitter.com/obrintpas
+d3ff3c70-c897-433d-899c-b838670fcb12	Amoral	http://twitter.com/amoralband
+f9b2c83a-197a-4dd6-9b6c-ec1c7f9ea9a0	Mark Gillespie	http://twitter.com/musicman24
+4770bea3-0c20-44ab-9a02-497cb4056e17	Bligg	http://twitter.com/bliggblizo
+ab535032-2b22-48b0-896c-de96e160aa5d	Steeve Estatof	http://twitter.com/SteeveEstatof
+090d4dee-0248-4f09-987a-f9b78dd30e1f	Kathy Griffin	http://twitter.com/kathygriffin
+8dd98bdc-80ec-4e93-8509-2f46bafc09a7	Calvin Harris	http://twitter.com/calvinharris
+9f01b9ea-162d-47f5-93b1-3f6a3aeb4b24	Immaculate Machine	http://twitter.com/immaculatemach
+32a83250-7e26-422d-b9ac-f4564343e9ce	Peter Bjorn and John	http://twitter.com/PeterBjornJohn
+baf247e6-e315-4170-b002-6662a572e6bb	Topp Twins	http://twitter.com/ToppTwins
+40bd56ef-fdbd-4ebe-a8cb-37127c09bcfe	Gabriel Ananda	http://twitter.com/gabriel_ananda
+f376befd-492b-4fc9-9bcb-8485f6449431	Eugene Mirman	http://twitter.com/EugeneMirman
+f09709e6-8505-4d3b-ad18-efaa3d35f9dc	John Rich	http://twitter.com/johnrich
+7d16f8c8-729f-4f1b-a47c-ee98d3463fc5	Sheikh Haikel	http://twitter.com/sheikhhaikel
+589a0ad5-30d4-4bbc-adb3-373ce0ad49ae	John Cleese	http://twitter.com/JohnCleese
+bb4789be-e26b-43c4-b098-d65b06538bd3	Party Ben	http://twitter.com/partyben
+5b9d784c-33eb-4a78-a976-c97b672370fa	Hammock	http://twitter.com/hammockmusic
+ac62c76b-760e-4214-aa51-4a1dfdeffcdb	Samantha Ronson	http://twitter.com/samantharonson
+c58ad99e-47ba-454b-abbe-cd72a691b46b	Colin Meloy	http://twitter.com/colinmeloy
+e8993e9d-9313-4447-ad23-791459a3790d	Matisyahu	http://twitter.com/matisyahu
+4d7304f6-7fe3-4959-9d98-01a5af84afe6	Trey Songz	http://twitter.com/SOngzyuuup
+c78a5d46-c631-41bc-8772-439002e3d3aa	Bajofondo	http://twitter.com/Bajofondo
+41d3a5ee-f479-44fb-959b-e517ef2aa00e	大久保博	http://twitter.com/ookubon
+0da51e46-986b-4873-8c06-21cb58b5a498	Arnaldo Baptista	http://twitter.com/arnaldobaptista
+ec22a32b-acab-432e-a88c-ffe6ae68fa16	Noisia	http://twitter.com/noisia_nl
+75a881d8-80de-4f60-b56a-4eaaa29530d9	Nine Black Alps	http://twitter.com/NineBlackAlps
+8b6f809d-a078-4042-81aa-659c79c8f4c2	Roll Deep	http://twitter.com/ROLLDEEPUK
+9e2990ab-4d3d-4fb5-bd9b-1252440f043a	Tinchy Stryder	http://twitter.com/tinchystryder
+1eeaf46d-4991-4e95-8068-927627ccfc18	Tunng	http://twitter.com/thisistunng
+ad61e25e-5516-41e1-b60d-744e8220986e	Shiny Toy Guns	http://twitter.com/shinytoyguns
+d33aabac-8c6f-42dd-941e-e7c500c85bcf	DJ Nasha	http://twitter.com/nashaofficial
+48bb8d6d-344d-4a7f-858f-1656ceb0ea32	DJ Kutski	http://twitter.com/kutski
+a186c93d-0f30-4c56-9265-98c0eba19242	Blitzen Trapper	http://twitter.com/BlitzenTrapper
+085ab74c-aca0-4ff2-8149-9249fdc19f3f	Isabella Taviani	http://twitter.com/isabellataviani
+e42680f7-e439-4666-9c2c-536c2b3c6db3	Rob Thomas	http://twitter.com/thisisrobthomas
+5ec2d353-c607-48f6-9207-10cc12d5cc4a	Rentokill	http://twitter.com/rentokill
+6277c674-a9c5-4396-a992-6e155d6574ef	Pop Shuvit	http://twitter.com/popshuvit
+28e27f86-3eba-4e17-9d04-f47b3be48e96	Amsterdam Klezmer Band	http://twitter.com/adamklezmer
+80837fa8-a454-49ba-8c11-a5890c2fa44c	Christina Lux	http://twitter.com/luxuslicht
+66882a33-8419-4e20-b0d5-0b3fd33eb626	Krypteria	http://twitter.com/krypteriapolis
+eb440023-8eb3-4c92-836d-91e4772bae41	川田まみ	http://twitter.com/mamikawada
+92e634a7-6023-4be8-be15-ebba822f5b34	Maxïmo Park	http://twitter.com/maximopark
+246b42a0-6cb3-4f6e-af6d-31b72b6fd42c	島みやえい子	http://twitter.com/eikoshimamiya
+9ad6d1e3-427f-4921-b603-7e9eda94a061	Jenny Lewis	http://twitter.com/jennylewis
+4623daa8-d17f-4e76-a39d-fd22408463f1	Dub FX	http://twitter.com/dub_fx
+c9ffb3c3-da9b-43f0-8a86-d873a6a48f04	Der Fall Böse	http://twitter.com/#!/derfallboese
+9ee2638f-c3a3-4532-bc08-54d397241c2a	Karnivool	http://twitter.com/karnivool
+72ae6caf-4f9f-407e-8c70-8cd195df955c	Gabriella Cilmi	http://twitter.com/Gabcilmi
+fefc0114-a5ab-47c6-8032-a39b889866fd	Too Phat	http://twitter.com/maliqueandjoe
+62162215-b023-4f0e-84bd-1e9412d5b32c	All Time Low	http://twitter.com/alltimelow
+cf13ed42-3d7b-4aca-8872-8159fdc901f3	Fler	http://twitter.com/FLER
+835534f7-e26e-4db1-b626-f1da8008ea39	Fall of Empyrean	http://twitter.com/fallofempyrean
+9860edbd-a343-44da-91f4-e60026d4022b	Gliss	http://twitter.com/gliss
+c4c1eb52-ca4a-4194-8cc7-8bd32264b94b	Style of Eye	http://twitter.com/styleofeye
+0a4d521a-c0f5-4770-87c2-67ababbd14c2	Thomas Rainer	http://twitter.com/mechanicmind
+cc374fb0-8f1a-4802-bb9b-483992271a3a	加護亜依	http://twitter.com/lovbus
+f1f59272-c86f-4227-80b6-dc5ad4c2c76a	TAIJI	http://twitter.com/TAIJIofficial
+5ddb7366-46d1-4f31-a111-be53b32c317b	沢田泰司	http://twitter.com/TAIJIofficial
+8d455809-96b3-4bb6-8829-ea4beb580d35	Phoenix	http://twitter.com/wearephoenix
+79d1e9ca-d396-44ac-8a4a-ff5dbe9e44f9	Guy Sigsworth	http://twitter.com/guysigsworth
+063fc7a2-ab0a-41f6-85ae-69557ef66fb1	冨田謙	http://twitter.com/mintomita
+7ee89158-3446-4044-bb88-0dcc4d4cd6c0	Amy Lee	http://twitter.com/AmyLeeEV
+6d394418-a565-4c16-9dec-f5a89e213cde	Owen Pallett	http://twitter.com/owenpallett
+fa5f1642-48ad-4337-9bcf-21a1c47af406	John LeCompt	http://twitter.com/JohnLeCompt
+7c679635-a892-496b-82e7-84abe3eb5739	Terry Balsamo	http://twitter.com/TerryBalsamo
+250c291f-f7ea-4064-a8ff-d9aeb4bc3124	Rocky Gray	http://twitter.com/ROCKYGRAY
+1c6ef3f5-a5b8-4cb5-a9fc-9026fc4bb557	Ira Sullivan	http://twitter.com/irasullivanjazz
+e7f7be70-670c-47f0-ada7-63486c502cc2	Chiara Civello	http://twitter.com/Chiaracivello
+9b7f6e0f-86d4-412c-ac1c-709e4d5c772c	Thaitanium	http://twitter.com/Thaitay
+38bfaa7f-ee98-48cb-acd0-946d7aeecd76	Nena	http://twitter.com/nenaofficial
+9965a710-43b6-4b52-b090-8db8dcbcbd2f	Jacqueline Govaert	http://twitter.com/iamjacqueline
+a3a62081-271b-4e8e-bc9a-41c09b52792e	Tara Busch	http://twitter.com/TaraBusch
+e618b9f6-db76-4305-8322-50b7b4d58f70	Clint Carney	http://twitter.com/systemsyn
+b9472588-93f3-4922-a1a2-74082cdf9ce8	Panic! at the Disco	http://twitter.com/panicatthedisco
+6a5ccce6-9e38-4548-8884-b9f0f341500f	D Double E	http://twitter.com/DDoubleE7
+6fca9aa3-8e72-40c0-bac9-7c4b73c9786e	Dave Rowntree	http://twitter.com/davefromlondon
+9724aa19-fdf9-49d0-9f9d-944e462e2a5c	Big Boi	http://twitter.com/bigboi
+503877b0-4e1b-452b-851c-5e3f478d3714	The Pipettes	http://twitter.com/thepipettes
+3c0eb318-d2ba-45aa-9077-b83746cc56da	Amanda Palmer	http://twitter.com/amandapalmer
+3c0eb318-d2ba-45aa-9077-b83746cc56da	Amanda Palmer	http://twitter.com/AFPwire
+35525e20-eaa9-422c-a463-007acd12c74f	Metsatöll	http://twitter.com/_metsatoll_
+3aebd566-7ff8-4b29-b017-051b6ec55861	Travis Barker	http://twitter.com/travisbarker
+25204ad8-973c-4239-9706-b9c3854bfd64	Estrepito Banditos	http://twitter.com/diebanditen
+93560313-3950-43b9-ac4f-7ea3b4e79e60	Amiina	http://twitter.com/amiina
+97ce95e8-7f34-487e-9b4c-6c02f70bf9fb	Temposhark	http://twitter.com/temposhark
+cd40188b-ea30-4729-bebb-e8c5091c9d02	Brett Gurewitz	http://twitter.com/BrettGurewitz
+b09c8a50-7bfa-434f-a2cf-f9bf9f6f91a5	Josh Woodward	http://twitter.com/joshwoodward
+8006f1d0-8851-46d8-a928-085c686b29b9	David Hodges	http://twitter.com/hodgesmusic
+06ae569e-0b5b-4cd7-aded-98c3ad743ca3	Marissa Nadler	http://twitter.com/marissamoon6
+d8df7087-06d5-4545-9024-831bb8558ad1	Jonathan Coulton	http://twitter.com/jonathancoulton
+00fc124e-6645-4530-8d0b-7def83c5ee25	Matthew Bellamy	http://twitter.com/Bellamy_Matt
+a9e11992-57f5-4a9b-b59f-a6f5e2a2060c	Christopher Wolstenholme	http://twitter.com/CTWolstenholme
+829dc2aa-99d2-44ad-ad1e-76533b14d512	Dave Allen	http://twitter.com/Pampelmoose
+73e5e69d-3554-40d8-8516-00cb38737a1c	Rihanna	http://twitter.com/rihanna
+9dddb6a5-a8ca-41bb-80b7-cda34a4c5742	Watershed	http://twitter.com/watershedmusic
+02739636-18fe-484f-8ef3-63b145125297	Stuart Braithwaite	http://twitter.com/plasmatron
+fd117624-657b-4c34-ad44-00346f01890e	Dominic Aitchison	http://twitter.com/dominic138
+62ffd9ee-13a1-49ed-8721-d07fd0b2f07d	Ghetts	http://twitter.com/therealghetts
+b5bd9f88-962e-4730-84a7-795592ba42e8	Silversun Pickups	http://twitter.com/sspu
+7eb874c8-da56-41fd-a3c7-84ff932bb03f	Cadence Grace	http://www.twitter.com/cadencegrace
+dfd0087e-64e2-4677-9d31-23f25974c138	Anaïs	http://twitter.com/anaisinyourface
+9af2e75f-5eed-4008-88dc-d9491625434f	Malajube	http://twitter.com/malajubeMTL
+c1f5d7c6-1bce-45f1-bb80-f9c74bb9c740	Bun B	http://twitter.com/BUNBTRILLOG
+44cf61b8-5197-448a-b82b-cef6ee89fac5	Paramore	http://twitter.com/paramore
+3c2c34c6-11de-48b2-947d-6b8f96d59844	Jon McLaughlin	http://twitter.com/jonmclaughlin
+9321564b-7429-41a8-9dc1-940b6512cde5	Monica Richards	http://twitter.com/monicavrichards
+7ec933dd-0387-4605-945c-8708aa38a735	Haylie Ecker	http://twitter.com/lovehaylie
+264fd8ab-0850-4711-813a-58b7d06979e3	Eos Chater	http://twitter.com/EosChater
+e46cc789-9909-4c98-8913-0528d88fbcc6	Tania Davis	http://twitter.com/Tweettanialee
+d86379a5-b0c4-40aa-aaaf-69614b728f88	Gay-Yee Westerhoff	http://twitter.com/gayyee
+9fdc8154-c792-437a-a5f4-4c611711902b	Petra Jean Phillipson	http://twitter.com/PJPhillipson
+216b26ca-381d-436f-a964-c6880b3c1613	Kelly Richey	http://twitter.com/kellyrichey
+4753fcb7-9270-493a-974d-8daca4e49125	Volbeat	http://twitter.com/volbeat
+3ed31b23-96d2-4403-a37d-1cd355a3b687	Poni Hoax	http://twitter.com/poni_hoax
+568b62fc-a8fe-4811-a9ee-8473914381e9	YURIA	http://twitter.com/yuria_pdp
+c76b85c5-56eb-4b05-9d48-da395e56796a	Someone Still Loves You Boris Yeltsin	http://twitter.com/sslyby
+7b5b87d3-f3ee-4b5d-b111-1f2e87f87124	John Roderick	http://twitter.com/johnroderick
+57879ca6-44aa-4b75-9a97-b801f57a1331	JME	http://twitter.com/jmeBBK
+38474d18-9204-4f60-a137-1fcc6750b869	Skepta	http://twitter.com/Skepta
+2151818d-8cf9-4c0f-b992-ffde4bf711ac	Trim	http://twitter.com/TrimTali
+315856f7-2f28-4fb7-b2ac-cc019749da1d	Akala	http://twitter.com/akalamusic
+224397ac-0e9d-4bad-a7d5-59e66ed4e803	Faction G	http://twitter.com/FactionG
+069732c8-1de4-4194-b240-8eeffabe8519	Withered	http://twitter.com/witheredmetal
+d997d399-355e-4c49-9c7b-75a93d76bc0e	つんく♂	http://twitter.com/tsunkuboy
+10a402b7-0e50-4479-b007-9cfdd5eaa287	Sonic Syndicate	http://twitter.com/LoveOrDisaster
+07b6020a-c539-4d68-aeef-f159f3befc76	Band of Horses	http://twitter.com/bandofhorses
+1a9a6755-a400-4e28-9b3d-13520bbce7b1	Tim Harrington	http://twitter.com/IAMBEARDO
+f9b3d5a8-11eb-4f4e-a59a-1e8f30135921	Die! Die! Die!	http://twitter.com/diediedieband
+92cf24ac-36ea-4645-817c-486d92369466	The Womb	http://twitter.com/c90
+604e3c07-b5a4-4719-8497-2cd87a7997d8	Teeth	http://twitter.com/T3ETH
+e6683418-acde-4066-be1d-71949ba52d19	岡田唯	http://twitter.com/OkadaYui
+ad6642ea-8949-47fd-901b-7b798fdb1b1d	Bolus	http://twitter.com/bolusmusic
+09090c4c-568a-4e4e-a621-60b88a5af651	柴田あゆみ	http://twitter.com/AYUMI_SHIBATA_
+117ebdd2-fc63-44fc-9ed6-8a13f21d8b57	村田めぐみ	http://twitter.com/muratamegumi
+c485632c-b784-4ee9-8ea1-c5fb365681fc	MGMT	http://twitter.com/whereisMGMT
+7255bcbf-015d-4349-bf05-b492f33bac7b	前田有紀	http://twitter.com/yuki_maeda_
+ae4bff29-2d35-4722-9992-ab861675b71d	Chilly Gonzales	http://twitter.com/chillygonzales
+b34eb499-c8ef-45fd-816a-c5cd4456fb2c	Rev Run	http://twitter.com/RevRunWisdom
+554678b9-d7eb-48b2-969e-a37db16fc3cf	Mārtiņš Vaters	http://twitter.com/martins_vaters
+c70a1c8a-b7dc-46b8-8f4e-ca8260d86f26	Holcombe Waller	http://twitter.com/holcombewaller
+8637f3fd-1168-4364-8fd2-f00a13c2861e	稲葉貴子	http://twitter.com/inaba_atsuko
+7e5a0bd4-8543-4004-8603-e42a98c989ff	小湊美和	http://twitter.com/komix215
+34a3c98a-c69f-4c34-85d1-8b7ea5420c74	Ethereal Garden	http://twitter.com/ethereal_garden
+93eb7110-0bc9-4d3f-816b-4b52ef982ec8	Metronomy	http://twitter.com/metronomy
+6719b485-80a4-419f-97da-bcba26695e54	Tim Toupet	http://twitter.com/timtoupet
+83b86967-6b1a-4ca8-9cf0-c7cfe047ef3f	The Maccabees	http://twitter.com/themaccabees
+5ec4fe5f-c89a-47d1-a9b7-58344b401527	Jared Leto	http://twitter.com/jaredleto
+ff7ddfbc-e2da-4e2e-95d1-e6242bb44a84	Shannon Leto	http://twitter.com/ShannonLeto
+9aefdc6e-d6b5-4c66-9717-484abfc65dab	Tomo Miličević	http://twitter.com/tomofromearth
+bf13da05-202d-4c66-8b86-a54361bdb2ec	MELL	http://twitter.com/MELLMIRAGE
+3706455b-2f5b-4dcc-ae9c-8baabcffeead	Babylon Pression	http://twitter.com/babyloncorp
+bc37fe19-d935-48c0-b2ab-65212e09cf6c	Christopher Tin	http://twitter.com/christophertin
+777b082b-8b38-4738-bf5b-30d3c9b67a7d	Dirk Scheele	http://twitter.com/DirkScheele
+e7990ab6-0dbe-4438-a7dd-ef0fb1c5b302	Kate Havnevik	http://twitter.com/katehavnevik
+86d1c6a9-d372-43b1-88d1-674329dd53b9	Virus Syndicate	http://www.twitter.com/virus_syndicate
+23b58ea2-1cc3-468a-9e76-5027e196e851	Cansei de Ser Sexy	http://twitter.com/csssuxxx
+b1c00b61-2673-458f-bba3-7470712a3b94	Toxic Holocaust	http://twitter.com/toxicholocaust
+676dbcbf-d450-4356-836b-8048ba0b0120	Termanology	http://twitter.com/TermanologyST
+00f38c53-e00b-4597-bd0e-cf81945d2d39	Kārlis Kazāks	http://twitter.com/kazaksk
+0e5893f5-b2ff-461b-818a-7af0c9033db0	Dogzilla	http://twitter.com/Dogzilla_OT
+d28b7a1c-78fe-414c-a128-fcb37debeb73	Éowyn	http://twitter.com/eowynmusic
+c5ce487b-0462-444e-a184-4de0fef7e028	Julian Casablancas	http://twitter.com/Casablancas_J
+ffb390b8-8df4-4b72-97d1-7b2fc008a452	Cobra Starship	http://twitter.com/cobrastarship
+a1421d73-1a21-484b-97ad-77c9a5676daf	Adam Levine	http://twitter.com/adamlevine
+cf15719f-51f9-4db8-a15d-5eed9664ce69	Lupe Fiasco	http://twitter.com/LupeFiasco
+a43dccad-c63f-49e5-b342-f96debc02ac4	The Films	http://twitter.com/thefilmsband
+a0cc52f5-1d04-41aa-b95e-3194da1528e6	岡井千聖	http://twitter.com/okai_chisato
+262b08bd-539c-43b4-9dbf-1d85d25e79b8	Alex Kapranos	http://twitter.com/alkapranos
+c66eb98b-82e4-402a-ab34-8be3c9aece2b	Полина Гагарина	http://twitter.com/Polina_Gagarina
+77ddef2b-c43c-4709-98b9-32fc65d28d14	Roc C	http://twitter.com/rocc805
+27fec926-59e3-4532-843f-3bbcb480221c	Սիրուշո	http://twitter.com/sirushoofficial
+03bb2212-22c4-42b5-a9d8-30cd3a3a5937	Fleeting Joys	http://twitter.com/fleetingjoys
+122d63fc-8671-43e4-9752-34e846d62a9c	Katy Perry	http://twitter.com/katyperry
+d32290d0-a534-4174-b391-fe17454f3ec8	Love Ends Disaster!	http://twitter.com/LoveEnds
+cb642341-87a4-4eff-b005-7113247b5d5c	安倍麻美	http://twitter.com/asamindabe
+f8abfd32-73f9-49e7-9b88-3e47ea27a2cd	James Valentine	http://twitter.com/jamesbvalentine
+9876551c-4ad1-4857-ac72-5f6d00017c8e	Jesse Carmichael	http://twitter.com/JRCarmichael
+fc14934c-5c14-4b3e-ba9a-76af9117e6a8	Ari Pulkkinen	http://twitter.com/aripulkkinen
+5838185a-0ee6-4a0b-8d4e-76a6e15f7d4b	Zoé	http://twitter.com/zoetheband
+5838185a-0ee6-4a0b-8d4e-76a6e15f7d4b	Zoé	http://twitter.com/ZOE_REVISITADO
+669bb68b-c55d-44f5-8da2-6eb1e27def62	FM	http://twitter.com/FMofficial
+0ffa5603-3ba5-4d00-afa7-a69c57736b47	ARCTIC	http://twitter.com/projectarctic
+26cea341-dfab-483f-9cdb-8de82da81019	Pete Wentz	http://twitter.com/petewentz
+c97c748f-d375-41a6-875d-25843f73ba6f	Soldiers of Jah Army	http://twitter.com/sojalive
+2fe25082-2dd4-426b-8758-cb7f65bb01e2	The Moonlighters	http://twitter.com/themoonlighters
+20b93f37-ab3c-4ed0-bf70-b61978f00e99	Kele Okereke	http://twitter.com/keleokereke
+cf6e878f-4ad1-4b32-a105-f832c69a4f51	Milow	http://twitter.com/milow
+fcc7eb98-abba-46af-8b4e-89a96f9dd7db	Rainer von Vielen	http://twitter.com/rainervonvielen
+fcd6860c-9c9a-47f1-b621-139be9841056	Joshua Morse	http://twitter.com/JoshuaMorse
+bace4f2a-f69c-4489-8b6a-6992bbeef82b	Fallon Bowman	http://twitter.com/fallonbowman
+8910a0a1-310f-4376-8994-f52a796ee224	Kleinstadthelden	http://twitter.com/kleinstadtheld
+5b9dc76b-8574-4cb5-9496-ab1bc0d35c29	Brandon Flowers	http://twitter.com/BrandonFlowers
+7ee02729-2925-402f-bd97-a21fbfee022c	Мара	http://twitter.com/Mara_official
+b3102aba-3672-45f8-977c-94667f54fef9	Dirk Darmstaedter	http://twitter.com/d_darmstaedter
+be407b02-f3e6-4ed5-9489-f8e5f0ab36dc	The Raconteurs	http://twitter.com/theraconteurs
+24285231-f192-42f1-baea-0f467dd1d8aa	Marsha Ambrosius	http://twitter.com/marshaambrosius
+15f835dc-ee52-4b74-b889-113678f54119	My Brightest Diamond	http://twitter.com/zosima
+b4ff1c2f-f7bb-4d39-969a-52e97d7b5b94	Daikaiju	http://twitter.com/teamdaikaiju
+b702f1f7-6634-4580-8ffc-25edaea50da4	[AMATORY]	http://twitter.com/amatoryband
+822485c0-089e-4308-a2c1-4e270e0198b1	日野友香	http://twitter.com/hino_metrotrip
+25e6c568-7a0a-4086-9dfa-d2ec0673461a	江口貴勅	http://twitter.com/takachoku
+d4660be4-dfa6-42ac-aa39-11ca61e6dbfa	MJ Hibbett	http://twitter.com/MJHibbett
+5bd001f3-25c6-4cf9-8121-11b867c5bd0d	Tatsh	http://twitter.com/Tatsh_Shimizu
+d57e1ca5-6532-4283-a8da-472653bda2a0	七尾旅人	http://twitter.com/tavito_net
+e9689e45-36ab-4702-aab3-9130bad2afca	Frozen Plasma	http://twitter.com/frozenplasma
+c33627c6-ef0d-49de-9ef0-c4804190040f	Bob Marley	http://twitter.com/#!/bobmarleycomedy
+2e9af0bf-fc5c-4628-901f-797e417b9b52	Bass Sultan Hengzt	http://twitter.com/Sultanhengzt
+3347dae7-1a86-4630-844e-e631f969c252	Eric Hutchinson	http://twitter.com/erichutchinson
+271973a1-7177-4bcf-9a01-ac75d3691035	Nneka	http://twitter.com/nnekaworld
+500ea161-4b4f-4ca2-897e-2fd0e9b47845	The Gasoline Brothers	http://twitter.com/gasolinebrother
+92001c20-9618-4a85-b163-e9089a51b1d4	Stylah	http://twitter.com/stylah
+63011a8d-0117-4f7e-9991-1ef1f337ff70	Klaxons	http://twitter.com/klaxons
+635825f8-b595-45f3-a108-102ec6161691	Justin York	http://twitter.com/jyplaysguitar
+a95bc046-a0bd-42f3-9c30-3b2d3d6976b9	Saurom	http://twitter.com/SauromOficial
+110500b0-78a7-41cb-8535-9f37ab35a902	Tim Exile	http://twitter.com/timexile
+fa9b664a-cfd0-4088-8ed4-a4d7045d351f	Brendon Urie	http://twitter.com/brendonuriesays
+f10f8200-9dec-4670-a1dd-eeba14f02def	Ryan Ross	http://twitter.com/thisisryanross
+3efdb042-6e1c-45f3-b66b-d56ce59f9025	Spencer Smith	http://twitter.com/TheSpencerSmith
+56293b0a-98f9-4ccf-ab33-159735cbf5fe	Джанго	http://twitter.com/jango_music
+8dc29df1-186f-4410-9d66-b4ce04133961	PSYDOLL	http://twitter.com/psydoll
+e7af1101-e51a-4eaf-ae2e-b4de760bd428	Amenra	http://twitter.com/churchofra
+d02a402c-22da-4e5a-95c2-de94721891bb	Мертвий Півень	http://twitter.com/deadroosterband
+6e019bc6-5c23-4935-94f0-4a896631d846	Jonas Brothers	http://twitter.com/jonasbrothers
+39af34db-17dc-4cbc-ba31-5c5925159508	前田憂佳	http://twitter.com/yuukamaeda
+2d153e79-31e1-4fb5-9037-d918bb78ff54	能登有沙	http://twitter.com/notoarisa
+b97677ab-8c5d-40ea-a5e4-f501997597d7	Grand Corps Malade	http://twitter.com/GCMOfficiel
+f709f161-243b-4f5c-babe-8a13f5e3d964	The Kittiwakes	http://twitter.com/TheKittiwakes
+275028c1-0caa-404a-9c1a-80e7666c739c	محمد فؤاد	http://twitter.com/MohamedFouadWS
+60296efb-4d77-419e-b95e-29ae2e1131d5	myGRAIN	http://twitter.com/mygrain1
+a2d5bc80-f7dd-4d90-82a0-95f4a0c9c595	Leo Blokhuis	http://twitter.com/leoblokhuis
+46507379-c53e-4f63-a045-d444c253d547	Angelus Apatrida	http://twitter.com/angelusapatrida
+a8704ddb-1ffe-4049-ae53-2d91fec2c143	Marek Hemmann	http://twitter.com/marekhemmann
+e82d5725-5c13-4e49-8f16-f6f13eb02ecd	Mindflow	http://twitter.com/mindflow
+c4e3394a-5dc8-4f89-a704-1c5218ebfc54	The Oohlas	http://twitter.com/theoohlas
+7b03af51-416d-42dc-8215-98cf48de9a11	Pohlmann.	https://twitter.com/Pohlmannmusic
+7dfda3d8-5cbc-494a-bb6d-6a04cf558294	Birdmonster	http://twitter.com/birdmonster
+35a6a353-b186-4c13-a264-d18d5e2ce853	Tokyo Police Club	http://twitter.com/tokyopoliceclub
+4d06dec2-985c-4ffe-abae-b46372ef77a1	Cassettes Won't Listen	http://twitter.com/cassettes
+6e0c7c0e-cba5-4c2c-a652-38f71ef5785d	Lily Allen	http://twitter.com/lilyroseallen
+1fa14a96-c25c-4bb7-b94d-ff453519eab3	Ashley Tisdale	http://twitter.com/ashleytisdale
+4d483147-c871-48c4-8470-85e5a66381c5	Celtic Woman	http://twitter.com/#!/Celtic_Woman
+1fc494a1-9109-4081-a455-2d05bea9d2bf	Ingrid Michaelson	http://twitter.com/ingridmusic
+aeb6221d-f90d-4f45-a36a-eccd09b749fd	Kathryn Calder	http://twitter.com/kathryncalder
+28fd4d3a-6ee9-42ea-a03f-99cb5eababeb	Tommy Finke	http://twitter.com/tommyfinke
+62495254-237e-4e9e-8ffb-31fede562cfd	Maybeshewill	http://twitter.com/#!/Mybshwll
+1896c7a8-2ca1-416f-83ba-ead15053241e	Fuda Guy	http://twitter.com/Fuda_Guy
+aa87bb78-8454-43df-9b7d-65bbbf5ccc53	Jane Air	http://twitter.com/JaneAirBand
+f751b364-0690-4942-8e7b-3e5050f9eacd	Jamie Catto	http://twitter.com/JamieCatto
+e9389c3c-41ec-40be-89df-6de069ce3e6e	Balistiq	http://twitter.com/Balistiq
+23b85169-8139-4d14-b35f-e2c3998b1c51	Tom Gaebel	http://twitter.com/#!/TomGaebel
+c86f16fe-9502-446d-9830-afaecb5c55d3	Mélanie Pain	http://twitter.com/MELANIEPAIN
+083070c6-ac5c-427f-803d-da85a5b8d22a	横山健	http://twitter.com/KenYokoyama
+923ddf37-8f58-4fce-96b0-f47c0d030cb6	Lisa Bassenge	http://twitter.com/lisabassenge
+ca93afc1-0f95-45ef-8970-e8cc7a125426	DJ Homicide	http://twitter.com/djhomicide1
+4b90c344-31bd-48d1-aa58-8e061a8251c9	Hugh Laurie	http://twitter.com/HughLaurieBlues
+d6285d95-8ee1-4de2-8ceb-ff90098ab1d1	Yuksek	http://twitter.com/YUKSEK_music
+cd9e43ec-12dc-4567-9c60-1e554164cf05	Nico Muhly	http://twitter.com/nicomuhly
+695daab7-8642-464d-96c8-38e3b8356831	Chi Fukami Taylor	http://twitter.com/laikamuttnik
+af58fc94-4979-4cb9-b94a-8e7b243299bf	Ninja	http://twitter.com/NinjaFromGoTeam
+5b87dc36-d721-4fdd-9fad-a9dac1a6fbc2	Natalia Yanchak	http://twitter.com/nataliayanchak
+6f78b2a0-65a5-430f-b2ef-36acb74e6203	Lagarto Amarillo	http://twitter.com/lagartoamarillo
+653eb4ff-7dce-4d33-971e-b20af0478434	Collective Efforts	http://twitter.com/cecrew
+10000730-525f-4ed5-aaa8-92888f060f5f	Bat for Lashes	http://twitter.com/Bat_For_Lashes
+cdb8e895-ed5f-4b13-b286-8a0cfc7c21e7	Free Dominguez	http://twitter.com/freedominguez
+f9a7ed2b-475c-4c74-b45a-e241be815776	Sharooz	http://twitter.com/sharooz
+98482ec5-7875-4f91-9c83-68a0fd309e6d	Danny!	http://twitter.com/DannySwain
+81ae3a8c-269d-41b2-9c4f-51a211787a9a	Armandinho	http://twitter.com/bandaArmandinho
+daf84e36-f78e-4c94-a032-6aed138c0d34	Plan B	http://twitter.com/4PLanB
+fa57d5dc-bcfa-40ea-9638-3d3cd89d1258	Sunrise Avenue	http://twitter.com/popgasm
+57233aae-d23e-4f8b-8e5a-231d159afa1c	Hello Seahorse!	http://twitter.com/HelloSeahorseMX
+8f2b9e95-8d10-4c4e-9b1d-f0890d50e3cb	大木理紗	http://twitter.com/lisaooki
+6a65d878-fcd0-42cf-aff9-ca1d636a8bcc	Foals	http://twitter.com/foalsfoalsfoals
+ae725c0c-3d1e-447f-8a0c-8c1966a24a72	Fabien Waltmann	http://twitter.com/waltmann
+af723a8a-d3db-46c2-82a3-201dde8fa27f	Diablo Swing Orchestra	http://twitter.com/DiabloSwing
+719490ec-2962-41b9-a54e-a4cc7b65c86c	Bonde do Rolê	http://twitter.com/bondedorole
+13b58f42-ae0c-4d29-96c7-6fe0a163a766	Kero One	http://twitter.com/keroone
+7a3a9116-e80f-4180-b399-bf039297f38d	Forrest Kline	http://twitter.com/forrrrrrrrrrest
+366df844-87e6-4497-adf6-8fd7872440c2	池田聡	http://twitter.com/IKEDA_Satoshi
+2c363655-5852-48c6-b557-404d30ef1f16	金子智充	http://twitter.com/gonun
+62294f21-936c-4c60-8acd-028a2ed5389e	RP	http://www.twitter.com/rpscotland
+2674b0c5-0b79-425a-b9ea-fa061487926a	Sourya	http://twitter.com/sourya_band
+2f229c8f-7716-47e9-b090-df9937b1ab68	Syrano	http://twitter.com/Syranoofficiel
+7453826d-6100-48d1-a915-8f2bf0e240a0	Lahannya	http://twitter.com/lahannya
+49018fd2-95ef-4f7e-92bb-813159909314	Kate Nash	http://twitter.com/kate_nashmusic
+37b82287-02ef-41c7-b894-317ef775ce6d	Storm Large	http://twitter.com/Stormof69
+e4d7cfe5-0bed-46cf-acad-ab9a4dcb7aa6	Anamanaguchi	http://twitter.com/anamanaguchi
+b754ba92-2a09-45de-8d8d-617ddc676ca2	Goes Cube	http://twitter.com/goescube
+0145f13d-4c4d-43b5-a7fb-cd69da8ca202	Natalie Walker	http://twitter.com/nataliewalkeris
+8f4ad807-3363-46d1-8b2a-93a02fe6eb22	Gabe Saporta	http://twitter.com/GabrielSaporta
+d86257d4-c97c-4dbc-985c-668819ccdfe9	7раса	http://twitter.com/7rasa
+1972b741-4140-4d0f-8daa-898a99b3d486	鈴木健治	http://twitter.com/kenjisuzuki_
+be518ae6-4c26-47e1-8159-6b3d6036352b	Elana Stone	http://twitter.com/elanastone
+963db254-f82c-4aca-9209-a57e1cdcaabc	Zac Farro	http://twitter.com/zacfarro
+b4b5b5a7-feff-47d0-9458-83d0d135a692	Hayley Williams	http://twitter.com/yelyahwilliams
+1b6ceb76-edfc-47e7-9c14-da9a7fd57152	Jeremy Davis	http://twitter.com/schzimmydeanie
+b1570544-93ab-4b2b-8398-131735394202	Crystal Castles	http://twitter.com/crystalcastless
+6f6c5d01-b3de-4307-a47e-5559277997e4	Disagree	http://twitter.com/disagreetheband
+8c9200b8-8e05-41d5-836e-44a37905560e	Hadouken!	http://twitter.com/HadoukenUK
+c606b0c5-d250-4b34-9cef-50e337be679c	Kieronononon	http://twitter.com/kieronononon
+c41df6ca-e5b4-411e-a62c-93c7b0fb14e7	旭孝	http://twitter.com/_dadaji
+28139244-589b-4e3c-8c50-ddb45fa242ef	Eftos	http://twitter.com/eftos
+1ae43160-ec8f-4ef3-8eb8-fab39bb039bf	Алексей Вишня	http://twitter.com/polittechno
+9fee4166-8036-4bcd-9d27-fe66332d869d	Leela	http://twitter.com/leelaoficial
+313367fe-1f76-4e87-ae35-c142f9451805	Nadia Sirota	http://twitter.com/nadiasirota
+c12d26b7-3d4e-4579-8383-fc679021ca7b	Bomshel	http://twitter.com/bomshel
+06bc9b9a-87b6-45d6-a50f-f5a3f17203eb	Miss Nine	http://twitter.com/djmissnine
+ccdd1bb6-9c33-45f3-8ef1-d264553eeceb	Poolside	http://twitter.com/poolsideband
+20244d07-534f-4eff-b4d4-930878889970	Taylor Swift	http://twitter.com/taylorswift13
+984441ab-1c8f-4fe6-9749-5aa12c433d2a	Kenton Slash Demon	http://twitter.com/slashdemon
+495fe320-091e-43eb-9321-54a20e7c3f98	Sneaky Sound System	http://twitter.com/snkysndsystm
+48312a7f-7668-4419-a9c9-f42343356f83	Young Love	http://twitter.com/Young_Love
+0412cd16-5507-4474-86e2-3c94dd1428f2	土岐麻子	http://twitter.com/tokiasako
+440b7824-35ff-4a77-9810-efd4135b0983	Carlitta Durand	http://twitter.com/carlittadurand
+27684bd0-38d8-419a-ab55-513dbd7deb30	Fumuj	http://twitter.com/Fumuj
+42fdb833-e8d5-4d28-99a4-781f53a996bd	Lis Er Stille	http://twitter.com/LIS_ER_STILLE
+65f58749-a46b-412c-8a2c-b22ad3bb9242	Her Name Is Calla	http://twitter.com/hernameiscalla
+6338a3a4-1676-4a99-b2fb-a3f0072f6b42	Jay Reatard	http://twitter.com/jayreatard
+a1962353-5e4e-408b-91fe-571652e952f8	Dananananaykroyd	http://twitter.com/dananananaykroy
+7f1bd6ed-702d-4774-a22f-9cc4d7035ff2	Lorenzo's Music	http://twitter.com/lorenzosmusic
+fff117b0-25c8-4f38-9521-c09fc062f1cb	Alfie Boe	http://twitter.com/alfieboe
+9df9b90e-53ec-458e-954a-69650cbe84eb	Long Distance Calling	http://twitter.com/avoidthelight
+e20c8595-7779-493c-bb67-850ad7afe162	Back Ted N-Ted	http://twitter.com/Breenerino
+e20c8595-7779-493c-bb67-850ad7afe162	Back Ted N-Ted	http://twitter.com/backtednted
+9b1caaca-7617-4b6c-beb9-5470457fa765	Fatal Bazooka	http://twitter.com/fatbazooka
+107fe9d9-903d-4bdc-ba88-d1df3c2fa32c	Feuerschwanz	http://twitter.com/metundmiezen
+9843fc54-ba47-4b5d-b631-187c9d4793d4	Gavin Monaghan	http://twitter.com/gavinmonaghan
+2cb73e69-c725-44ad-81d1-d39073b3b6b0	Hip Parade	http://twitter.com/hipparade
+f43d43c8-eedf-4628-99b0-04120e7124c8	YELLE	http://twitter.com/YELLEtweets
+cc7ddc4e-cba3-4822-9aca-07642ad0c2ee	Dday One	http://twitter.com/ddayone
+def119a3-7aa4-440e-a0f3-340c4c8860f4	Juwita Suwito	http://twitter.com/juwitasuwito
+c33c2065-b1c3-4406-b066-d33a9e2ea71a	OneRepublic	http://twitter.com/OneRepublic
+7684f1ee-2154-475f-b05d-608c91a0e3e9	Professor Green	http://twitter.com/professorgreen
+21e0d60c-cc33-4c9a-9532-adf91a90f6d5	Altimet	http://twitter.com/altimet
+b32c6153-c0f9-498a-85f8-6e731e97e427	Mizz Nina	http://twitter.com/mizznina1780
+4f7b0904-3a25-484d-b721-5d2cb98d8520	DJ Fuzz	http://twitter.com/djfuzzbsdj
+c08a7933-936d-4ea2-bd56-888d56b0915f	Ezio Lunedei	http://twitter.com/eziolunedei
+25d4aaa2-e42e-47ce-a934-2abcc9cc100e	あらきゆうこ	http://twitter.com/migumusic
+65dbbad7-5ed9-4900-b5be-acf553ab49b7	miaou	http://twitter.com/miaoumusic
+642101be-1414-4ef1-bb15-fb94a858ec5e	Sky Larkin	http://twitter.com/weareskylarkin
+6ff66a0e-baf5-4519-8498-cb76ba8ae3f7	exist†trace	http://twitter.com/existxtrace_19
+52dd5890-b068-499e-a192-6f3e9a4cee07	Jon Walker	http://twitter.com/iamjonwalker
+16cd4cda-63ad-4ad7-8ace-c302d6dec2de	Joe Flizzow	http://twitter.com/flizzow
+8fc89a2c-d01a-41ae-a6fc-d7e7300d8ee5	The Teenagers	http://twitter.com/theteenagers
+83fb85cb-7242-41f6-8aef-64454fcecca5	The Strange Death of Liberal England	http://twitter.com/tsdole
+037e2d7f-9f5c-40c2-b763-71cfc127991d	Wortfront	http://twitter.com/wortfront
+6fb6f970-4a42-4cf6-a5c5-ecaec6878307	Frank Jorge	http://twitter.com/FrankJorge
+dc21d171-7204-4759-9fd0-77d031aeb40c	Frightened Rabbit	http://twitter.com/FRabbits
+687a094a-bd5c-4d90-af53-d3a39407a2d9	Тина Чарльз	http://twitter.com/tinacharles
+61783f55-23be-4199-b944-e322840a1f10	N-Dubz	http://twitter.com/ndubz
+64525144-40a9-4acd-af79-a77288f2b3a7	Adam Kesher	http://twitter.com/adamkesherband
+1632e413-36d3-41db-9684-822deecffc3c	Marnie Stern	http://twitter.com/marniestern
+29266b3d-b5ae-4d09-b721-326246adf68f	In This Moment	http://twitter.com/officialitm
+8e4ed082-188b-4f23-8b77-d65591c407f8	Spektre	http://twitter.com/SpektreLive
+d6203d9f-ee70-41e4-b097-cd53a17036a5	Solange Knowles	http://twitter.com/solangeknowles
+eb6de5f6-98f8-4b5a-bfdc-f87fa4936baa	Kavinsky	http://twitter.com/iamKAVINSKY
+09dacb2c-abf2-4e51-acd4-b6de69fabc3c	Мика Ньютон	http://twitter.com/mika_newton
+6060d1bb-94f8-4863-89b9-425487f2f6b2	Duke Dumont	http://twitter.com/DukeDumont
+68b3fbf1-66b7-46d2-b93a-75c2dc2cc644	Alberta Cross	http://twitter.com/albertacross
+8fa3f306-f5b4-4488-b94a-3cc72b008b9e	Plastiscines	http://twitter.com/hi_plastiscines
+1c29b6ea-a5a5-487c-bd23-5ff7f0c80cf2	Dr. Luke	http://twitter.com/TheDoctorLuke
+f885f2dc-7577-4901-b020-a322e835836b	Neeraj Khajanchi	http://twitter.com/kingneeraj
+9f9a5476-22bd-48ef-8952-25cd8e3f1545	TAMUSIC	http://twitter.com/tamusic
+8c1108cb-a0dd-49c5-adac-dc41bcdcd1de	El Reno Renardo	http://twitter.com/RenoRenardo
+fe40b242-55a2-41c3-b250-9b6c6d28d6a4	Laura Kidd	http://twitter.com/warriorgrrl
+62d8c600-1830-49ac-89b3-edcf60d7471e	Kid Sister	http://twitter.com/KidSister
+9b64cf5d-1f4a-45b5-a84a-5109a88f178f	Jack Peñate	http://twitter.com/jackpenate
+11b91861-e141-441b-a6be-a7e61d0898c1	We Are The Physics	http://twitter.com/wearethephysics
+573f2d10-82c2-43f0-8726-d560c82eb430	Annie Mac	http://twitter.com/anniemacdj
+f7f3e5e5-8d4f-4a4a-9b66-15772635dfdc	Дмитрий Колдун	http://twitter.com/koldunmedia
+200e86d3-707e-4e55-94bd-20b0301df327	Magnetic Man	http://twitter.com/artworkmagnetic
+5b234e2f-f1fc-45f9-9cba-e69d230fd37a	Fenech-Soler	http://twitter.com/fenechsoler
+a57c46f7-0379-4069-b32b-1c7e5a8d1643	Kriss	http://twitter.com/KrissCologne
+55821c25-bd47-4f67-baf8-17ccd2cf1c86	No Age	http://twitter.com/noagela
+78287ba1-feca-4e29-9fa8-6cd4f58a426b	Nick Diamonds	http://twitter.com/nickfromislands
+4f6fdc91-edf1-4e8f-aad6-301da2cfcbed	Eli "Paperboy" Reed & The True Loves	http://twitter.com/elipaperboyreed
+854b0687-f9fc-4109-b59f-dbe84ebc5de6	Scouting for Girls	http://twitter.com/sfgofficial
+7ad43216-e4fa-4e96-a3ef-638ffac21ac8	Graham Smith	http://twitter.com/grahamsmith
+731552b6-04d5-4d5d-9fdf-4e38b410c04b	中川翔子	http://twitter.com/strawberry2
+79303c16-e15f-44aa-98e6-8745741f5793	Seth Gueko	http://twitter.com/sethgueko
+a414481e-198b-411d-ad06-76eecd1b92e0	Molly McQueen	http://twitter.com/molly_mcqueen
+8fd4a359-d3f2-4819-8959-d5511064f171	A Swarm of the Sun	http://twitter.com/aswarmofthesun
+894cbed1-6f3a-4228-8c7e-b9aed3da4eb8	Влад Топалов	http://twitter.com/topalovvlad
+52fe888b-112f-4023-adc9-f8287f177f7a	The Hoosiers	http://twitter.com/thehoosiersuk
+3039780c-6db4-499a-8b22-ddd0bb7da0af	Trash Talk	http://twitter.com/trash_talk
+58b1a778-83ec-4e5c-8fc9-3bcb3a91dadf	Iskald	http://twitter.com/iskaldband
+29eead4d-3793-4625-8727-c03edbb38b8b	Soulja Boy Tell 'Em	http://twitter.com/souljaboytellem
+1f3ae4fa-a5b5-41bb-8115-d7e54457ac60	Count	http://twitter.com/count_sf
+e618770f-e994-41c3-856f-1eedf56b6d74	The Ting Tings	http://twitter.com/thetings
+e7f23b8f-3221-4a45-9282-60aa12c30e12	James Eller	http://twitter.com/jameseller
+ee836afb-4214-44c4-a9bc-ea46be37dd71	Jeff Le Nerf	http://twitter.com/JeffLeNerf
+b76c616a-ec0d-4f0c-b986-f249c4a04d77	Keri Hilson	http://twitter.com/MissKeriBaby
+57843aed-c1c1-4f45-9859-478dd999bc18	School of Seven Bells	http://twitter.com/sviib
+5f9eda21-2257-47e0-813d-4592acfe008b	Evelyn Evelyn	http://twitter.com/EvelynEvelyn
+0c182e38-ea91-488a-b660-66cda0aa5a18	Pop Noir	http://twitter.com/popnoir
+b66feeb9-b37a-4c82-b76f-eeeeca335734	Kumka Olik	http://twitter.com/kumkaolik
+d1b718ea-dd26-442d-972d-f8da79cc548b	Radio Havanna	http://twitter.com/radiohavanna
+46de5e58-baaa-44b1-a002-6564b345c6c5	真野恵里菜	http://twitter.com/erina_mano
+53c809d4-5ada-4463-95ae-e3cb95488e94	Farmer's Boulevard	http://twitter.com/fbcrew
+ef5eccd2-72d8-470b-bb66-7ed1d5fdbc79	Forever It Shall Be	http://twitter.com/fisbmetal
+3fb7f5d6-dbfc-4c3f-8c14-0c5f96da2044	Dam-Funk	http://twitter.com/damfunk
+8461eea2-71d9-4e49-bdb9-e30cd1c32eb4	The Felt Tips	http://twitter.com/TheFeltTips
+ed61bc75-e74b-4719-ad2b-10ae53326674	Muzik 4 Machines	http://twitter.com/muzik4machines
+437a0e49-c6ae-42f6-a6c1-84f25ed366bc	Bon Iver	http://twitter.com/boniver
+59c45211-6eea-4d27-8dda-387eb7576de7	Electrosila	http://twitter.com/electrosila
+4081ce68-316d-4104-bece-5ed7e9f11296	Dom Kennedy	http://twitter.com/dopeitsdom
+c310b8e8-468f-4189-9b72-9589a2ff275d	The Dodos	http://twitter.com/dodobrainworms
+6084f926-d798-4468-9e2c-ba64a4b7bfbc	Snapline	http://twitter.com/snapline
+710fbcbb-5fea-4cee-978f-68d8a9b76149	Aṣa	http://twitter.com/asa_official
+d8f63b51-73e0-4f65-8bd3-bcfe6892fb0e	Ra Ra Riot	http://twitter.com/rarariot
+33727278-a322-4389-b05e-bb55f348a960	Wallis Bird	http://twitter.com/wallisbird
+f9a54f0b-d5c6-4a24-8d7d-d8a7dc98720f	中野雄太	http://twitter.com/soundtrucker
+a62a899c-b936-44a3-8f64-721f4b234a0d	myu	http://twitter.com/burikin
+3e1950f1-2bd2-4cc4-bb45-17198dab2472	Matt White	http://twitter.com/mattwhitemusic
+2785a0d1-2abb-4d2e-baa6-1be39f55a54a	Greg Puciato	http://twitter.com/gregpuciato
+687bd04b-a3af-44f0-ae09-ab6fafa52303	The Jet Age	http://twitter.com/thejetage
+f75cfec8-ff03-474e-b327-d67ef3ced8f5	4 or 5 Magicians	http://twitter.com/4or5magicians
+97ba75c3-cd71-4c92-b2b4-eaa2dec908da	Brio TaliaFerro	http://twitter.com/briomusic
+197fc6e8-4edf-41ae-b452-cd14bc0fe163	D-Bo	http://twitter.com/dbo37
+9a3b2d4a-2da4-49c6-9ab3-c680434dbabf	Wretch 32	http://twitter.com/wretch32
+a2006708-8bc2-41bc-a9e9-72d14d7ce850	Devlin	http://twitter.com/DevlinOfficial
+bdf21295-9a67-4e7a-b331-a522ca3a980a	Stanislas	http://twitter.com/Stanislas_music
+70300f41-9ca4-499a-a7d6-1bef3d36dd1f	Menn Ársins	http://twitter.com/mennarsins
+c7f0f582-3b6c-4474-a7e3-188d273b9a1b	False Mirror	http://twitter.com/false_mirror
+fdd19533-325a-4790-9a4c-c96608a4d5dd	Peppermoon	http://twitter.com/peppermoonmusic
+bcd55326-2d3e-4f94-bc1a-3d1e75ec851f	The Pocket Gods	http://twitter.com/thepocketgod
+125948ec-7f91-4d1a-8b83-accbf50fae3d	3OH!3	http://twitter.com/3OH3
+78a78a7a-38cd-4174-ad50-6c5c40581768	石井里佳	http://twitter.com/ishiirika
+5883e727-caf9-4f4d-ac8a-b2e04e4b901c	小川紗季	http://twitter.com/sakiogawa
+18965ac8-a932-4c6f-be9f-d1afc7e626af	和田彩花	http://twitter.com/ayakawada
+23cc0d74-81d1-4783-b2a8-4057f529a6f8	福田花音	http://twitter.com/kanonfukuda
+dded0177-e235-474e-8529-a812b89f806c	alan	http://twitter.com/alan725
+cc4da0a9-e54d-420b-a6b5-67b477516be5	Barbe-Q-Barbies	http://twitter.com/BarbeQBarbies
+b2c16453-0d75-49b7-9d3f-f3988cbf6341	伊藤善之	http://twitter.com/ITO_Lantis
+fa8b6eba-0ffd-4cb5-aaa3-a80ca2c6b74d	Marty O'Brien	http://twitter.com/Marty_OBrien
+5084cdad-e156-4329-bf89-3a49ba8ea79f	Joshua James	http://twitter.com/#!/buffalojames
+b75a3d00-c21c-48d6-a73a-fdd1b3474e06	Calmus Ensemble Leipzig	http://twitter.com/calmusensemble
+3c8ff4c9-b5b9-4e78-ad9d-5157c323de24	Wye Oak	http://twitter.com/wyeoak
+b7f67173-488a-430c-8544-8e2f0d1578e7	Алёна Свиридова	https://twitter.com/iAlena
+ae7dc88a-f3c7-4008-9eb8-2aafda1be759	Lissie	http://twitter.com/lissiemusic
+cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493	Adele	http://twitter.com/officialadele
+64b85e52-08db-4995-a6e3-d2a6acc5a058	Jesse & Joy	http://twitter.com/jesseyjoy
+4093b3a0-860b-442e-ad5b-e98c077a7a83	Maribel	http://twitter.com/Maribelband
+fad2875e-ba81-4637-b859-4684622dcb1c	Kimbra	http://twitter.com/kimbramusic
+f86acb2e-03fa-4992-957a-6f7d0155b34e	Jack Conte	http://twitter.com/jackconte
+91f7a868-d82e-4cfb-9cd9-a2ffd7faac25	The Cab	http://twitter.com/thecab
+24088e02-cf06-4a1e-9e4e-283b165ba7d5	Cascadeur	http://twitter.com/cascadeursound
+2c4dae8c-e591-49e0-9c5a-62b310a15788	Duffy	http://twitter.com/iamduffymusic
+acf295f0-a10c-4c6a-ad0b-b01f82009153	Kerli	http://twitter.com/kerlimusic
+79399e68-2b8e-4c4f-88ee-b4128292d754	Evan Taubenfeld	http://twitter.com/evantaubenfeld
+917bc621-ad02-477d-9308-a0304c5f9727	Noah and the Whale	http://twitter.com/noahandthewhale
+3071d829-b9ca-4499-b4f5-74d6d8531aed	The Menzingers	http://twitter.com/themenzingers
+882728bd-a6b9-464f-beab-23d3e66143b5	Emily Osment	http://twitter.com/EmilyOsment
+66a7117a-4b67-4a85-83bf-94491340d22d	Rostam Batmanglij	http://twitter.com/matsoR
+118c5949-3023-4262-a646-dda45e02f49d	Aeroplane	http://twitter.com/vitoaeroplane
+cf37774a-d048-45b1-8799-c08968c784fb	3js	http://twitter.com/driejs
+ab075e0e-1fc3-4353-9cd4-f62414b71097	Innerpartysystem	http://twitter.com/IPSOFFICIAL
+330d12d1-1a26-42f7-a3d1-5f37e42aafc4	Sonohra	http://twitter.com/sonohraofficial
+ad279295-653f-42e1-9aaa-b731df2e78ba	Owl City	http://twitter.com/owlcity
+aab35942-f176-4f77-bbf9-1d6aa98ccf3f	Luke Bryan	http://twitter.com/lukebryanonline
+1fac3801-ef54-4c94-a7fc-af62c98a0121	Aidan John Moffat	http://twitter.com/AidanJohnMoffat
+e8ecd214-1ff2-4e4f-ba01-fc6d24555852	Los Punsetes	http://twitter.com/lospunsetes
+c5d82862-3763-453b-b8d0-7be35f76f977	mi-gu	http://twitter.com/migumusic
+07103f05-5649-48f5-8f8c-d1167449e8ef	Wolfmare	http://twitter.com/wolfmareband
+fa1d45af-ceeb-445f-afe2-65308eef7780	Green River Ordinance	http://twitter.com/gro
+70760805-33c4-4ed0-8637-be2ecf1b02cc	Megafaun	http://twitter.com/megafaun
+77dbf945-365d-4a8a-8fa4-be03e48d3468	CROW'SCLAW	http://twitter.com/crowsclaw
+adbe0538-d9a4-4560-97f7-e6432fbfb5ab	Giovanca	http://twitter.com/Giovanca
+b41e43ae-d15d-4a45-b8ee-f025424a5a62	teenagersintokyo	http://twitter.com/teensintokyo
+f3f32a17-e239-4cdd-be80-c760360c3a76	Empyr	http://twitter.com/empyrmusic
+05e25817-642f-4dc3-88ee-df0c0b50db12	Cold Cold Ground	http://twitter.com/nowrotteninside
+a9cec4ec-325c-4867-bef2-667968d8251d	Offlicence	http://twitter.com/offlicencemusic
+faf4cefb-036c-4c88-b93a-5b03dd0a0e6b	Demi Lovato	http://twitter.com/ddlovato
+e4bc69e2-a064-4f93-ada1-f7f209cc1cc3	Selena Gomez	http://twitter.com/selenagomez
+e34e41f2-f480-45d3-8190-a3ce5ab34fab	Wale	http://twitter.com/Wale
+88181b07-1c34-4de8-be29-3a77780d8209	Toddla T	http://twitter.com/TODDLAT
+7e24c4c5-d5ba-48d7-a724-4fa2753fd947	Fresh Body Shop	http://twitter.com/freshbodyshop
+1b948a79-f9e7-469e-a489-061b2ee330e5	The Super Insurgent Group of Intemperance Talent	http://twitter.com/thesigit
+650e7db6-b795-4eb5-a702-5ea2fc46c848	Lady Gaga	http://twitter.com/ladygaga
+6ab9dd05-b18d-49c5-bb93-b6bd0ca64eb0	Matt Berry	http://twitter.com/porksmith
+0d97c888-411b-4c34-a629-dbac3c8f4f52	清水誠	http://twitter.com/humanelements
+dde93d7c-5142-4641-a6d4-0cf5ded2bc06	Luke Ritchie	http://twitter.com/lukeritchiemuse
+3b347b43-b285-4655-a7dd-c21a387b04e4	Troglauer Buam	http://twitter.com/troglauerbuam
+f97da0f6-05cc-4ba4-b79a-69ab95474e88	Das Vollplaybacktheater	http://twitter.com/vollplayback
+b0ea69ed-ee55-4555-a3ff-ab5e0b154dd7	Helgi Hrafn Jónsson	http://twitter.com/helgistrombone
+8c84402d-f282-4afc-8d64-049bdaabb92d	RedOne	http://twitter.com/RedOne_Official
+93047ccd-ec26-40eb-9538-9705b18a2a2e	Kissin' Dynamite	http://twitter.com/Kissindynamites
+ad0a59cf-89fb-46f4-8a4c-54b3e3018534	Matthew Ebel	http://twitter.com/matthewebel
+fe314220-53a3-4360-93d1-2e54a5d3b715	Griminal	http://twitter.com/Griminal
+78f3df2a-c1ba-432e-bc9b-8984c9e236ba	真理絵	http://twitter.com/marineya
+d7baf435-0df0-4227-9b8f-aa1d8681988b	Nick Jonas	http://twitter.com/nickjonas
+ac68dc4e-2fc3-4719-a71f-0a3e037d9bd2	Testsieger	http://twitter.com/#!/Testsieger1
+878cd6bf-a164-4a02-bd20-52a8b2938545	John Smith	http://twitter.com/acousticsmith
+01ab4dea-a4eb-419c-ae2b-dd0b7bc78883	Delphic	http://twitter.com/delphicmusic
+7442cca9-1655-4194-b6c7-f5be828bb341	ひぃたん	http://twitter.com/jinn_hiitan
+e9033ed2-f89d-45b2-8065-2ffa34f28316	P.A.F.F.	http://twitter.com/PAFFmusic
+cb8fc40c-bde5-4a84-94e4-ee1d4de385be	Lone	http://twitter.com/_LONE_
+58b55fb7-ca98-4657-bde3-e403b3ebd93b	山下絹代	http://twitter.com/KinuyoYamashita
+2e0d8e0b-7031-41fd-86f9-b4a47eac0993	Violent Soho	http://twitter.com/violentsoho
+2b55fd89-1f9c-4c47-a52d-62ca4b09f1aa	四家卯大	http://twitter.com/shikaudai
+1f5f9ce8-3052-49a7-b43b-f00e563391f2	Сергей Жуков	http://twitter.com/sezhukov
+2cff6590-af66-4556-9495-2a3df206bfa6	Flight Crash Companion	http://twitter.com/flightcrash
+2485f77a-3f79-4b58-8974-1082bbf8a910	Sara Schiralli	http://twitter.com/saraschiralli
+072d4c31-8fd7-4073-9efc-7e192b517906	The Joy Formidable	http://twitter.com/joyformidable
+3ac6b6fc-05e9-456f-a7d8-6ddf69756d3f	Ana Tijoux	http://twitter.com/anatijoux
+aead4c74-d7e1-4960-8cec-bacb86617924	Triobelisk	http://twitter.com/triobelisk
+8582f8cb-8b50-4b6a-849f-841edc34c678	Revolver	http://twitter.com/revolverfrench
+fab34286-b8e1-4879-bce3-194e1358fbd2	Ke$ha	http://twitter.com/keshasuxx
+f07404f8-78ae-4d0b-86d3-073163b81f98	Dynamedion	http://twitter.com/dynamedion
+133aa7f9-dc71-4f18-9740-c6f52d72c210	Ahmad Izham Omar	http://twitter.com/AhmadIzhamOmar
+cd261e77-63b3-4cc1-b901-ebb97a56e89f	LaBrassBanda	http://twitter.com/la_brass_banda
+c45c1037-5469-420c-ac21-83841efd815d	Eliza Doolittle	http://twitter.com/eliza1doolittle
+0ec0657f-860d-4cc6-996c-09ba76fffc76	Kai Meyer	http://twitter.com/kaimeyer
+daeec599-bf5d-4428-994a-e76ba5f86e2f	Passion Pit	http://twitter.com/passionpit
+e12db327-2db1-4875-a2fe-aece796bda20	Serani	http://twitter.com/seranimusic
+8b1abae1-6299-4c2a-920e-df91cd4a9252	Sue Denim	http://twitter.com/sue__denim
+28d0b2af-7796-429d-a92d-a125d45aa509	C.Loco	http://twitter.com/cloco
+41558359-f090-4a06-ba85-3411d316eddb	AJ	http://twitter.com/ajpopshuvit
+5561e950-52ef-4c06-963a-6cb9976d967b	The Shoes	http://twitter.com/theshoesmusic
+3cc56c54-f5d5-4293-964f-27398783d700	Béatrice Martin	http://twitter.com/beatricepirate
+c266fd6d-68d7-4f7f-91fa-a773dce0210a	Elixir	http://twitter.com/elixirmusic
+7be2a95d-5158-47aa-ac78-dfe299c4feb9	Uno	http://twitter.com/unopopshuvit
+4c12bc50-b364-45fa-90dc-c5654d4ed562	Nadeah	https://twitter.com/nadeah
+26c49de8-2da7-4045-974a-01603680c574	Miss Montreal	http://twitter.com/MissMontreal
+fd99f6fc-c753-440c-ae39-ba5f6ae996b8	Laura Jansen	http://twitter.com/LauraJansen
+99efca32-eea1-45fb-92cb-8798976a9769	Inna	http://twitter.com/inna_ro
+86083bea-ffa2-47ec-b7dd-06313f3b349b	Matt Squire	http://twitter.com/matt_squire
+fe635a14-5b53-4210-a58e-88b9f1327aa3	The Holidays	http://twitter.com/#!/theholidays
+18e4f253-b0ee-48a6-a34c-b79b8da05fd9	Oli Rubow	http://twitter.com/rubeatz
+8f3bdf7d-59d1-4ee4-a762-cc523004d57c	Torsten de Winkel	http://twitter.com/TorstendeWinkel
+0de4d19f-05c8-4562-a3c0-7abdc144f1d5	Barack Obama	http://twitter.com/BarackObama
+fb07d484-706a-4fdc-b50d-e868663f5aaf	Monolith	http://twitter.com/wearemonolith
+75285014-bdd1-4ca2-81c9-c6c642bfdec7	Miranda Cosgrove	http://twitter.com/MirandaBuzz
+ad102038-c2a1-4c6b-856f-f671254de54f	Katzenjammer	http://twitter.com/Katzenjammers
+2cd00559-3887-4000-a4d5-976caf4d6d07	Loane	http://twitter.com/loaneee
+b257752e-56bc-4dd9-8e2e-c03a261b3ad5	Sebastian Studnitzky	http://twitter.com/studnitzky
+66fa30b2-09f9-431a-a25a-1dd72bff80a6	Max Hattler	http://twitter.com/maxhattler
+a7979d49-1a87-4dd0-944a-e7ef31b4aa68	We See Lights	http://twitter.com/weseelights
+e59b2cdc-378b-42e8-b87a-a022b5f9a549	Paula Fernandes	http://twitter.com/PaulaFernandes7
+edbc42ea-6040-4414-8c4c-9eb7d503f64c	Little Boots	http://twitter.com/iamlittleboots
+49123715-9633-4eef-b8eb-4a062d1989d9	浅野尚久	http://twitter.com/asanotakahisa
+fbb4298c-8f5b-4616-8937-ae5dafbf15c0	Paul Kuhr	http://twitter.com/PaulKuhr
+abb85a9c-c740-451a-8ea0-a236e1916c67	Zee Avi	http://twitter.com/zeeavi
+3a380250-66c9-4548-b27d-fe6edfe0e2ae	Raghu Dixit	http://twitter.com/raghu_dixit
+54f92ea4-7f33-49b4-aab8-6881f09f6764	Lila Nelson	http://twitter.com/lilanelson
+4543030c-19d5-4d0e-be34-c971fd27009a	Somi	http://twitter.com/somimusic
+a4584a84-3a14-430c-933f-cc2147842d04	The Big Pink	http://twitter.com/thebigpinkin
+f1ec7cab-cbf6-4edb-9183-f53c8f4e73b5	Nívea Soares	http://twitter.com/niveasoares
+0c219981-9198-4b93-af05-1e23b613f650	Oceana Company	http://twitter.com/OCEANACOMPANY
+08da2fde-a2a8-4291-ab21-21cf64e6476a	Mach FoX	http://twitter.com/MachFoX
+6b004542-f75f-4dd7-bbb4-4eeb1b2212ae	Ysa Ferrer	http://twitter.com/ysaferrer
+59ca730e-6689-4992-b9d2-21c6a3ee20d8	Fear Before	http://twitter.com/fearbefore
+b6c82c04-f1b4-41a6-ae15-a64a96d1e6c4	Obits	http://twitter.com/obitsband
+56feb028-4b97-4cb3-809a-40ecd0ebe604	Lauren O'Connell	http://twitter.com/panthergo
+0f84542d-dbe9-4023-890b-135063a10225	D.A. Wallach	http://twitter.com/DAChesterFrench
+59b55c37-cb82-4c18-a805-49f486d8a1ae	The Spyro	http://twitter.com/the_spyro
+98daa5c3-571e-4a16-b79a-e4c992cbad25	DJ Y Alias JY	http://twitter.com/djyaliasjy
+d047c844-de5a-4b17-81d8-7052ec20bb37	Die Brauseboys	http://twitter.com/brauseboys
+5c00587c-93b9-4205-a6b7-6f94d079b385	Brian Cox	http://twitter.com/ProfBrianCox
+35fd9a4a-cbfd-45ff-9b96-fef1e7b1e236	Kelsey Humphreys	http://twitter.com/kelseyhumphreys
+c8772bad-428f-468c-8988-a2bf453324d0	Le Baron	http://twitter.com/lebarondf
+23738f7c-629e-4515-b57c-2063dad668bd	Spaces	http://twitter.com/spacesmusic
+0dbc85a7-e9d6-4924-9624-79d38f6dee63	16bit	http://twitter.com/16bit
+373faa02-74d7-4b1d-9b47-7574ad510f8d	First Aid Kit	http://twitter.com/firstaidkitgary
+cd99eaa7-e789-4866-b379-7f715be58138	Alison Sudol	http://twitter.com/AFineFrenzy
+0b191c2c-e700-49ce-ad4a-4265451bc4df	The Daylights	http://twitter.com/thedaylights
+36eb4a03-432b-408f-8e9e-e65a3fa756c6	La Contrabanda	http://twitter.com/lcontrabanda
+3b946de0-0434-4d82-b260-df43d32c3594	Glesbygd'n	http://twitter.com/glesbygdn
+cf53453e-0a32-4631-985a-6c716d0a7ca4	Amy's Ashes	http://twitter.com/amysashes
+93165714-3d0e-4d3e-bab9-18107c9a609a	The Taste	http://twitter.com/thetasteband
+c04ca77b-ccd6-4066-8bc1-892927944194	Mysto & Pizzi	http://twitter.com/mystoandpizzi
+0d0fc843-a6d4-45a2-b87f-e1cc7780cd95	Lowkey	http://twitter.com/lowkeymusic1
+0e517f4b-6d89-48f0-8a11-16416bd0fdcb	Boyce Avenue	http://twitter.com/BoyceAvenue
+2e0fe7d5-89aa-46a8-9857-aa99d06abb2b	Parasite Inc.	http://twitter.com/parasiteinc
+94c338ff-1985-4429-9dc8-997b61bb5932	B.o.B	http://twitter.com/bobatl
+7b0b360a-f43b-48d7-9ba6-1d1aca83b7b5	Unicorn Kid	http://twitter.com/unicornkid
+7f3d82ee-3817-4367-9eec-f33a312247a1	Marina & The Diamonds	http://twitter.com/MarinasDiamonds
+97b20fe3-0924-4a5f-9955-d0b5c5f9587f	Santigold	http://twitter.com/#!/santigold
+2f90b896-6d16-49e2-a7b5-34850abbaf73	Hatcham Social	http://twitter.com/HatchamSocial
+da0419e3-3d53-4766-8d2a-c43fe1fcabb4	中恵光城	http://twitter.com/tareko_mitsuki
+91610545-2b21-442b-aef3-d81ffa53e5bd	Black Devil	http://twitter.com/blackdevilgrupo
+e4d901a0-a646-44f8-a0e2-565d4b067133	Foamo	http://twitter.com/foamo
+c3c906a7-5363-445d-8495-53b6c59f2c37	We Are the Union	http://twitter.com/wearetheunion
+75b064c5-06c0-44e5-b101-8b1ff36cd0d4	Fissunix	http://twitter.com/Fissunix
+2d3927d1-9f08-4974-8cc7-4bfd4fb54601	Brendan Croskerry	http://twitter.com/BCroskerry
+7e07ffb5-c0f6-4891-a74d-a5e12a247785	Die Antwoord	http://twitter.com/DieAntwoord
+3a07764c-7cc5-42e9-8205-3de7532f4771	Pretty Lights	http://twitter.com/theprettylights
+3095c115-0c80-489b-8567-58c5e78d2efb	Kaffekatt	http://twitter.com/kaffekatt
+a835a185-44ba-440a-8acf-f1ee0edf4dfe	DJ Cza	http://twitter.com/djcza
+50c4e6bf-9dbe-43d0-bff1-9701b1f7ab49	Daniel Glattauer	http://twitter.com/glattauer
+ff0d20a7-a69e-4207-a18f-ca808759499d	The Antlers	http://twitter.com/theantlers
+3e8293c1-5675-4561-b556-5cbdeff98306	The Hitchcocks	http://twitter.com/thehitchcocks
+187951e6-fe3b-4d5e-b0ac-644c42d828ef	Late Guest (At the Party)	http://twitter.com/lgatp
+ae5bfd6f-95d1-456e-b218-518a2ae6907e	Iras	http://twitter.com/IrasWorld
+09e94b06-df62-49e8-933e-4620d7673bb9	綾菓	http://twitter.com/ryorca
+f52717b0-cbf7-43aa-a649-07d02f7c3a00	Matthijs Lievaart	http://twitter.com/matthijslievaar
+a179ca35-ac91-4538-8533-5a38dbe88682	Xarish	http://twitter.com/XarishMusic
+2ce6e4e3-8dfb-438f-91ac-df793d1a2b39	Satomi	http://twitter.com/LyricSatomi
+8a60a617-3de8-4ce9-bef1-8af7b971c064	Black Tusk	http://twitter.com/BlackTuskBand
+f839c704-7e5b-4524-902d-591ecf075763	Ragna Schirmer	http://twitter.com/#!/ragnaschirmer
+569531be-1c43-4df5-aa32-66f5157ffd12	Jason Reeves	http://twitter.com/JasonReeves
+3527dabe-559d-4b48-8cb1-22c838b9b33e	Don Revo	http://twitter.com/DonRevo
+f83e15b8-cb05-476c-a7d1-372d1c069545	Psyborg Corp.	http://twitter.com/PsyborgCorp
+2c469955-d660-41b8-9a43-f539b1ca33bf	CHEW LiPS	http://twitter.com/chew_lips
+c663f181-c71e-4327-8751-020348e89cbe	Joe Don Rooney	http://twitter.com/joedonrooney
+1081c26d-8d62-4fc6-a145-847c89e55862	Valium Era	http://twitter.com/Valium_Era
+60647f52-44c8-420e-b3e6-5e92b99668be	Corrientes	http://twitter.com/Corrientes
+3316a473-2d52-4853-a398-fa53b891b7dc	Brobots!	http://twitter.com/Brobotsyeah
+3c5964da-78e4-4d43-a76b-fae0c082358e	Frontiers	http://twitter.com/wearefrontiers
+fac3ff34-6ba4-425a-8f01-b181ef4a908a	tUnE-YaRdS	http://twitter.com/tuneyards
+dc9bb3e0-716b-4378-a530-53650f642eb6	Engine-EarZ Experiment	http://twitter.com/engineearz
+fd81823c-8b9f-4b3a-a9d9-beb76a72c037	Kazz Kumar	http://twitter.com/Kazzkumar
+63d61461-ecfe-4057-896b-3ba3ff3111eb	Pomplamoose	http://twitter.com/pomplamoose
+f045aaa8-a7c9-4190-9f17-3d59da23afbe	Borea	http://twitter.com/boreaband
+ec5a8cb7-2681-4be0-9c83-c9709f427737	HIMEKA	http://twitter.com/HlMEKA
+7ce94944-deee-4af9-89a7-372a3ed0770e	Astrid Breck	http://twitter.com/astrid_breck
+ac5112f7-df94-4cf8-b76c-f3eb36f1845a	IZIA	http://twitter.com/IziaMusic
+0f5b0265-83ea-4e30-a880-58443e7ef4d6	Marakesh	http://twitter.com/_marakesh
+a0aee712-290f-431f-83ec-68d1bbcddcc9	(sic)monic	http://twitter.com/sicmonic
+9d2398be-18c5-4d83-abc2-3701f0cbed74	Toy Selectah	http://twitter.com/ToySelectah
+1bec8a6a-4dbd-43de-9d9f-44049317e6c7	80kidz	http://twitter.com/80KIDZ
+027bfdea-6e7c-4dbb-b877-55cc781732ef	Tab	http://twitter.com/TabDeadPoets
+1e69316c-14fa-42ba-88f2-06f6743632f7	Alexander Rybak	http://twitter.com/AlexanderRybak
+c250041c-a4d5-49f9-8400-c9575721b2dc	Yodelice	http://twitter.com/Yodelice
+80358a5a-c522-4067-acc2-5627d0f185b0	Satellite Tragedy	http://twitter.com/satellitetragdy
+648dca8f-45a8-4066-9998-f97dd63e739f	Donnis	http://twitter.com/donnisxdonnis
+24a132d8-75f7-4a13-9dde-1f646dced73f	Broken Frequency	http://twitter.com/brokenfrequency
+ec8a7e36-2432-4946-8227-876749a1a2da	김윤아	http://twitter.com/love_yuna
+99f670ba-9a5e-4c02-9377-307d711b077f	Montgomery Drive	http://twitter.com/montgomerydrive
+ccb45a9a-b360-4ded-a22b-6746789299a0	Princess Nyah	http://twitter.com/princessnyah
+c8f32df5-0bdd-415d-aaa4-e4a5db113cdb	The Amazing Rondini Brothers	http://twitter.com/rondinibrothers
+309ec98f-3066-4501-8761-1db9fb0c7a83	Crystal Fighters	http://twitter.com/crystalfighters
+ebeb557a-1360-4e75-9dc5-3739ef2d6a5f	Bonaparte	http://twitter.com/#!/etrapanob/
+85021dfa-d293-482d-8c06-9c11d1bf6c46	Esmée Denters	http://twitter.com/esmeeworld
+fd46749a-ca40-4b12-8061-3b020de4efdf	Рубль	http://twitter.com/rubl
+b981bb18-7174-4956-8242-9e6f4471469c	Los Músicos de José	http://twitter.com/Musicos_de_Jose
+28830d2c-95d7-492c-82d3-7d1240bb1c6b	Chickenfoot	http://twitter.com/chickenfoot
+beec8d2c-011f-4b5b-818d-f91e452af0d7	Escala	http://twitter.com/EscalaOfficial
+1c8aa5ed-08d1-46d5-b13d-b3b86ee7c838	Kobi Onyame	http://twitter.com/kobionyame
+6e6e04dd-23bb-4c5b-a4d5-3fbbad4e4a03	Life in Film	http://twitter.com/lifeinfilm
+773ce5fa-7b67-402d-bfa0-3a822152f123	Allison Weiss	http://twitter.com/allisonweiss
+3e6ed59b-2a9d-4957-92f5-e2fd453f8e1b	Филипп Киркоров	http://twitter.com/fkirkorov
+9be5414e-b906-4659-9c59-012ba7f7a154	Om Unit	http://twitter.com/om_unit
+035ce369-f494-44dc-9706-2642a9175ac6	Cobblestones	http://twitter.com/_Cobblestones
+da993673-c708-49d2-96bb-ada55725819c	The Lightyears	http://twitter.com/thelightyears
+c52933c7-0f85-472a-81b3-18dfa5f275bb	DAGADANA	http://twitter.com/DAGADANA
+a6c66fb5-c835-4b72-ac97-104cca0d24b1	Sungha Jung	http://twitter.com/jungsungha
+64f177b1-00c4-46d5-b04f-84b00f27483f	Ashley Roberts	http://twitter.com/AshleyLTMSYF
+afe27070-de01-4043-b669-2fde3f338b4a	Melody Thornton	http://twitter.com/MelodyThornton
+827163cb-69a2-46ab-936d-2f58dfc6c3a5	Amálgamas	http://twitter.com/Amalgamas
+c5eb7a4b-bd27-49b8-a482-845b5b35cac8	Deivson Prescovia	http://twitter.com/deivsonpcd
+64b852f9-fe10-4553-a532-52b0868f4e48	Bless Beats	http://twitter.com/BLESSBEATS
+22be9dfe-2c39-453d-b946-7fe09b9e0160	Tiffanie Anderson	http://twitter.com/Tifflicious
+544110c6-b7a7-497d-a206-f36452606e1f	Natalie Mejia	http://twitter.com/nataliemejia
+6104d8e9-f4f0-448a-af02-209427a5dd8e	Tigers That Talked	http://twitter.com/tttmusic
+70d318f4-6a02-4d83-bdfc-71e2bdb9b35a	CTMDT	http://twitter.com/CTMDT2
+1036b808-f58c-4a3e-b461-a2c4492ecf1b	Nicki Minaj	http://twitter.com/nickiminaj
+ab55429e-23c7-4702-a84c-026df5758145	Dorrough	http://twitter.com/#!/dorroughmusic
+feea1ee5-d9b4-4690-a08b-2604018a8d13	Tom Felton	http://twitter.com/TomFelton
+ffafc8e1-1190-4b9e-a406-203f70e2ec11	We Are the Fallen	http://twitter.com/WeAreTheFallen
+e8c829c6-a5db-4979-adcd-1f06e3ba3341	Snob Scrilla	http://twitter.com/snobscrilla
+a7f89d27-e9cb-41a3-b106-0e682a388a36	City of Ships	http://twitter.com/cityofships
+12a8240e-fa42-41b5-a9f2-fde629fa4848	Agnela	http://twitter.com/agnelarock
+455bf326-6037-4abd-bcb0-00b2f95eb27f	Hujan	http://twitter.com/hujanband
+e942594a-91cc-427a-8beb-6815c28e9254	Adam Lambert	http://twitter.com/adamlambert
+437053fa-531e-43a2-841c-753e178f8fb4	福田淳	http://twitter.com/fukudadesuga
+d3c5bd23-5113-46c0-9eb6-b84c157df3ee	菊田大介	http://twitter.com/lunchpack_love
+4be7b8e2-486b-4893-91e8-e374fc7a2ad5	Pepê e Neném	http://twitter.com/pepeenenem
+5a6131f9-f8db-4722-b4d7-6a0c7183c590	Benny Blanco	http://twitter.com/ItsBennyBlanco
+16284479-dc9f-4845-a023-07f5776091d8	Oh Snap	http://twitter.com/ohsnapmusic
+e79aeb62-4202-41a6-8266-1996618249d3	Juan Son	http://twitter.com/yosoyjuanson
+622ede62-b191-485d-abae-861eabe1ddff	Blaze	http://twitter.com/blaze_nt
+1a7ea00b-1149-4193-bfcb-e043e9499616	The Jackpot Golden Boys	http://twitter.com/thejackpots
+c247a163-bfca-4281-bd37-afeed212a079	Motion Figures	http://twitter.com/motionfigures
+e5444703-4559-4443-8a64-5497adfd7a4b	佐藤雄大	http://twitter.com/yudai1023
+757a6915-a131-4701-af1d-c730c1c6c53b	Cassell the Beatmaker	http://twitter.com/thebeatmaker
+24014d56-add6-4a35-9530-1359f86ec004	Luciana Andrade	http://twitter.com/andradeluciana
+1533b219-74ef-4512-826f-42bca397fbb4	JLS	http://twitter.com/JLSOfficial
+a2ca2c46-4f29-4c97-ba96-6b87f2024c01	PANTyRAiD	http://twitter.com/PANTyRAiD
+d1cfa4a6-0b38-4cfb-b731-0e7cc0d85e2e	Raven Zoë	http://twitter.com/kthxraven
+91877c37-72fb-487c-95fb-fbee50e6e128	Kinch	http://twitter.com/kinchuk
+8360baa1-250d-4e18-801c-bb4666152c27	The Young Veins	http://twitter.com/theyoungveins
+4f0ca99b-0ab2-4861-b8ac-e6dadabff23e	Hey Marseilles	http://twitter.com/heymarseilles
+df6013d6-c9af-4a58-bed4-512394ae9503	Jay Del Alma	http://twitter.com/jaydelalma
+04335538-05d5-4008-9016-29c72910feff	Plugs	http://twitter.com/PLUGSMUSIC
+1e519a9a-b434-47ae-93cc-d3bb784d64ab	5 Cent Theatre	http://twitter.com/5CentTheatre
+c0c01620-68bd-4214-b3c6-c2f47b95d7d6	immi	http://twitter.com/immiofficial
+e0140a67-e4d1-4f13-8a01-364355bee46e	Justin Bieber	http://twitter.com/justinbieber
+0b835a4b-bc7d-4348-8f83-000c48bc0a5e	White Wizzard	http://twitter.com/whitewizzard
+3f0ca327-69b4-4018-acda-ad1e22d43bb7	Gramophonedzie	http://twitter.com/gramophonedzie
+ab5d785b-ff87-48b5-b9e1-027e3c21ec0d	Justin Moore	http://twitter.com/justincolemoore
+6e1c1b89-9269-4e47-aca4-c1abaa5475bd	The Rabid Whole	http://twitter.com/trwmusic
+2c5baf79-87a5-4ae9-b3b7-cede97704466	Sebastián Yepes	http://twitter.com/sebastianyepes
+5850f3cb-1c7c-4e93-967f-99ce1d0ccffd	Izah	http://twitter.com/izahband
+55e21cfa-4bee-4795-940d-b1ff692fb17c	Girls	http://twitter.com/GIRLSsf
+216874ba-ad65-47dc-8542-becc418d77c1	Punk Recruit	http://twitter.com/punkrecruit
+a1815ca0-ec1c-4b00-91d6-da01f083b07a	The Guild	http://twitter.com/theguild
+4bc09c51-5d42-4c93-9ba6-8cc21a0edb8d	Them Crooked Vultures	http://twitter.com/crookedvultures
+82953da6-c5f5-481d-9bcb-d65a35d04d06	run, WALK!	http://twitter.com/runwalk
+91bc2f3f-1888-4d08-9fe4-462f36d378d2	Goonies Never Say Die	http://twitter.com/gnsd
+f62cd1de-fce1-480d-a60d-6dd444bbf9fb	Tess Henley	http://twitter.com/tesshenley
+d90e2a8a-b7e9-43e3-ade0-a3930598f7ae	DJ AM	http://twitter.com/dj_am
+725b3ad4-ebbf-48fa-8e6b-a41afadfa743	Double THumb	http://twitter.com/double_thumb
+b0ea68e1-785d-495a-b216-e253bea08a5b	Ashley Wallbridge	http://twitter.com/ashwallbridge
+5ab8835e-ac44-4055-9c11-7878199606b5	Best Coast	http://twitter.com/bestycoastyy
+5ff254a2-e2cd-428c-9a2b-d18881f028f6	Mini Mansions	http://twitter.com/#!/minimansions
+7b1f7f50-7ef2-4fd4-98f6-54edeb8d5e85	The Dirty Disco	http://twitter.com/dirtydiscomusic
+ab338a3f-ee00-4085-aeaa-5ff7392d11ef	Raphaella	http://twitter.com/raphaellamusic
+6de0f914-3e60-4418-be3b-42e0feb6eb4d	Jason Derülo	http://twitter.com/JASONDERULO
+89c9a3ee-0426-4d5d-a530-24795ddf2ee9	Thoughts Paint the Sky	http://twitter.com/tptsband
+b16ec887-a5d7-4228-b245-7c50dd3937f8	Mr. Humbert	http://twitter.com/mrhumbert
+73f2fca4-b1db-4d15-a9f3-3d1c5d492189	Jeremy Cowart	http://twitter.com/jeremycowart
+e2d4a93e-bf80-4017-ae97-a726eca6c142	Elspeth Hanson	http://twitter.com/elshanson
+d26412ee-ab95-4ca3-844d-fe88583d6235	MC Mong	http://twitter.com/monkeyfunch
+690fdea4-5ba4-422b-aecc-f6b0d9fd769c	Survivors Zero	http://twitter.com/SurvivorsZero
+f936d385-6573-474e-bfaa-18b1c64ef2a5	Bassboy	http://twitter.com/BassBoyUKP
+7568f85a-deb7-41ac-a0e4-ffca46a17d84	Mustang	http://twitter.com/legroupemustang
+44a66018-f5a8-4cd6-bdbd-92e9eca64b7e	Crissy Criss	http://twitter.com/crissycriss
+2dc1421d-2c15-44db-8dd5-913b694cc9d5	The EX Box Boys	http://twitter.com/THEEXBOXBOYS
+3dc9cb4d-c56c-4a6e-a165-3bb6ff7cb8cc	Bittersweet	http://twitter.com/thebitter_Sweet
+fd649d06-c1bc-4c95-8c48-eb7b91726e65	Yo Gabba Gabba!	http://twitter.com/yogabbagabba
+09bd231a-5ede-4ade-b196-39c4a5e9d4d5	Glass Pear	http://twitter.com/glasspear
+c1e2f905-2ef2-4f2d-8e9a-c5959573b7ec	nao	http://twitter.com/nao0126
+bb19c7c7-e6f2-471b-bb59-7261a480396c	Daley	http://twitter.com/daleymusic
+fa7466b4-1521-482a-94f3-81b3c8b5b0b3	Garfunkel and Oates	http://twitter.com/garfunkeloates
+c5e42662-0c32-4403-8210-6c5df6b8e1ba	Mr. Meeble	http://twitter.com/meeble
+fcb6b8af-028a-415c-a4d6-01ddb47dbaff	Dutch Uncles	http://twitter.com/dutchuncles
+fdafffec-3f14-442b-9700-1b52b89351ed	Обійми Дощу	http://twitter.com/obiymydoschu
+4c01045b-f25d-498b-8a8a-ed1834d12d93	DyE	http://twitter.com/DyE_
+4a3a5fc0-af4b-4990-957b-8d94f7bfe706	Mount Kimbie	http://twitter.com/mountkimbie
+ebf76ca6-a2c5-4d3a-8e84-7fa3be9e22ab	Alligatoah	http://twitter.com/kalligatoah
+edbf2d3e-8dec-46ae-9d3a-ea1c1aa4874d	Roach Killa	http://twitter.com/roachkilla1
+816ce4a1-161f-4ca9-941b-8749a7694fbf	Jena Lee	http://twitter.com/JenaLeeOfficiel
+14c56a8b-bdb7-4787-a5fa-117954ebb771	The Headlocks	http://twitter.com/TheHeadlocks
+4280abf1-dff9-447f-a363-deaca8f1a695	鍋嶋圭一	http://twitter.com/nabechanchang
+161c624e-0c35-4b54-ba9d-caef98ef2df7	Vid Cousins	http://twitter.com/vidcousins
+238b98f2-c1ce-4344-8daf-3e94a0d971bb	Bharat Goel	http://twitter.com/bharatgoeluk
+6c466668-9a4a-4a34-80f5-0ce5257e9fb8	Japjit Kaur	http://twitter.com/Japjitkaur
+1c84a264-3e35-46d8-b497-4e3df98aedd8	Jay Dabhi	http://twitter.com/Jaydabhi
+430e5ae3-0ff9-412d-9596-f482af7a0577	Solace Gospel Choir	http://twitter.com/SolaceGospel
+96dc3051-3716-4634-8162-bada35ee994a	Raxstar	http://twitter.com/raxstar
+9b4c57ed-b318-44b5-ab50-fb9a3e3fcd25	The So So Glos	http://twitter.com/sosoglos
+3cce3d37-d44f-46a2-b1e3-cd7247d5015c	Tinie Tempah	http://twitter.com/tinietempah
+b0787e31-3ca4-45cf-ad20-8293e63b2bff	Fragmentory	http://twitter.com/Fragmentory
+37325da9-f843-424f-99d9-d4dd1bd98784	Party Horse	http://twitter.com/PartyHorse
+eb5c409c-aa33-46b6-8d92-fbd594340645	Komatic	https://twitter.com/Komaticmusic
+33ca19f4-18c8-4411-98df-ac23890ce9f5	Ellie Goulding	http://twitter.com/elliegoulding
+8acbd800-46ac-4801-af07-8156806290fe	Abi	http://twitter.com/Abimusic
+e65fdcd8-e02d-486b-ba9f-61fca43c37ab	Fashawn	http://twitter.com/fashawn
+04fc6395-9ef0-42fb-a49e-e1d67370ee86	miCkey[3d]	http://twitter.com/mickey3d_
+86bf6657-1c57-4b55-8a62-311f176df8fe	Sunny Brown	http://twitter.com/Sunnybrown
+2dea3133-c280-4054-8e11-e2f4acf742aa	Baba Kahn	http://twitter.com/BABAKAHN
+f29f3bde-7529-4d09-9288-7f41e8a35434	Jay Deala	http://twitter.com/JayDeala
+0ab517ea-7b92-4ba0-b452-829f90445270	Eftos!rx	http://twitter.com/eftosrx
+ceb012cf-f36d-440e-b9f7-2a1458a1b701	Pure Music Generals	http://twitter.com/pmusicgenerals
+e0c299e0-739a-47f1-baa5-c159d15e7a86	Die Blockflöte des Todes	http://twitter.com/BlckfltdsTds
+a6643dac-5e53-4216-93bd-b507f10da27a	the Diogenes Club	http://twitter.com/thediogenesclub
+09193b4a-c44c-4c35-a643-767419a13cec	LYNX & Janover	http://twitter.com/lynxandjanover
+7122fbde-ead4-4485-befb-75d452f1a914	Look, Stranger!	http://twitter.com/lookstranger
+ab729b59-92b1-4cda-95d3-173f4000faf8	Chapel Club	http://twitter.com/chapelclub
+1457fad1-8bb4-4efe-9cde-d1654775d3dd	The Blue Eyed Shark Experiment	http://twitter.com/blueeyedshark
+a5934845-e473-4f0f-aa2e-8671f457767e	Copacabana Club	http://twitter.com/copacabanaclub
+ebd633e2-8ff6-43c4-8300-b2e6fcce91c8	Twinkranes	http://twitter.com/Twinkranes
+484ccad3-699e-4d31-98e7-3e5f977afd9c	Castevet	http://twitter.com/Castevetchicago
+bd90e308-9904-48fb-9318-918d3f595d73	Yolanda Be Cool	http://twitter.com/yolandabecool
+19e2bcfa-684b-41cf-add7-78bbd2db29fc	윤준호	http://twitter.com/juno_3000
+c13c9d4f-4bf2-4df9-b3a0-4b7ea6e80d04	Joe McElderry	http://twitter.com/joemcelderry91
+0b108024-ccb5-468f-b2e9-77ed4f5615c6	Olly Murs	http://twitter.com/ollyofficial
+3770f595-398c-4920-9f9d-a9d3bc952361	JerryCo	http://twitter.com/jerrycomusic
+bd404771-ff5b-4dfb-9b7b-0d648dd92538	Carly Smithson	http://twitter.com/CarlySmithson
+5ab5210a-d5c0-481b-8ec3-8160c9341d8c	Jónsi	http://twitter.com/iamjonsi
+caf10f94-6c3a-4a71-b5f1-523c74007f92	Gonjasufi	http://twitter.com/gonjasufi
+31b366dd-c278-4543-8979-5a91c80ec5b8	Jon McClure	http://twitter.com/JonMcClure
+3a52839f-18e4-43f5-a1e0-0ae813d9b2c3	Enkarma	http://twitter.com/EnKarma
+8e98df63-b8e4-4a0d-95c7-ca93d442afa9	Saint Lu	http://twitter.com/Saintlu
+0ce85418-ebcc-4dea-96f0-6ab43e661cb2	Maria Gadú	http://twitter.com/mariagadu
+cae4fd51-4d58-4d48-92c1-6198cc2e45ed	Trombone Shorty	http://twitter.com/tromboneshorty
+fff2bf29-be26-430f-ad20-33062c61333d	Naam	http://twitter.com/naamsongs
+93c944ce-d17b-4e52-af21-23ff465e2d12	Superlitio	http://twitter.com/Superlitio
+8d7ea2f6-2e74-4c1c-86de-8cccc3a54d24	Wakey! Wakey!	http://twitter.com/wakeywakey
+3b5427c0-b1e8-48b6-9590-15f82cfad6b0	Nataly Dawn	http://twitter.com/natalydawn
+ff222983-7204-4b53-be2b-0971333ad53a	Claudia Leitte	http://twitter.com/claudialeitte
+72931fc5-180d-422a-b9b7-fce1381e6bd6	Lucy Schwartz	http://twitter.com/lucyschwartz
+456104db-b21e-46a6-a094-1dd396f4c6a6	Bilderbuch	http://twitter.com/bilderbuchmusik
+09aa8d24-035d-4499-89a0-74dc2c1d5722	Сатана Печёт Блины	http://twitter.com/satanamusic
+0a4626a6-124c-4a4c-a47e-03ffa2cc304d	Grandfather Birds	http://twitter.com/grandfatherbrds
+6394d492-37f7-4aad-95c5-0557d31195bb	Loick Essien	http://twitter.com/loickessien
+15e00b97-aa18-445e-a42d-6368cfaf8d57	Lisa Nemzo	http://twitter.com/lnemzo
+e360f8ec-63a7-44ba-bcad-99b873721268	Elita Karim	http://twitter.com/elitakarim
+7f2aa196-cfd4-4a3d-ace3-28b7b6a79af7	SBTRKT	http://twitter.com/sbtrkt
+066ef9a7-1075-42a7-9252-bc3afce711fe	Kommando Elefant	http://twitter.com/kommandoelefant
+063734bf-43db-42ea-8981-12afca2b71de	Anna Roig i L'ombre de ton chien	http://twitter.com/#!/annaroigilombre
+28955336-2348-488a-9381-e3a7b0107343	The Band Perry	http://twitter.com/thebandperry
+8b62bb71-d60c-45a3-bf66-d1615fc269f6	Ultra Violent Lights	http://twitter.com/uviolentlights
+8386d976-933e-454c-8364-63f75dd7b7e2	Neon Hitch	http://twitter.com/NeonHitch
+37850584-9e17-444d-bc03-573685b7955b	Sean Foreman	http://twitter.com/kidquizine
+834ea2f7-1e5d-4c55-83a3-cc12b437237b	Dan Swana	http://twitter.com/danswana
+ca0e5399-e024-4422-98b2-9a9368a3a72b	Andy Janssens	http://twitter.com/aj_duncan
+e9a3af8d-426e-4557-b6b1-a2f85250e6f1	dustmotes	http://twitter.com/dustmotes
+3b7fa965-3e01-4cdb-94aa-d47a4928adfd	Kimberly Cole	http://twitter.com/KimberlyCole1
+c58c7817-420d-4268-bccf-f3d90565e2e6	Yuna	http://twitter.com/yunamusic
+d2be6115-6cac-4db9-84d4-7cac90be2326	Coloureds	http://twitter.com/Coloureds
+ac363039-9072-4825-8c8c-43c6beb31f65	Shigeomi Hasumi	http://twitter.com/shigeomi
+cc9a0d15-3dae-4111-ab75-22915614d48f	Double Famous	http://twitter.com/doublefamous
+8df5b20a-a6b9-454f-9a94-777716bc0fb5	Der Schulz	http://twitter.com/DerSchulz
+ce369d36-69c5-49c2-bf54-c0bb64efb5b9	Stripmall Architecture	http://twitter.com/stripmall
+26d6d510-55d1-42cd-96f1-16aef6a7ec5e	I Am Jack	http://twitter.com/iamjackband
+b632134d-e751-4202-a3c8-bd59a0be9aaf	Tomate	http://twitter.com/_tomate
+259bdba7-e6bf-49e3-822e-85ea3d68384c	Adrian Lux	http://twitter.com/Adrian_Lux
+9bb36fd6-afb8-4f87-a846-70b6ea784232	Vroudenspil	http://twitter.com/Vroudenspil
+f57177fc-474e-4488-8b04-3ef43cfce8ed	Office of Future Plans	http://twitter.com/officeplans
+13aaaa79-7124-43b1-8d1d-8d0b91dc2539	Fancy Me Yet	http://twitter.com/fancymeyet
+79ff19d7-a7c2-4af9-a6d0-575f98efd7d9	Royal Sapien	http://twitter.com/royalsapien
+0104e0a9-bced-4162-93bc-6fc7e0288114	Fez	http://twitter.com/wearefez
+3d280ce2-ccbb-4e54-b02e-826a0a7c5d5a	Diana Yukawa	http://twitter.com/DianaYukawa
+efcc2f1e-fcf9-45d4-b9f0-062ee3e0081e	yuiko	http://twitter.com/primary_yuiko
+4c53d4a4-73bf-4313-a9c5-65edba2f4243	Small Engine Repair	http://twitter.com/serepair
+b6cdcf87-c1e9-4e0e-a398-d437fbf8df45	こばきょん	http://twitter.com/kobakyon
+645c81f8-1d18-4490-aba5-3391bb48efc5	Mintea	http://twitter.com/minteadrop
+bc63e8fc-16a8-42d2-9ca5-535fb8d19118	蒼咲雫	http://twitter.com/aosakishizuku
+dc4f17d4-0bf0-4173-892c-6ca0cbd93b19	BC Jean	http://twitter.com/bcjean
+19c5f8a0-9888-452f-af48-b134e602a961	サクマアイコ	http://twitter.com/aivox
+1bd55ddf-a2b0-43c8-950f-d9d59542d697	Tobias Mann	http://twitter.com/tobiasmann
+2ed534d7-fddb-450b-8d1e-96dada4a34bb	Window Seats	http://twitter.com/window_seats
+26faa693-4cb8-407b-9c89-2a4447c57dd1	NoExitwound	http://twitter.com/noexitwound
+97e8f3b7-2868-4a2d-8648-7e4f68d1b8e3	Ms. Darks	http://twitter.com/MsDarks
+2a5cce88-4d95-449a-825a-0b85c416c92e	Kyle Kinane	http://twitter.com/kylekinane
+010fa07f-6c92-40f2-a570-0025e87a4277	藤井伸昭	http://twitter.com/nobmarley
+5c4201b7-b62a-4234-aebc-4f74608e07db	荻原亮	http://twitter.com/RYOOGIHARA
+7ff7873f-00da-4728-a4d8-b2231f8099f4	梶谷裕子	http://twitter.com/kazzikazzii
+9fbfa8be-408b-46c5-a03a-7f5767716ff9	melankolics	http://twitter.com/melankolics
+3244d18e-58a2-4233-9a60-c74f20281257	Berry Weight	http://twitter.com/berryweight
+0c07e121-400b-4a81-9cd7-705991210410	Ricky Koole	http://twitter.com/rickykoole
+ab1c48b2-3fd3-446b-9f3a-85d611066a16	Dumbfoundead	http://twitter.com/DumbFounDead
+3b787178-64ef-4af5-82bd-3aefac5ae6c6	Fallulah	http://twitter.com/#!/fallulahmusic
+c54d9d94-e94f-4d8d-850d-1c314bd4ee15	Super8 & Tab	http://twitter.com/super8tab
+f8e9e0e2-3b83-4869-972b-aa80f97fada3	Moguls	http://twitter.com/mogulsnet
+2931075d-5981-4fdf-ab64-f8c2274cd033	SIENNÁ	http://twitter.com/siennaweb
+dadb17f2-9065-4bcd-b17f-e925c9271b73	Pedro Rousseau	http://twitter.com/freshbodyshop
+3dcd4523-f482-4053-87e5-1ae9da0cc11f	Club Smith	http://twitter.com/clubsmith
+8a71cd02-aa86-473e-9760-cf262c39429a	Redlight	http://twitter.com/UKREDLIGHT
+1ba5b772-be9c-45d4-ba16-4829f97bd747	Dragonfly Lingo	http://twitter.com/dflingo
+6e2bc06b-7d4e-4116-937a-e24cd1edc422	Madeleine Bloom	http://twitter.com/madeleinebloom
+d3ba1e43-a5df-49c0-a75a-747508e0e8b3	Raphaël d'Hervez	http://twitter.com/pegaseinthesky
+0dd2765a-7156-4621-9398-d1a4a1d5b37b	Luigi Moy	http://twitter.com/luigimoy
+fb96b6e1-1f1e-428a-8142-3139153f9ee4	Rokoko	http://twitter.com/Rokokoband
+3c694c68-7fb4-4237-a70b-1b67bc032394	Joseph Yianna	http://twitter.com/josephyianna
+93e4ed74-d52d-4dcf-9048-122626af6f58	Barley Scotch	http://twitter.com/barleyscotch
+07a0ce09-4e7b-499e-a223-5e094660a67e	Monarchy	http://twitter.com/monarchysound
+4c671d5a-7027-4398-8055-03e61d1a3967	Cults	http://twitter.com/CultsCultsCults
+8ff5c97e-60cc-41e7-a614-dd22c793d9c1	Forus	http://twitter.com/Forustheband
+7ec131ae-446c-4503-b72a-7760fedb60f1	ベッキー・クルーエル	http://twitter.com/BeckiiCruel
+fdfb28ce-4b2f-4e1d-b748-90e0482c566c	サラ・クルーエル	http://twitter.com/sarahcruel
+691ae86f-c6d8-45de-b5a9-63ba73931912	Red Tape Parade	http://twitter.com/redtapeparade
+d47a7714-83a4-41eb-8494-6c98cdf31d68	Constantin Gillies	http://twitter.com/c_gillies
+c4a9ef8d-8cd8-4461-a8b2-c959fbc3c35f	Remady	http://twitter.com/REMADYMUSIC
+ae56c71b-b8b8-4186-98b6-ff8ccd878308	キャプテンミライ	http://twitter.com/tanzi
+86e511e5-74b7-49bc-b282-5947358541cb	Memoryhouse	http://twitter.com/inmemoryhouse
+ebeb8932-3dd0-4179-9a06-055258ad0913	Taylor York	http://twitter.com/itstayloryall
+cb2b9e04-260f-4c64-8456-d73f28258e55	Lena Meyer-Landrut	http://twitter.com/LenaMeLa
+1a971d5d-0f39-4f7f-8992-c95a7154b28b	Camélia Jordana	http://twitter.com/Camelia_Jordana
+9fcdaee0-3ba0-451d-b4ac-b4c36819c5a8	Joe Thrasher	http://twitter.com/joethrasher
+566c60d4-99ae-41f0-aad9-e1f327a5f178	Mount Fabric	http://twitter.com/mountfabric
+05260c54-391b-4e16-ad9f-60c2578a54bf	深青結希	http://twitter.com/misao_y
+582daeba-82a9-4111-a2bd-4c2d5d63f51a	Black the Ripper	http://twitter.com/blacktheripper
+74f2b04f-1c68-4811-816e-45f106f47a09	Sam Tsui	http://twitter.com/samueltsui
+dc3ccc21-217d-4e55-9d1d-5176a4d11cfc	Jumping Orbit	http://twitter.com/jumpingorbit
+53c9c1c9-ac0c-4d0a-8513-b385e247b763	Hannah Peel	http://twitter.com/hanpeel
+b1dd203a-b075-4f40-a9b3-2aad0d93fa73	Robin Grey	http://twitter.com/rgrey
+7857086f-87b2-4d24-a666-12eb4266aa55	Celadon Candy	http://twitter.com/Celadoncandy
+5b92a6aa-0a9e-4d83-ad57-6289374caf3f	Gsindl	http://twitter.com/GsindlBayern
+d868522b-8dc0-477b-9abd-a40f442310c5	Tânia Mara	http://twitter.com/taniamaramusic
+3cb1df5c-2eb6-4536-bc24-61c389eaa11f	IMALU	http://twitter.com/imalu_official
+2989c352-d538-49a2-9811-f4107c47c11a	The Lucid Dream	http://twitter.com/theluciddreamuk
+3b9e00de-c588-4984-9f01-ae8e481c4546	Paper Aeroplanes	http://twitter.com/sarahaeroplane
+8a2a351b-2434-453e-be62-94191c8eb09a	榎戸崇浩	http://twitter.com/takahiroenokido
+4cca07c9-c8c1-48cd-a019-0bca3e9a8638	杉山勇司	http://twitter.com/yuji_sugiyama
+2fffafac-c47a-4382-aae2-0ea98a1fdfd3	Rekorder	http://twitter.com/musikrekorder
+68648da3-771d-4670-855d-6feb6a3edf93	oOoOO	http://twitter.com/OOoOOsounds
+c1ef720f-c9c0-48b2-989a-6c92fb493fbe	Dream Mclean	http://twitter.com/dreammclean
+562fef83-c026-4bd2-a02b-a88cf66228d3	Whales in Cubicles	http://twitter.com/whalesincubicle
+bf78adcb-1d10-4df8-8fad-b4cde1d65dc0	Marcus Very Ordinary	http://twitter.com/marcusVordinary
+8eb58532-51a9-4f58-b4ca-4ac70a4a8fad	Starsmith	http://twitter.com/starsmiff
+8574399e-7675-40cf-a9d7-052db4f0443b	Firebrands	http://twitter.com/firebrands
+77016887-df44-4837-92cc-2bed9260f427	干瓢碁	http://twitter.com/kanpyog
+feefabd0-f45a-441b-8e7e-7a776c310f03	Turbolenz	http://twitter.com/turbolenzband
+7d514f8b-d6b3-4511-b9b8-97e6f75931e9	Fred Rapoport	http://twitter.com/freddyraps
+daa0c966-31a1-4754-b293-67ffe5b4ac18	The Mynabirds	http://twitter.com/themynabirds
+9f4453b8-46d3-4e49-9046-7a320deb587f	Stephen Jerzak	http://twitter.com/STEPHENJERZAK
+9699db52-f74f-4c98-999e-c853d0d39e14	James Spankie	http://twitter.com/James_Spankie
+27986a96-bb98-46f8-9523-35eb9d222c21	Valerie Gentile	http://twitter.com/bkaudiorentals
+b3bfeb2f-5082-4e10-82c4-d6dacd0ca0fe	Ballerina Black	http://twitter.com/ballerinablack
+50ee3204-13fb-4ae3-b152-82e3fc845110	Carla Morrison	http://twitter.com/CarlaMorrisonmx
+c0dc213f-3b37-497d-ac5b-5d2cf0c8e902	Andy Reid	http://twitter.com/djandyreid
+fca60501-4955-4655-825d-d36cd2c2cc69	YUG	http://twitter.com/yugmusic
+26f1c4f2-1b50-4e4f-abd0-a461871efd9e	Capri	http://twitter.com/capridelia
+8d66b09d-ee46-469f-a8ff-bb554cc124af	Zoe.LeelA	http://twitter.com/ZOELEELA
+59faab47-8895-4faa-a82e-f8c260677279	I Am Austin	http://twitter.com/iamaustinmusic
+3b7b1fd3-6952-4aa8-9467-40b105d1039b	James Vincent McMorrow	http://twitter.com/jamesvmcmorrow
+ffcf8e1b-90ed-4b95-81a9-6010eca60952	Vindicator	http://twitter.com/savindicator
+ee075e5c-0c82-4893-bf49-d2a224c04b20	FRONTIER BACKYARD	http://twitter.com/FBYofficial
+2e14c19d-21e2-4103-842d-7478381f2bdb	Caitlin Rose	http://twitter.com/thecaitlinrose
+b8a7c51f-362c-4dcb-a259-bc6e0095f0a6	Ed Sheeran	http://twitter.com/edsheeran
+0dec6317-fb97-4ba8-b139-aa9b4f2a7d6d	まいなすいょん	http://twitter.com/minusiyon
+931243da-32c3-4be4-aed3-9c95ee99978f	Amos	http://twitter.com/imperatorofpop
+143b396d-a678-43aa-8c74-628fea8e381f	How to Destroy Angels	http://twitter.com/destroyangels
+09288f5e-5fbf-4714-b29b-a8bb61fac777	Kele	http://twitter.com/keleokereke
+16020554-65c7-464d-a7ce-b44ab93f161f	Kisses	http://twitter.com/blowkissess
+ec0b5da9-c023-45b7-b5ac-f53657a42938	Tamaryn	http://twitter.com/TAMARYNmusic
+cb589717-2cd2-47b4-9262-84cf46adea54	東京女子流	http://twitter.com/TokyoGirlsStyle
+cb589717-2cd2-47b4-9262-84cf46adea54	東京女子流	http://twitter.com/TOKYOJOSHIRYU
+ead243d3-b6bf-4ba6-ba84-cb1eb6373c56	Tess Gerritsen	http://twitter.com/#!/tessgerritsen
+61c156ae-25ab-4df5-923b-087208d0a92d	The 2 Bears	http://twitter.com/followthebears
+6fd7c70d-fd2b-4e53-8418-0c93fc450edd	Eleven Tigers	http://twitter.com/eleventigers
+3543e209-f2c6-4a44-a710-c7cca048edd7	Circle of Bards	http://twitter.com/circleofbards
+1cf01897-42d2-4c79-90ff-7e404ae92124	Christian Biegai	http://twitter.com/berlinpigeon
+0928f1f4-a4a1-4679-9f02-ef0c18ece590	Alex Sopp	http://twitter.com/alexsopp
+c1f02620-bc56-47b1-903b-4067faa4efc7	Capture Kendal	http://twitter.com/capturekendal
+503c07fb-c00f-4555-ae50-3ac0a04e4148	Ryan Obermeyer	http://twitter.com/ryanobermeyer
+ccde1af6-ef9a-4f40-b4e5-8c85d310c938	Deathpodal	http://twitter.com/Deathpodal
+6eb6ea28-c522-4511-baf7-62a0934e17e1	Vonder & Bloom	http://twitter.com/vonderandbloom
+0a5fb6c9-e0ee-4e4a-bd7d-0d3a8b80b2a0	Vogelfrey	http://twitter.com/Vogelfrey
+1eed0db0-9b86-4399-b8f6-8fc62c1af023	The Fucking Buckaroos	https://twitter.com/tfbuckaroos
+4cc9a52c-3279-4d33-97ee-055e5ba627ca	Jay Malinowski	http://twitter.com/jaymalinowski
+d863bcd9-4abc-4ba0-a7c5-df90f0d14aa6	Magdalen Graal	http://twitter.com/magdalengraal
+7af04835-6566-4a9a-b577-de4151cf1b56	Jacqueline Mannering	http://twitter.com/shred_kitten
+35550eac-43cd-40e6-93fe-2e613b248ee6	That Guy With the Headphones	http://twitter.com/with_headphones
+05f3353e-e2d9-4344-a3c9-8009dd8e0427	Sky Ferreira	http://twitter.com/skyferreira
+ad0bd7eb-fe4f-44e5-addb-037775f0ea87	Lady Leshurr	http://twitter.com/ladyleshurr
+cdfccde7-afba-4ea4-ac64-3d9254ad0584	Plov Gotov	http://twitter.com/plovgotov
+9b14ef6d-119b-47b8-9d06-fc72901451e2	Roc Marciano	http://twitter.com/rocmarci
+e4e4df19-1581-4c15-a0f5-4f47f70f2a97	Arma Gathas	http://twitter.com/armagathas
+6c17b67a-71b2-4078-ae39-a11f0038c43e	Adryana Ribeiro	http://twitter.com/adryanaribeiro
+542f2a78-bd5e-4f43-95e5-c443523e3b50	吉村健一	http://twitter.com/yossyi0901
+53ef65bf-5fc7-4628-aa8c-6ff44380b414	Laserkraft 3D	http://twitter.com/laserkraft3d
+7716311f-e19b-48c1-bb7d-0d04bdc03bee	阿久津加菜	http://twitter.com/akusas
+4f476312-e0a4-4425-968d-fe7141d0258f	1973	http://twitter.com/backin1973
+6c8f0e68-2eb6-40db-b115-d3b57293128a	Julia Mancini	http://twitter.com/greenteapots
+adffa0bb-8e63-45d2-91d9-f0075462792a	Uwu Lena	http://twitter.com/uwu_lena
+c7bee23e-f9bb-4dee-b1e3-5d49f81cde11	Motorama	http://twitter.com/motorama_twit
+10502b11-8f3a-459a-b10f-256ccddd7abf	Sellyy	http://twitter.com/sellyymusic
+48938538-4779-4c94-a280-ace33cf6c01f	Marcos Cimardi	http://twitter.com/cimardi
+2734def5-c135-4476-8577-e1b756b03920	小林写楽	http://twitter.com/kobashara
+f7af8efb-2476-460b-a979-938bb6540a1c	戸田宏武	http://twitter.com/TodaHiromu
+99b8e237-52c6-4cba-85c9-2a53cc177fc1	In Legend	http://twitter.com/inlegendband
+4abebe04-1e85-427b-9950-563945850f2e	Gabrielle Aplin	http://twitter.com/gabrielleaplin
+61fdc79c-df1a-4999-8d2f-668f18c11283	Kvelertak	http://twitter.com/kvelertak
+d1f1cba8-b5ce-438b-99a3-e0a8456ac322	Black Whales	http://twitter.com/blackwhales
+cc5ee850-de2b-4df3-a72e-74852d90e9c1	Nathaniel Motte	http://twitter.com/NAT3OH3
+c731d01c-c799-4acc-a2bc-3f0bf21db9cc	Crowne	http://twitter.com/Crowneband
+f600bab0-5791-476a-af83-9de035e8f497	Inu	http://twitter.com/inuband
+4035e27c-09dd-4d91-b939-26f0fdf47254	Hiram Ring	http://twitter.com/hiramring
+35a0c669-7c7d-48a5-a1ce-c23d03fdf31b	Dead Earth Politics	http://twitter.com/depaustin
+fbfef345-a803-43ea-8774-1e4218d394da	Drew Millward	http://twitter.com/drewmillward
+e0e1a584-dd0a-4bd1-88d1-c4c62895039d	Foster the People	http://twitter.com/fosterthepeople
+096f4a0c-d7e4-4bbe-8617-92c938566e2b	Noctem	http://twitter.com/NoctemOfficial
+d4a7e4a2-fffd-4e04-94aa-8a968a71657b	Yamil Rezc	http://twitter.com/yamilrezc
+309f8de8-c9bc-480b-9336-7aab4a55cf39	Lo Blondo	http://twitter.com/LoBlondo
+7aec8ae6-65fd-4c69-adc9-4c062a6f2409	Bonnz!	http://twitter.com/Bonnz
+0730362a-0bad-419c-ab9d-2a93cc93c6ea	Oro de Neta	http://twitter.com/OroDeNeta
+d357a53a-3b38-479a-94e2-3e358bf25e89	Dan Keyes	http://twitter.com/dankeyes
+8544e819-41a1-47ce-8c78-d8c44ec099e4	Светлана Лобода	http://twitter.com/lobodamusic
+0ac8acec-5828-449d-8dbe-9d7a1293673a	Bugseed	http://twitter.com/bugseed
+d32e3f7d-5649-4a5c-9e68-0091dbfe5f1f	Kluun	http://twitter.com/kluun
+85782925-4869-436e-99de-f4972568b9f4	Panda Party	http://twitter.com/ohpandaparty
+0a83e7c1-ea94-4440-9b59-53f8fe1eb94b	Eftos-Trilogie	http://twitter.com/tunneltrilogie
+bb7909b0-e42e-44b0-9601-2ecb03262d75	The Sexy Accident	http://twitter.com/sexyaccident
+6b933866-684c-496a-ab46-59ae825424fe	The Q4	http://twitter.com/theq4music
+c0fda99f-1c43-48b0-9fe0-5337f7d0c519	Leo Wundergut	http://twitter.com/wundergut
+55501cc6-c291-4456-a86a-1ef61019ac95	Apollo Brown	http://twitter.com/apollobrown
+295b631d-b36b-4751-b22f-140271247de4	Weldroid	http://twitter.com/weldroid
+f0301343-059a-4f68-a0b0-c6c447680c8d	Liam Bailey	http://twitter.com/liambailey
+82816e08-5468-44bd-9625-b31221504551	Nico Lindsay	http://twitter.com/NicoLindsay
+1a5d1d9e-5c3c-49b8-928b-db776bf5bfb0	Heifervescent	http://twitter.com/andrewdoran
+ecf623cb-e4f0-47d3-9dd3-a20907c32908	Black Liquid	http://twitter.com/blackliq
+bb662b78-18f8-40a1-9b1b-48e2bc1a09b1	BRAHMS	http://twitter.com/Brahmsband
+251a4779-72cd-4482-b9ca-cbd89bc1e165	MNDR	http://twitter.com/mndr
+6006ab3d-da40-4474-9cfa-c6b13f63240d	Jaill	http://twitter.com/Jaill_
+f483991a-45d9-489f-97ed-4770d1856d14	Discarda	http://twitter.com/discarda
+41c361d3-a098-4eaa-b028-95940ab9fdd8	Lee Brasco	http://twitter.com/LeeBrasco
+6001d8c3-7d20-4434-9805-33685ec98781	Opium	http://twitter.com/opiumartist
+a0d9675f-4716-454b-a8a2-eb236736d6f4	Schwarzes Fragment	http://twitter.com/BlackFragment
+4817bcfa-6c20-4ad7-8439-ddf0ac0c9476	We'll Die Smiling	http://twitter.com/welldiesmiling
+1640035a-a813-4c12-91ff-34efc76e6c80	Димна суміш	http://twitter.com/DymnaSumish
+e9bc97c6-7cc2-4461-8b28-84222129b00e	Fakultet	http://twitter.com/Fakultet
+ec65845d-6b9b-4bce-b574-a50169c94f6a	Крихітка	http://twitter.com/kryhitkaband
+5d430f8d-d2ce-4b16-92fe-4822602b7130	Ella	http://twitter.com/EllaAminuddin
+9fe97fc1-fbea-4f0f-8c1b-e34779a9a6de	Dragon Red	http://twitter.com/dragonredband
+a91cf433-d8ef-4086-b00e-2c8589a9c2a0	Amy's Ghost	http://twitter.com/amysghost
+b3c99f9d-5ef9-4be9-bc7d-9988ec56af3d	Parlovr	http://twitter.com/Parlovr
+275c0020-3de9-4655-b76c-8cb2fe92c0b6	板野友美	http://twitter.com/tomo_coco73
+a2c80df6-390e-4c51-91f9-a8eae45335cd	My Forever	http://twitter.com/myforeverband
+02d537ae-b04a-4813-985b-975c181aa788	Shockparade	http://twitter.com/shockparadeuk
+b7f64900-efaa-4c47-97f0-0a828f0bb194	EYEC	http://twitter.com/eyecofficial
+2bb845d8-4f8f-44d9-b9ee-666adc1eb1b3	カサリンチュ	http://twitter.com/kasarinchu
+535af354-4fe9-4326-968f-baaf30365871	My Terrible Friend	http://twitter.com/TerribleFriend
+d109641a-1914-4cae-8d6b-aea6d5ae7618	Adam Fisher	http://twitter.com/adamrupert
+11e9f359-0e55-40e6-8ab5-04daf1c326d5	Yumi Kohsaka	http://twitter.com/littleyumi
+d01bf1e1-0747-4059-b46e-f5fca1e3a38d	Joana Duah	http://twitter.com/joanaduah
+7cf17f39-5612-4efa-b151-906e8c6327c4	Camilla Kerslake	http://twitter.com/CamillaKerslake
+46039fa7-af3b-4e09-aa52-454ed3d2eaf3	karuta	http://twitter.com/karutatv
+7c1a6984-3323-4de7-a1ed-dd61028fadb7	Michael Madruga	http://twitter.com/MichaelMadruga
+26a0b782-8dd6-468e-bd80-369689d159ea	Brandon Proff	http://twitter.com/brandonproff
+40f30781-46d2-4945-b5e2-889012fa40c3	Josephine	http://twitter.com/ThisisJosephine
+254a75e2-79b6-4cf8-b667-dc16f5b4d0bb	Runaround Kids	http://twitter.com/runaroundkids
+a45f5ceb-ba1f-4923-a716-b05f8e9b130b	Things That Occur in Nature	http://twitter.com/TTOIN
+1464b8b6-f66e-4d09-b316-45279dc42b17	Peter Barakan	http://twitter.com/pbarakan
+b6930347-a420-4e94-8ac6-0f2a58626821	崎本大海	http://twitter.com/sakimoto_hiromi
+09c66ecf-b925-47f0-9895-f504cef92f93	Вера Брежнева	http://twitter.com/VeraBrezhneva
+fc42a535-6e4f-4b51-a6c3-f4e7608808ab	Анна Седокова	http://twitter.com/real_sedokova
+23371200-72f9-4002-befe-bde4064d5bad	Midi Mafia	http://twitter.com/midimafia
+b00e9805-59d4-4847-9fc6-42dc3bf16bab	笹本優子	http://twitter.com/sasayou
+3cdf9b81-e973-47c4-802b-0b4e99cba8c0	Innocent Exile	http://twitter.com/THEEXILESBAND
+b520be21-ec0e-4fda-8dd9-98c2fb3a7369	ShiGGa Shay	http://twitter.com/shiggashay
+dc99e6fd-c710-4f79-b74b-127b4d0b7849	Labrinth	http://twitter.com/labrinthda1st
+334f802f-6c8a-4b36-a74d-6f59bd8bd618	Saint Loco	http://twitter.com/saintlocoband
+845391e0-bb33-4ec1-ae8c-a0e627fa53d9	Пара Нормальных	http://twitter.com/gulyk_andrey
+a9204803-97e6-4c4d-8396-4c6a3e55f060	Society's Plague	http://twitter.com/societysplague
+09778559-2990-4a03-ab32-63e81bad2f68	Demans	http://twitter.com/demanstr
+1244b40b-98da-41a0-b7fa-099cc7d74709	Chris Garcia	http://twitter.com/ChrisgarciaCGC
+639a9766-297d-4053-821b-91abb3e4d275	Frankie Ballard	http://twitter.com/frankieballard
+d5b89a97-1b63-4f33-ad7e-065b6e0a4d40	Stealing Angels	http://twitter.com/StealingAngels
+3718efd7-012d-4811-873a-dda4a3640ee8	The JaneDear Girls	http://twitter.com/janedeargirls
+5f80f92f-7179-4127-a8c1-dfe9c6080315	The Randy Rogers Band	http://twitter.com/rrbchoir
+2df30b6c-997d-4c3f-abb5-5e0d6317ea57	Katy B	http://twitter.com/katybmusic
+cf34820e-72ac-4fa4-b9a8-a0c891ca9c8c	戸部田馬準	http://twitter.com/bajunetobeta
+89638d5a-0295-47a4-8dae-bce51ee6d3af	トベタ・バジュン	http://twitter.com/bajunetobeta
+b28ac005-27fe-4bb9-86a2-dbf55ef21469	Hoodie Allen	http://twitter.com/wearehoodie
+f1272428-d9a5-4c96-acd4-6e9f59974fc0	Kato	http://twitter.com/katodk
+714f8954-deea-4c53-bb05-81a209f5a9bf	Daniel Graves	http://twitter.com/daniel_graves
+3acff525-ebb7-46f3-bff2-e0b16dea8b09	Ariz	http://twitter.com/wan_ariz
+d96edb61-d3dc-4099-bb6f-7cd692951e61	Hopie Spitshard	http://twitter.com/hopiespitshard
+80f693ea-eb52-4e61-b0f7-d7d92be2b7b1	Henry Wolfe	http://twitter.com/hankdubs
+66a4f306-3db1-484a-b693-600e1ff3e328	John Masters	http://twitter.com/johnnymetro
+96c29768-3911-4f99-96bc-4000b58cfbd9	David Malitz	http://twitter.com/malitzd
+d880d136-a4de-4de2-a18b-d05bd844db5d	越尾さくら	http://twitter.com/sakufinity
+cd7ef5ad-2f1b-41db-b38d-3df75b5d5b90	Jairus Khan	http://twitter.com/jairuskhan
+b022be55-79de-4be8-9efa-1932ded0850a	Prince Zimboo	http://twitter.com/princezimboo
+1995616d-dc15-4077-bfd9-79f55772270c	The Everly Pregnant Brothers	http://twitter.com/everlypregnant
+264595fc-8282-481b-91a3-bb9b46ddcf50	Ed Drewett	http://twitter.com/eddrewett
+12cffa64-f5ef-41a0-8f7e-17e41c053a02	Raul Zahir De Leon	http://twitter.com/raulzahir
+163c8bbc-053d-4208-ae42-4cb0dc75f050	Gold Motel	http://twitter.com/goldmotel
+696e066a-f99a-4053-96a8-32a803e8542a	Sinamantes	http://twitter.com/sinamantes
+2e02e882-9ba5-43d6-9622-0819e13eefcf	Bella Ruse	http://twitter.com/bellaruse
+f05c1700-e57f-45b2-9602-d3eb837f9c4b	Earz	http://twitter.com/earzartist
+7416f5b1-3c52-4833-8616-577c1d1b48a1	桜庭わかな	http://twitter.com/wakana_sakuraba
+04b6270e-27a3-48da-bdf2-eb37a92062ef	神田川雙陽	http://twitter.com/SUIGADOU
+300f0f47-74cf-4123-8d0e-76e38cfd308d	びびあん	http://twitter.com/vivi25enne
+3cdb40fe-a63e-4bb9-b40d-17cda5f50979	Lil Simz	http://twitter.com/lilsimz
+059e49ce-6d3f-41b7-84d7-3dbc70a67a55	Kristina Horner	http://twitter.com/kristinahorner
+1d703a9c-8af2-401e-aba8-0f52715d02f8	Luke Conard	http://twitter.com/lukeconard
+98cb416e-5271-484c-ab3b-6bed6b4aae12	The Head and the Heart	http://twitter.com/headandtheheart
+6e855ecb-5e1c-4ca4-9bdd-1b365326c3fe	Paulo Coelho	http://twitter.com/paulocoelho
+bcb16f22-b064-4b80-b3a3-c824bccdbab1	The Wanted	http://twitter.com/thewantedmusic
+e5ff7db1-d6e4-40ff-b0d8-f79bb377b763	The Compilers	http://twitter.com/thecompilers
+f2a3ecfe-b4dc-49ed-8248-b5d996c18324	Jenny and Johnny	http://twitter.com/jennyandjohnny
+5af00277-af33-4fb9-9102-3644e7eddabc	郷田ほづみ	http://twitter.com/HOZMIX
+fb4ac3eb-5d4c-4809-95d2-4ff715fe230a	Joanna & Co.	http://twitter.com/joannaandco
+175b7fa9-fc1a-4923-b5da-26cb6dc2eb04	Nadhira	http://twitter.com/NadhiraNishaa
+88813f93-d689-4598-ad58-0e4af84ea1da	Misteur Valaire	http://twitter.com/misteurvalaire
+257f84f9-a920-40cd-a810-3e48c57d275d	Mohombi	http://twitter.com/mohombi
+659b8dd7-6cfc-4bf2-9c5d-a7958e1c07b6	ЕТСЕТЕРА	http://twitter.com/ETCETERAband
+745deb35-5d7e-4fc1-9fdb-65110ee4ce98	Scotty D	http://twitter.com/djscottie_d
+fbd9c6f3-3260-49be-bc37-960b6e4656cc	Boyce and Stanley	http://twitter.com/boyceandstanley
+8d831383-b22b-4237-8059-12bee111e4b6	Twin Shadow	http://twitter.com/thetwinshadow
+167e5e7a-e0a6-4d7f-a12a-dc6ced5af0c6	Wesley Quinn	http://twitter.com/WESLEYADAMQUINN
+277b8355-c71b-476e-89f1-ca93bb6497be	Daniela Katzenberger	http://twitter.com/dkatzenberger
+ba62d4c6-175c-4d79-b651-ab406fc485b7	Jan Wittmer	http://twitter.com/janwittmer
+51b3b6ca-d006-4da3-9ca7-9b32044a5f47	System Divide	http://twitter.com/systemdivide1
+a78d402a-c379-4e6b-9c57-0dd55642fcc9	King of Conspiracy	http://twitter.com/koctwitter
+027dc910-b3f8-4ea2-b034-67aab490cf1b	Fire! Santa Rosa, Fire!	http://twitter.com/firesantarosa
+8ff48e4c-d8ba-4515-85c2-0ae38fdf03e5	Tabaloko	http://twitter.com/tabaloko
+53ef02b7-bd60-4e07-b1e3-1dabf36bb288	Eskimo Twins	http://twitter.com/ESKIMOTWINS
+2272fbdf-563c-470e-9ca2-2efa03c5c7c0	The Nuri	http://twitter.com/thenuri
+875b423d-6e30-47c1-8498-aee4c366774c	廣井照久	http://twitter.com/o_hiroi
+b170587f-732a-488e-bc99-6860fd1a9956	広井王子	http://twitter.com/o_hiroi
+440259a1-2f42-4bd1-b3e7-4e0853ec4f36	เชษฐา ยารสเอก	http://twitter.com/mickchestha
+9be06037-826d-4bde-9585-e68023100996	The Sparteens	http://twitter.com/thesparteens
+ff93bace-64be-4334-a33e-f2a442d8f239	Marty Goetz	http://twitter.com/martygoetz
+5fad00a8-e039-4c0b-a22b-859f761f4397	St1m	http://twitter.com/st1m
+90b1159a-0cf8-4e3c-932c-843c15f76a4b	Joachim Fuchs-Charrier	http://twitter.com/fuchscharrier
+acf86e63-f56f-452a-91d8-7656c5f9cf23	BELLS≥	http://twitter.com/bklynbells
+533cf530-23e4-466c-9a8d-49549b007480	Emma's Imagination	http://twitter.com/Ems_Imagination
+57aabc9c-15b8-4e04-a28f-39a2eac540bd	El fill del mestre	http://twitter.com/elfilldelmestre
+9acb50b5-bdb3-408f-9022-fb67b05b2fb9	Levi Ware	http://twitter.com/leviware
+dd7a8c93-12e3-4fd6-ae93-8447d6f4dc30	ぢょんP	http://twitter.com/jontamasan
+98f8e048-f14f-4ef9-a958-5a79f2f6b542	Guards	http://twitter.com/guardsmusic
+b6ae98a7-2c25-43f8-aa96-fe70bf2216fd	うどんゲルゲ	http://twitter.com/udongerge
+5030616e-6441-4cfb-85c0-d953f8941dab	くらP	http://twitter.com/kura_p
+fab379fc-846a-4484-9878-a381be24c919	ワンカップP	http://twitter.com/onecupp
+6e5c9532-55fa-4441-9f95-e330f15546ea	マチゲリータ	http://twitter.com/machigerita
+adfdb8a0-b88a-4fb0-8db2-c3a257e0c1b8	浅井真紀	http://twitter.com/masakiapsy
+695ad9b0-fe83-4ebd-8c45-91b1ce2067af	Kusemono	http://twitter.com/kusemono_st
+4a0d18b4-a0a8-4037-940a-e8b36e412931	Avatars	http://twitter.com/avatarsband
+2e62ea81-e305-4a72-bb01-cc898b883dbb	Shalla	http://twitter.com/shallamusic
+b52d35fc-899c-4225-88f5-053041d05290	Caracho	http://twitter.com/carachomusik
+03809637-070b-4b42-8d4d-4d23d3d3c149	IC Falkenberg	http://twitter.com/ic_falkenberg
+4b2c5e45-abfd-4e54-8955-2c9abbd12aeb	My Favorite Scar	http://twitter.com/myfavoritescar
+ae7614ac-72dc-4547-9613-ebb80224d676	Sahara Smith	http://twitter.com/saharasmith
+d2a0f3c1-c859-4af6-b99d-52b0f9dbfe50	Анна Семенович	http://twitter.com/semenovich_anna
+48273af5-1433-4dfc-b0c1-c00495c09d0a	A Genuine Freakshow	http://twitter.com/agfreakshow
+97737a7d-b4fd-4baa-850e-e121af936db5	George & Jonathan	http://twitter.com/georgeNjonathan
+18cb0186-8154-4ab1-a7a7-70e5a6525131	Hidden Orchestra	http://twitter.com/HiddenOrchestra
+d0bb30ef-f64f-4763-b9f8-9e4f7532435b	Eneko Ramos Moragues	http://twitter.com/Enekoramos
+921a250f-2f99-4a66-8623-1d639b89b525	Mike Stamper	http://twitter.com/stampcore
+82566d06-2ef6-4210-ac26-3ba5733e21dc	Mäander	http://twitter.com/maeander_musik
+4bca4a37-e386-43e1-96e6-c4a29bf87694	天音未優	http://twitter.com/amanet_myu
+85d89558-8bd3-45a6-8864-105918f29757	Hannibal Buress	http://twitter.com/hannibalburess
+7a48384e-fa99-40b5-a2f1-60208d633225	崎谷健次郎	http://twitter.com/sakiyakenjiro
+619c65e0-2f38-4f9e-8d6d-c9a9d1bf26d3	Miss Isabel	http://twitter.com/Miss_Enemy
+456fcf96-cd78-4b7d-abea-c577ddd4c65f	Isabelle Foster	http://twitter.com/Miss_Enemy
+3f2762e1-a82b-44c1-966f-bcef4c3bf4ea	LookiMakeMusic	http://twitter.com/lookimakemusic
+a1605fb9-d22a-47c3-93ad-84ebec3a5d4a	Aldan	http://twitter.com/bandaaldan
+a0e81215-42c1-42cd-a7ae-e032920ec69e	大地丙太郎	http://twitter.com/akitaroh
+82f64a42-1e61-4d21-955f-3672ddc63815	吉田将樹	http://twitter.com/Yoshida0302
+c391fd22-da05-4e97-ad55-41bf91e0c1cc	Braids	https://twitter.com/braidsmusic
+f2157ef0-6c6f-476b-962b-d3c53ffb78f0	川久保裕生	http://twitter.com/YousayKawakubo
+a9377f32-1157-49d7-ad2c-57655d240bbc	YOUSAY KAWAKUBO	http://twitter.com/YousayKawakubo
+b9e82c61-c1ec-4b42-9233-ca3567d2f2da	Benjamin Francis Leftwich	http://twitter.com/BenLeftwich
+897bdf70-958a-4c99-8638-2fde0e672cd4	Rodello's Machine	http://twitter.com/rodellosmachine
+a384a942-5068-4d25-bfdb-ece2434eb342	The Nymphs	http://twitter.com/thenymphsmusic
+b654dd8d-51eb-4226-af59-55e736759009	Geoff Lapp Trio	http://twitter.com/GeoffLappTrio
+69dd9914-2c0b-45a8-af22-54cd14bacd39	Kevin Lester	http://twitter.com/thelioncityboy
+a6e70253-7f00-4347-8cda-652f34526ebb	Fistful of Mercy	http://twitter.com/fistfulofmercy
+3f26fc31-8d88-41f8-a689-f717e543dd41	村山☆潤	http://twitter.com/jun_murayama
+82a7c979-356d-4616-aa36-a9787e151fda	Annie Reeds	http://twitter.com/NONTANNE
+57729fc3-2691-41ba-984b-cd9237005dce	Ralegh Long	http://twitter.com/RaleghLong
+d7aa01ab-02e5-4700-93ce-1dc4560b39ea	Christen Lien	http://twitter.com/ChristenLien
+7563393d-6dd4-4f2d-86c8-2099f2442f5d	Codi Caraco	http://twitter.com/CODICARACO
+133f6076-1f5b-4fdc-a25d-0c8129ce72e2	小田ユウ	http://twitter.com/odayuuu
+184bf0f1-1926-40df-be09-fc9d9e6f8d47	Matt Monro Jnr	http://twitter.com/mattmonrojnr
+5643d746-8afb-48f7-8e0d-7bd831a7b5b8	Tom Parker	http://twitter.com/tomthewanted
+0d12e49d-8a58-4081-a9a5-13bf2f7d5047	Max George	http://twitter.com/MaxTheWanted
+f07b4f9e-daf1-4617-9dfd-21237927e59f	Dee-1	http://twitter.com/dee1music
+ac23fdac-3e9f-4ec6-b614-87a21db99577	伊平友樹	http://twitter.com/iffy_guitar
+8648e7fd-d52a-4127-9fc1-851f0f890741	Jay McGuiness	http://twitter.com/jaythewanted
+292e4a04-ed9b-4963-8075-0576f1dc3487	Nathan Sykes	http://twitter.com/nathanthewanted
+6fffed3a-76aa-44d9-a28c-c810913a77d8	Siva Kaneswaran	http://twitter.com/sivathewanted
+1e1ae1b7-c6e2-4462-9d76-3be9617e62c7	此糸ウルヱ	http://twitter.com/koreito
+7c6e38dc-9cbd-4bf1-9f23-d66c0619734d	米山玩具	http://twitter.com/yoneyamagung
+8eaaa049-75ae-48f0-aff5-8f78b472b0d7	松井敬治	http://twitter.com/keijiprimrose
+e28de1b7-68c8-4c11-beec-bceca4725567	Tor	http://twitter.com/torcesay
+7d210ea9-d6e8-4683-8d4f-0d6bafda266b	Darius Campbell	http://twitter.com/dariusofficial
+2d23f5c8-c62b-44fe-b429-dea8fbbe3623	Simon Little	http://twitter.com/simonlittle
+0c1df989-1c6f-4511-9d90-15eeaf3189e6	Rowdy Kiddy	http://twitter.com/rowdykiddy
+7c35a115-8711-4999-91e7-186580538158	Aaron Negus	http://twitter.com/aaronnegus
+cc625e01-fe3e-4d8c-bce5-cf1e63a3d7ae	Japanese Cartoon	http://twitter.com/japanesecartoon
+f07d2a0a-955f-4adc-b70a-7aba348f343d	Dulce María	http://twitter.com/dulcemaria
+f455f287-758a-4452-9769-17bac6910b10	Jann Wilde	http://twitter.com/jannwilde
+f5f75366-3613-4594-8788-f58d918a59c4	Mirko Oberto	http://twitter.com/mirkoberto
+0c921431-ad76-4577-bf99-78403d12f6b0	Manillio	http://twitter.com/manillio
+d3a4de9a-5931-46de-9aca-56aed2a3ef48	la dame blanche	http://twitter.com/ladameblanche
+2410b985-9e8c-437b-83de-113e39565a55	Matt Cardle	https://twitter.com/matt_cardle_uk
+1a425bbd-cca4-4b2c-aeb7-71cb176c828a	One Direction	http://twitter.com/onedirection
+8d976b5c-2b65-45cc-9df1-0ab99e437730	Drew Doucette	http://twitter.com/drewdoucette
+7da5a276-e23a-44c7-b98b-8e2c5c39332f	Casper Bangs	http://twitter.com/casperbangs
+c5271ed7-bbda-4f16-bf55-cb248a532463	Marcus Fischer	http://twitter.com/#!/mapmap
+1803a291-67f6-44e0-9bfe-663f9d30e7df	ふれいや	http://twitter.com/2020208
+0105281e-30c0-4fd3-b99a-4455f15c03a2	Tree City	http://twitter.com/treecityhiphop
+77f30941-342c-44e1-928f-2a496cb753ff	Red City Radio	http://twitter.com/redcityradio
+30780db0-1624-47b3-a1b1-d2a3409bb9d5	中安亜都子	http://twitter.com/atsukonkys
+4190b001-7aa6-42c2-9c53-31356b11bf38	伊藤なつみ	http://twitter.com/natsumiitoh
+88e0c85b-0f4c-4ecf-b176-b0e884069436	Keiko Börjeson	http://twitter.com/keikoborjeson
+8900f5be-2724-4937-9b0a-13d3762371fb	Tony Savioli	http://twitter.com/tonysavioli
+e0dff1ff-b91f-428f-b951-74c206f7f951	Tone Damli	http://twitter.com/tonedamli
+bab902ca-6c04-476e-937a-de69a416fd93	Blizzy Black	http://twitter.com/blizzyblack
+6dbdf044-ff1e-456c-aaf1-f687221566c5	Sna-fu	http://twitter.com/snafugdo
+7665dbfb-fd20-4f9f-8d69-e4bb1002b7b4	Meg Gardiner	http://twitter.com/#!/MegGardiner1
+ddbb6239-c8a0-49a1-93de-f6cf9e2346ad	hàl	http://twitter.com/hal_hallystar
+36fbbbd4-248e-46cd-8d94-b77f809743cb	ASKA	http://twitter.com/ASKAxASKA
+b08c4319-f61a-4c3a-9b69-50b5bcd24722	Inch Chua	http://twitter.com/inchchua
+cac1f99e-3b42-458d-8e6a-d8baadb62fda	Brandi Cyrus	http://twitter.com/theBrandiCyrus
+a2030c8d-cad0-4327-9534-47761f8ef0f0	The Green	http://twitter.com/TheGreen808
+47d46f2b-7398-41d1-937e-55f16ffd4d31	Imaginary Cities	http://twitter.com/imaginarycities
+f4dbd6d4-e73f-4bf7-a23d-ba8dcbac56b2	For the Imperium	http://twitter.com/4theimperium
+5e8d08da-4003-4813-8e74-8ed46478b453	Mustache!	http://twitter.com/MustacheRocks
+3184f8a0-f786-41d0-8bcf-222b09379bbc	Noah Shain	http://twitter.com/noah90210
+da61af28-fff3-4ed2-900d-730c7611b3b1	Wayne Pighini	http://twitter.com/bowlofdix
+0fdc9e9a-6004-4ad6-8405-e0ba979de070	Alise Joste	http://twitter.com/alisejoste
+6eb5862e-ce17-4599-a3ec-d5a719d0d86e	Tectum	http://twitter.com/tectumband
+4e948360-3283-42a1-8b8c-b1e16c3fd600	La Original Banda El Limón de Salvador Lizárraga	http://twitter.com/originallimon
+9469518d-ed8b-4949-9bda-e50a4a636cde	Disco Ruido!	http://twitter.com/discoruido
+d50a9bff-29dc-408b-8398-dba71db15751	The Sequins	http://twitter.com/TheSequins
+0702ffd3-fced-49f5-951a-106a249ffdcc	Mark John Hariman	http://twitter.com/therealmarkjohn
+fc7e2765-87e3-4d25-84de-b4229bf8eb0c	Patch Pacher	http://twitter.com/patchmusic
+b335c715-9f8e-4b48-a7c7-0805ab6a1794	Mary-Noëlle Dana	http://twitter.com/mndana
+9ba347db-f71a-40f0-b8d5-ed2231933ea6	滝本成吾	http://twitter.com/imp555sts
+7ebe0b8a-2a68-4fe2-a361-f667fa618b8f	吉澤響	http://twitter.com/yszwk_dr
+c4fc2aa0-294a-448d-b3e1-5ef6c5630a9a	ただすけ	http://twitter.com/tdske
+9c91fdc5-192c-47a9-9562-067fb16a51cb	Ассаи	http://twitter.com/assailive
+7389422f-074f-45ff-a9b8-5790d3c84c08	The Secret Sisters	http://twitter.com/thesecretsister
+c3208999-b579-4fa6-bdea-55b7a09e7f9d	松島詩史	http://twitter.com/matsu423
+0149bd96-c275-449c-9717-9da3126d6275	YAAKS	http://twitter.com/weareyaaks
+3500921f-bf22-444d-b4b8-04bdcd5d293f	High Five	http://twitter.com/highfivemusic
+9282be34-5ade-45df-bc96-a92bb27bc959	Hassliebe	http://twitter.com/hasslieberockt
+9eb381bf-190c-498f-8553-9a406edee1fa	SOLASHITA YU⇒KA	http://twitter.com/YUKA_SOLA
+3d264dc4-b1f2-409f-8ab4-3d17d8b42b02	Jamala	http://twitter.com/Jamala_jazz
+ce3d0713-d032-4164-9014-43a669e0e953	Sturqen	http://twitter.com/STURQEN
+61e2514a-37f4-44aa-b205-ea7d657a1ed9	Arcadian Kicks	http://twitter.com/arcadiankicks
+e3fb5bd1-0b1a-44c5-8523-da2cfef5d69f	Yasmin	http://twitter.com/itsYasmin
+14e8aab0-d790-42db-9459-a5ad787589a5	Jodd Knight	http://twitter.com/joddremedy
+879cb760-4582-440a-85f0-02854d12482d	Microwave Jenny	http://twitter.com/microwavej
+e978cb72-6da6-4e7c-866f-3481a349b128	Dan Sena	http://twitter.com/dansena
+80035247-37e9-4d0f-ab0a-a262907b6198	Ole Marius Sandberg	http://twitter.com/olebass
+2947821a-da4a-4336-b598-0bb0225134a6	中村貢	http://twitter.com/mickynakamu
+43b8c9f6-9dea-4932-bd3c-951f2994a962	坂知学	http://twitter.com/p_saka
+a9130519-6a83-4b48-888d-1f731481762f	Coldsteps	http://twitter.com/coldsteps
+b6204e4d-7e0a-41c4-8f6a-5b61cf75bf7f	Kapella MC	http://twitter.com/Kapellasilva
+a15c2edb-e8bc-411e-8397-8f8fcdaa7659	Ruff Diamondz	http://twitter.com/rdofficial
+381086ea-f511-4aba-bdf9-71c753dc5077	Kendrick Lamar	http://twitter.com/kendrick_lamar
+58fef86c-18db-4544-95f6-0b66bb55b15a	MrVoletron	http://twitter.com/mrvoletron
+95818529-5490-4335-8965-93b679f2f2b3	ちょうちょ	http://twitter.com/choucho_
+e31ec25e-af90-4e19-a848-2da2339caeb4	Mammal Club	http://twitter.com/mammalclub
+a553b88d-5b09-450b-b745-731761946f3a	ななひら	http://twitter.com/nanahira
+4a10e718-8d53-4bc1-b06f-4f36e68bf12c	翔月瞳	http://twitter.com/kazuki_hitomi
+5d0a5dfb-5d73-4816-bf7f-0a92a2b89962	ヲタクのこま	http://twitter.com/wotakunokoma
+280f514c-fe86-4dee-b73d-978d5e935daf	The Unusual Suspects	http://twitter.com/folkbigband
+5d8e5865-1e33-49f9-b0da-f6eeabf2889f	Micbandits	http://twitter.com/micbandits
+2e68d637-dcae-4176-8077-643a3a9c9512	実谷なな	http://twitter.com/mitani_nana
+2422cdcd-aa7f-4e31-88ed-c2d1cfb2467e	雪月ありす	http://twitter.com/alice_yukiduki
+a0e10984-0eca-4920-a171-5fd7a62ee069	Beady Eye	http://twitter.com/beady_eye
+8a513ddb-cf87-48be-a1e7-72920fdba399	Muzique	http://twitter.com/ImSoMuzique
+a2ffb90c-8c81-4c63-bd2e-5641b22f3452	Cel22	http://twitter.com/cel22uk
+31205155-98c1-446c-92c4-1051802ea9ba	Darkos	http://twitter.com/DarkosBC
+04a6259e-f160-4c88-87b2-d9caf482caa0	Darq E Freaker	http://twitter.com/darqefreaker
+08e2deff-602d-40dc-9f86-9159494d0364	Dimples	http://twitter.com/dimplesgfam
+a515387e-700f-489e-bbbb-32dd81b6ba4b	Doller da Dustman	http://twitter.com/lifeofdoller
+1e5b9f82-1e9c-426e-aad9-9d3c2bc8e892	Ego	http://twitter.com/egoft
+287cdd13-9630-4293-828b-dccb5f96374c	Hammer	http://twitter.com/hammermusic
+268df0ad-950a-45b3-9a88-2a888a99a6e4	Hypes da Wize Guy	http://twitter.com/hypesdawizeguy
+8550156d-9bf9-46e5-bf07-aa99cfe5b327	Jammz	http://twitter.com/jammz
+0d3c1b8d-7b0a-4db5-bae3-7585b31ab162	Marger	http://twitter.com/itzmarger
+7fa3de0f-6ff6-4c82-9db1-862d999b17ee	Merky Ace	http://twitter.com/MerkyACE
+18b31dae-998a-43c7-a8d5-c3faece53e44	M.I.K	http://twitter.com/mikmusicuk
+c3cc6b64-05fd-4d62-a56c-9b5d22802e26	Random Impulse	http://twitter.com/randomimpulse
+d7763bd4-6ff0-4b79-9e95-929753eb299a	RD	http://twitter.com/RD_NT
+cc619b7f-add4-4c15-a0c4-21f01f2d5bbc	Rival	http://twitter.com/jusrival
+c0ae1f19-dab7-40fa-9c1b-7f1132f33929	Scrufizzer	http://twitter.com/scrufizzer
+57ae1d1c-a882-4cab-9b4a-c0ca740d3c25	Siris	http://twitter.com/SirisUK
+3c34ba3e-77c4-4414-a2c4-f1ce5b21626b	Slaughter	http://twitter.com/slaughter365
+0aace0a9-6345-45e8-afdd-7d2b123f346d	Stelf	http://twitter.com/stelf_uk
+e42d21fd-c83d-42ef-9141-bf3adb47963c	Terrorsum	http://twitter.com/Terrorsum
+c8d433ca-ea38-4d92-a7e9-251881b5a78c	Tigz	http://twitter.com/mctigz
+620c8e28-54d2-454a-b466-ef585fc6c7bd	Trauma	http://twitter.com/traumamusic
+8f0aed2a-2bbd-478b-935e-e3a2584c8e3c	Voltage	http://twitter.com/voltageofficial
+78f15956-c5e1-46d6-a46b-fa6f46681ec8	Austin Wintory	http://twitter.com/awintory
+cd4632bc-8d62-4ed9-bc76-1c15c91ab49f	KIT-I	http://twitter.com/kitai_official
+7338000f-8c24-479a-9af8-e4ff720e165f	Злата Огневич	http://twitter.com/ZlataOgnevich
+c880f631-1bf2-43df-8edc-1ed99cde5b8d	Mark Cooke	http://twitter.com/markcookemusic
+46510d46-ce20-4dde-b9ea-207e474353f4	Brett Eldredge	http://twitter.com/bretteldredge
+f3e1bce6-0858-4085-9e2f-8068193e8b8e	Jamaica	http://twitter.com/JAMAICATWIT
+5b0f26cc-1203-49d8-abe2-90bec87a2e71	Shabaka Hutchings	http://twitter.com/shabakah
+0cbb366b-5491-4878-b082-c832bc6ce1bf	みろんP	http://twitter.com/MiRON_P
+3400e23e-c2fc-42ff-816f-f3be6b49737c	kihirohito	http://twitter.com/kihirohito
+b8d9c082-a8c9-45ec-8e50-80fa4ba39be7	Lea-Anna	http://twitter.com/leaannauk
+9ef55bff-0f32-4afb-aca6-8f3999bafc07	Lazarus	http://twitter.com/LazDetroit
+a802bde8-21a9-450f-9ecb-ebd078bfa392	Jennie Laws	http://twitter.com/jennielaws
+b9672bb9-4810-46a6-b442-b64211cca597	Olesya Rulin	http://twitter.com/olesyarulin
+2c32f1f2-98b8-4ff7-9481-d7ef956260ba	Seanizzle	http://twitter.com/seanizzlemusic
+fb6bab94-0a88-4f49-a9bd-a967f7c8236b	Brother	http://twitter.com/BROTHERslough
+1047f2a0-cc15-4e97-b28b-0be66a46b718	Shirish Kunder	http://twitter.com/shirishkunder
+62d1c17c-b26f-45a1-9085-b750c0682232	中島ノブユキ	http://twitter.com/nakajima_nob
+9077aede-d55e-4030-b2d9-3862c5169573	Mark Dakota	http://twitter.com/MarkDakotaMusic
+dd302d8e-efd5-4623-a29e-ad388c056d8d	Lindsay Bennett	http://twitter.com/lbestudios
+45a07c84-0707-4554-b744-78b4d71342f2	AG Coco	http://twitter.com/agcoco
+15038e43-5f41-407d-9603-80672f44c366	Iguchi Miho	http://twitter.com/aprils_iguchi
+c2cb0e34-b059-4d14-bd92-b1d5f34c32d7	石垣健太郎	http://twitter.com/ishigakikentaro
+abee29b5-c93e-4ef6-bca9-343c495e950f	Syreeta Neal	http://twitter.com/syreetaneal
+f39abead-9670-4d8d-a1fd-0353fa851851	Beef Barons	http://twitter.com/beefbarons
+b375d893-a672-4148-ba41-b81d5be12cf6	Anokato	http://twitter.com/anokatoband
+590ebee1-cf9f-4f7a-908d-dd4170a066a4	Jimmy Joker	http://twitter.com/Joker_RedOne
+24da1e97-482f-4f58-9736-06463226722d	Trevor Muzzy	http://twitter.com/Trev_RedOne
+345990a6-d01f-42f9-a3ee-957db73790c3	Cruel Addict	http://twitter.com/crueladdict
+ac384759-9f8e-465b-99c9-dd752da18d13	Sevens Project	http://twitter.com/sevensproject
+054fd7ec-386d-40e3-af5b-d10d0d02d645	Tijuana Sweetheart	http://twitter.com/TJSweetheart
+ae74dcbc-340d-4bb8-81a7-d8c640bb4062	Biggi Hilmarsson	http://twitter.com/biggihilmarsson
+8cc4f65e-568c-4377-a119-03d4cd6d31cd	Cameras	http://twitter.com/camerasband
+f68be873-9e54-4612-ab7f-ee01559a2474	加治良浩	http://twitter.com/yo4hiro
+fc40913e-bc57-48f0-9c5c-72275ec19ca2	Bumbu Sauce	http://twitter.com/bumbusauce
+49a91450-48ae-4c0a-8ba5-c93808269619	田上耕	http://twitter.com/ko_tagami
+82267eb6-2826-434b-b8c6-c75285be42b3	PENGUINS PROJECT	http://twitter.com/penguinsproject
+525e515c-cf75-475d-aca0-e36aeefb096e	古川本舗	http://twitter.com/fullkawahonpo
+9e00ed2f-4f07-49ff-b8c1-f05948da50d9	牧野英司	http://twitter.com/EIJI_Q
+1663350a-4998-4ccc-aa9c-66b038664042	Sugar Eyes	http://twitter.com/SugarEyesGang
+062ee7a9-7ff3-4b5d-b89f-4c1fa2646bc7	大石憲一郎	http://twitter.com/koishi
+1f468473-f6ff-4a24-b25c-a1b2058b2a04	Carlos Bertonatti	http://twitter.com/bertonatti
+74f012c1-dc76-4c77-97a8-30cda9e14646	Emma M	http://twitter.com/EmmaMofficiel
+c9879232-e121-4a35-bcd6-04896293cb12	Rumour Cubes	http://www.twitter.com/rumourcubes
+85e65eed-8497-4dea-8cdd-c6bfb88b7468	Avina Shah	http://twitter.com/avinashah
+861fa36e-be2e-4bda-bee8-94f5658bd47c	Sherry Globman	http://twitter.com/sherryglobman
+b18c8c4d-24aa-413e-b754-9251414c88dc	Meis Clauson	http://twitter.com/meisclauson
+a2dd79dc-5fc5-4bf2-89d3-b14c8142fd03	Vibeke Falden	http://twitter.com/vibekefalden
+3d2ad99a-c31f-49cb-bb6b-9194083937e8	Ramzee	http://twitter.com/RamzeeMusic
+75a3bf18-8eca-44db-918c-958c8424a842	Lisa Hyper	http://twitter.com/lisahyper
+5377b7fb-b540-46ad-97c0-2cd83419b3de	MelTones	http://twitter.com/meltonesmmc
+16337a34-86e5-4524-b1b8-0b434dad569f	Sam Antonioli	http://twitter.com/BitCrunch
+d497d016-c265-473c-a878-b250d2140a91	Hoshina Anniversary	http://twitter.com/HoshinaA
+5d0bc9d9-5083-4a45-acc8-0a9d85b4d581	ViVA Girls	http://twitter.com/vivagirls_music
+5ca649fd-229e-44fe-aec9-fca54ef34e92	Shibayan	http://twitter.com/yaaaaaan
+65fb0299-2ae2-42dd-a4d6-f91dc72ce37c	折倉俊則	http://twitter.com/orikurafc
+1191495c-08f2-4844-a017-e84ac3177444	Eva Auad	http://twitter.com/Eva_Auad
+e05648ac-93c8-489f-b7a0-759e1001a6d9	Elle Varner	http://twitter.com/ELLEVARNER
+cae64a9f-f7a8-4eaa-b685-1efa0965cbeb	Haudegen	http://twitter.com/haudegencom
+e29f05f8-e343-4e70-ac29-88ab1683fea1	末永華子	http://twitter.com/hanakonaha
+53e5dbb0-1e71-4f0e-a27c-4d2b2dca3718	木村正和	http://twitter.com/masakazu_kimura
+322855bb-f33b-4208-9205-defe72a20a97	Keep Shelly in Athens	http://twitter.com/keepshellyinath
+02081b68-9003-404c-b757-6c8f72690378	戸田清章	http://twitter.com/seiji_solid
+fc08d4d7-3195-4992-a97c-ce84cad161a9	石井悠也	http://twitter.com/ishiiyuya
+808d2dd8-9600-43d4-a309-b292a3622788	誇太朗	http://twitter.com/kotarowww
+59640353-1c95-466e-9898-a34a41f5a774	unouomedude	http://twitter.com/unouomedude
+93964621-b2b5-4e99-9300-2d125e8d8718	FlameMan	http://twitter.com/FlameMan
+fd0ecac2-432e-4ac9-b8d6-8d8b2a40d1ac	Mart Jeninga	http://twitter.com/martjeninga
+d1a20389-a2b7-4b83-8003-f68ca996a30e	CAGE AGAINST THE MACHINE	http://twitter.com/JOHNCAGEXMAS
+7dc2078b-eba0-4eef-838d-a697dff3b28f	Muted	http://twitter.com/muted_
+bccce46b-8b43-4ae9-b120-b3d5ee06f636	Maxine Linehan	http://twitter.com/MaxineLinehan
+16ed5ffd-581e-41c4-addb-8d809e2bf7f7	Humble The Poet	http://twitter.com/humblethepoet
+4f323aeb-fd16-4fe6-966d-58b27e710532	Mo'Cheddah	http://twitter.com/MoCheddah
+c450d285-4d03-4868-baa5-3f5afee2003e	Teargas	http://twitter.com/teargassa
+72175463-5a52-4aa8-bf2c-66f566c9a60b	Alexander Wolfe	http://twitter.com/alexanderwolfe
+aae539ca-098a-4ed3-bf42-87b52dcff3d4	Kilford the Music Painter	http://twitter.com/TheMusicPainter
+7f36c662-11e4-4ab6-bb8a-6dcedbbf64f2	Ollie Wride	http://twitter.com/OllieWride
+9b2bf7ca-c134-4a09-b75d-1b71db246a13	Tristan Allen	http://twitter.com/tristanmmallen
+54f373f3-43f5-4ec5-b519-c3b750c0e7e2	Supermarionation	http://twitter.com/smnwail4u
+98f7bd88-58a0-4d66-bb45-d284d50b2c32	La Sera	http://twitter.com/iamkatygoodman
+9f23b7c3-baa6-4e38-b1a9-5c38359ad982	Years & Years	http://twitter.com/yearsandyears
+ac20b83f-b8c3-4c80-8858-0243eade48ad	Gatherer	http://twitter.com/gatherernz
+9fa4467f-5cdf-4682-b68f-15ec7edfd7ec	Les Barbeaux	http://twitter.com/lesbarbeaux
+b2ade758-df3a-40bd-8fdf-db19cf836894	David Noguez	http://twitter.com/DavidNoguez
+435bbc3f-999c-40d7-ac6b-89eca4dccfd4	Lucid	http://twitter.com/lucid_ffm
+2874e502-5be2-48bb-b430-94762d263c81	Riverdies	http://twitter.com/riverdies
+72b1e93b-4a67-4fdf-af2f-b379cb20d01e	Encore	http://twitter.com/wantmoreencore
+cc1a9451-5738-4ca0-ba1b-18c78bdaddab	Filmi	http://twitter.com/FILMIbollygirl
+733f9c23-2bbe-4f1b-b73b-24a5ab602c51	Scarlette Fever	http://twitter.com/scarlettesays
+6cabb75d-ddb2-4c5a-9351-05e9be81c82e	Natalie McCool	http://twitter.com/nataliemccool
+7c2d1fdd-5b6b-4cb7-9740-e194b18edcf0	Edei	http://twitter.com/edeimusic
+8bf61504-5176-4b45-bb8a-7d7221d5bdf1	Drew Kennedy	http://twitter.com/dk_music
+dcc4c8c9-d301-4481-96c8-ac5b6e54047d	Travis Rush	http://twitter.com/TravisRush
+eb7fd6ff-80cb-4710-96eb-052ffe45b418	Levi Hart	http://twitter.com/levihart
+00aaf333-7156-469a-9352-1fe28d14a862	Fe-Nix	http://twitter.com/FenixOfficial
+551d5824-9f0a-4cde-bdad-46cacc343eb9	AstorVoltaires	http://twitter.com/AstorVoltaires
+bc9ed802-d88d-4f07-9379-f12b1d55678d	日向そら	http://twitter.com/humming_hinata
+49219374-552f-4dfb-af8f-a162ed7257c7	ゆうきまさみ	http://twitter.com/masyuuki
+86165956-3a6f-4053-92f9-4f265a2b26f4	Matt Walsh	http://twitter.com/mattwalshcv
+dfa7d23c-98ac-4e63-9397-326ac4a72e2e	Like Pioneers	http://twitter.com/likepioneers
+beba0ece-6288-486e-8fd5-cdc3125990fa	堀三陽子	http://twitter.com/miyoko_hr
+f6dd4eb5-1667-4e18-90f3-59527b3e1fb9	Manny Norte	http://twitter.com/mannynorte
+180dd2e2-1803-47f9-b9f4-25d2f982eb1c	Funk Butcher	http://twitter.com/funkbutcher
+d0df79e1-81ee-45b4-b178-e56d87d6a125	Shea Soul	http://twitter.com/sheasoul
+834e7405-7584-43f8-9ec6-b8a0cedf37a7	Ebru	http://twitter.com/ebruofficial
+b443a641-0038-4688-8df7-f86e334a70a0	Fearless	http://twitter.com/artistfearless
+f0771cea-0fd8-455c-8b38-eaa160f372d8	Wariko	http://twitter.com/therealwariko
+d5aced45-a863-49af-867a-c0460983bd96	Skilla	http://twitter.com/skillaordie
+0e0062f2-4016-4edb-815c-ba7ee4412e33	Карина Кокс	http://twitter.com/karakoks
+4ad911df-dce0-42b0-b6f9-a78b6e88c027	Mansions on the Moon	http://twitter.com/mansionsmoon
+930087fe-e9a1-4e45-895b-9676811c57bc	Gospel Claws	http://twitter.com/gospelclaws
+f93f1355-6e88-403e-8e82-ffb932ffa138	RandomWalk	http://twitter.com/randomwalk1
+5f2a904f-a290-4005-a3d9-4d1a25247457	Stephen the Levite	http://twitter.com/DAWHISTLEBLOWER
+9be55085-eb8c-4b95-8b95-fd647304cc49	Kil Ripkin	http://twitter.com/kilripkin
+e771098c-f3c8-4f56-aa1e-9a8ea0891ed3	J the S	http://twitter.com/JTheS
+a6d60c57-0c96-4cd4-a892-68944609275a	Black El	http://twitter.com/black_el
+dcc5cd09-f8bb-44b4-b7bf-524ebfe7aa9f	伊丹雅博	http://twitter.com/itaminGuitar
+ecc6799f-5409-4312-9cc5-650f3f00f2c0	Joseph Birdsong	http://twitter.com/josephbirdsong
+e21edf79-76ce-41ef-a1e3-50f15b63c695	Ben Tolliday	http://twitter.com/bentolliday
+5a6812d7-5d64-4253-9fdb-2a55fd29a430	Eskemo	http://twitter.com/eskemoofficiel
+1883f970-f77f-44d5-b83a-4bdb42c24488	Esk-Emo's	http://twitter.com/eskemomusic
+b5f232bc-e482-4796-9ec4-bd831aef7d66	Markus Kavka	http://twitter.com/markuskavka
+65321b92-6172-49fd-b0f9-470b4dd6bc13	Atoma	http://twitter.com/AtomaWeb
+66f9ca2b-53c9-49f2-8156-1bf80ed768c8	Kelly Zen-Yie Tsai	http://twitter.com/yellowgurlpoet
+8026a4ec-ebed-44ca-96cc-d03d2bc90611	日山尚	http://twitter.com/hiyamason
+2e0759da-845b-496d-9c61-f53ed8b930f7	福田真一朗	http://twitter.com/dadahook
+1a38ff9b-fdf0-437d-a759-2edf0d85bdfe	Ektoise	http://twitter.com/#!/Ektoise
+f33e42de-804f-44a8-bb40-cfac8fcc908e	Mensch	http://twitter.com/menschband
+588e0d38-fa89-4d1d-a768-751531bca942	Chan Has	http://twitter.com/chanhasofficial
+021d2ec1-2d95-43bc-986c-5e3046b002c1	Amina Bryant	http://twitter.com/aminabryant
+d8c8e50b-9512-4239-a3fe-f9aff554851c	Scru Fizzer	http://twitter.com/SCRUFIZZER
+f95c172d-4def-4526-9278-fa20e342b799	yukacco	http://twitter.com/yukacco
+e0a676a5-2f40-444e-8664-f8e8953becd3	Samir Barris	http://twitter.com/Sambarris
+f85b6ef8-0e84-43b7-b740-44b6c341b6c7	The Gothard Sisters	http://twitter.com/GothardSisters
+36ee86ad-86fe-40e1-aac2-a135277b4067	Grenadine	http://twitter.com/grenadine_jb
+e87188f9-27b2-42c3-85ef-f8ab86a44fb1	月見堂	http://twitter.com/tsukimido
+add03055-a956-4321-9d0b-4ebb03749962	Kumarachi	http://twitter.com/Kumarachi
+4083aea1-b123-42bd-aa26-ca4ca16a45b6	押鐘貴之	http://twitter.com/kaneyanviolin
+af5c0d99-f36e-4296-a2d7-34f7f272e9d2	Flore	http://twitter.com/FloreMusic
+e097bfa5-c556-41c9-be7a-82483278933c	Ms. Jaie	http://twitter.com/msjaieonline
+12b61092-5f0a-4f97-a1f9-586a15d266d6	Gregory Hoepffner	http://twitter.com/greg_hoepffner
+47ff9a5a-da26-4bab-8c32-1e407c735242	Madame B	http://twitter.com/MadameB_
+148daec5-477a-4365-8e92-59f502d6c8bc	永尾ヨシヒサ	http://twitter.com/yoshihisa_nagao
+bacc31b8-34e0-4922-84c2-8490b89291cc	奥山明	http://twitter.com/okuyama3
+9b1cfe86-f397-4854-b7e0-49852a6b26ae	Die Felsen	http://twitter.com/diefelsen
+1b316bdb-4e38-48a4-a658-d8eecd18184a	紫咲ほたる	http://twitter.com/murasaki_hotaru
+6799691b-a6be-4bd4-bf10-5ee2c20fe307	Brother	http://twitter.com/BROTHERslough
+934ae522-b4d1-48ff-9b4f-8741ab4db362	大串浩彰	http://twitter.com/Brilliant_Std
+d03fcce3-704d-4633-8bd1-cd8fc5ce9772	Christian TV	http://twitter.com/christiantv
+d74d9dfd-b22f-42f3-896d-2d653769be64	Schlakks	http://twitter.com/Schlakks
+fddf1d4d-30b7-4b39-9978-f5695d472a6c	De grote Vinnie, Donnie & Sjakie show	http://twitter.com/degrotedjshow
+cd62c313-b85e-4866-a704-68518afa28fc	Melissa NKonda	http://twitter.com/MelissaNKonda
+74ab532a-3d1e-4d24-92f4-04d718eb78e0	Cow	http://twitter.com/cowuk
+59e8f03f-14c0-46dc-aea9-080d0633dbc5	圭輝	http://twitter.com/keiki_key
+54a6dec9-3893-4180-9ea3-3e539bd3e627	Nadirah X	http://twitter.com/nadirahx
+d8480ff6-140a-48ff-bcf0-dc970985a95f	Michael E. Gerber	http://twitter.com/michaelegerber
+6309ccc8-24b3-42e0-aed2-f3269be1633c	EeMu	http://twitter.com/eemuumee
+d9fcf9c1-600e-44d2-b0cc-799916483283	Terry T	http://twitter.com/TerryTKnowledge
+8b030cdc-8f4a-466b-b141-077aaef8061d	Rock Rotten's 9mm Assi Rock'n'Roll	http://twitter.com/9mmassirock
+44f18026-b830-4859-b932-06c57b2f4094	Lou Lesage	http://twitter.com/lesagelou
+f136dc9e-03fb-4cdd-8de4-9dd61926fa35	Borderline Promenade	http://twitter.com/heavyindie
+be490b59-efb3-47de-8000-c6d53af419ed	Little Red Wolf	http://twitter.com/littleredwolf
+95e47371-0cb3-4b23-a2b2-c92ef48e3f4e	Nourish My Fame	http://twitter.com/NourishMyFame
+2b88d7fb-8329-4030-94e7-41f8fc0ada90	Micha Maat	http://twitter.com/michamaat
+f01d0253-9c7b-4d8b-8b59-9f2fcd00d670	The Language of Termites	http://twitter.com/termites
+24c4349d-194d-4fce-8173-9780be926e53	The Jane Austen Argument	http://twitter.com/thejaargument
+91923daf-ea7e-498e-ac48-78aa760a8dd4	Denuo	http://twitter.com/denuomusic
+86d557b7-7e90-4d5e-a36c-b1e60c82f1ac	末光篤	http://twitter.com/suemitsu_a
+3d3a0477-9887-4415-b1b4-8dc91ebaa58a	熊手徹	http://twitter.com/lucky13kuma
+eff81106-30d7-4f67-a47e-48225ffb9286	Elizabeth Taylor	http://twitter.com/DameElizabeth
+58278f89-e5fc-4b45-afe1-f286cc10bf4d	Cyril Mokaiesh	http://twitter.com/CyrilMokaiesh
+70b5ea71-5ad7-41cb-9fd3-fcf5bc54be5c	void	http://twitter.com/vooivoi
+0b380740-42b4-4495-bcf1-9aa4e6308745	Aizat	http://twitter.com/aizatamdan5
+bcf29b51-aa72-4429-b95b-53115239d163	Whoarfrost	http://twitter.com/WHOARFROST
+79ff7921-a3c7-4dd9-88ee-30f3a8f065a7	Johnny Hancocks	http://twitter.com/johnnyhancocks
+57c52fc6-a02c-4d32-872c-79874f7c6ff8	Tatsuro Miller	http://twitter.com/tatsuromiller
+0902c993-134d-4abf-8b76-d12538cd3639	Seams	http://twitter.com/iamseams
+d77e20b5-2f1e-4f14-a166-b2e3e5ddbfc5	Dee Plume	http://twitter.com/dee__plume
+b4246b6b-b1fd-4401-b438-d12f98e5e2a4	Meekakitty	http://twitter.com/meekakitty
+0270a7d9-848a-41bc-99c0-cd396c970c55	Make Do and Mend	http://twitter.com/makedoandmendyo
+9f4e2c2a-fd39-4980-98a8-6c310d252864	Wonderland	http://twitter.com/WonderlandSongs
+91e8b6b0-bf8c-4df8-82da-8c73216f606a	Claudia Cane	http://twitter.com/claudiacane
+0774f994-2fa3-458b-85ad-14c3f8da1f62	Arjan Bakker	http://twitter.com/slidingdutchman
+167defb6-8bb8-4205-bdc8-4db839dc1f9e	Adyta	http://twitter.com/adytaofficial
+2cd7c5d2-2d5d-4753-91cb-e329ffa20f49	Marcelo Jeneci	http://twitter.com/marcelojeneci
+de2e1fdd-e250-476f-8e06-6c3801ed4520	Chino Maurice	http://twitter.com/chinomaurice
+043d2959-1e90-458e-b804-dbba0e1d8742	Phase	http://twitter.com/phaseband
+00f6b540-a51f-416f-94f6-5f27e1dc1c6d	Jake Sinclair	http://twitter.com/jakessinclair
+d5c30d58-882f-4f23-9f46-41070fe3e505	Gary Mula	http://twitter.com/Holinjer
+613e2a62-f4f7-4c52-972b-3e537488e391	Max Winne	http://twitter.com/themaykit
+2953175f-84be-4453-bc03-c56d7e20de55	The Maykit	http://twitter.com/themaykit
+7b997f93-73f8-49c5-b3e4-b2322ec10940	Kikai	http://twitter.com/iamkikai
+a72acc2c-54d3-4f31-b65e-a22777812672	Orange Hill Productions	http://twitter.com/OHPMusic
+a5fc71f5-65a2-4191-9fe8-39e7d9ea23dc	The Tivoli	http://twitter.com/thetivoli
+60a9b881-feea-4e1e-afb6-691b6b159fe9	YC The Cynic	http://twitter.com/ycthecynic
+a79add28-b0b1-44b5-a201-472627f3bdf1	千ヶ崎学	http://twitter.com/Chigasakimanabu
+2ec3b552-1538-4b22-bc50-c232ba04d60f	I Am The Messenger	http://twitter.com/iamthemessenger
+28d5a135-d575-4df7-9551-dc5d9b4671dd	Stefan Tanz	http://twitter.com/StefanTanz
+9e4604e5-9b5d-4ed9-8dbb-7105bc6c6dce	THYX	http://twitter.com/thyxmusic
+9e47aafe-3f01-43df-897b-9f4b82ce6c91	Uzzhuaia	http://twitter.com/UZZHUAIA
+fd0851d0-70cc-4b48-a7b3-a49b834b3e15	Gijs Levelt	http://twitter.com/gijslevelt
+97570158-1dc3-4c14-bd67-ccfe9302dc83	Emin	http://twitter.com/eminofficial
+9e71eb3a-b681-4181-a294-f67422dba2bc	Princess Sarah	http://twitter.com/iprincesssarah
+2b44435a-890d-4cc2-968b-4c8d1c053052	Soul Khan	http://twitter.com/_soulkhan
+82556343-58aa-402a-80d8-21b6ce655cb1	Athletics	http://twitter.com/Athleticsmusic
+dfcb9531-1ad9-416c-88bd-9d7ee339f621	Kunstrasen	http://twitter.com/Kunstrasen09
+4d044236-6489-4801-86e9-85ca77375d2d	Eirik Brandal	http://twitter.com/eirikbrandal
+885ff2a5-4ca9-46ae-815a-00fd571e6804	Kings of the City	http://twitter.com/kingsofthecity
+9d5a9fa6-17d9-43a1-b4ea-0a07b4499926	RIBS	http://twitter.com/ribstheband
+bd595068-a830-4c3c-8f3f-3da918c4c464	Solila	http://twitter.com/solila
+419a11c9-dbc7-47bd-8704-924453bab74b	伊藤正幸	http://twitter.com/seikoito
+c32206a7-128d-4013-88a4-b13efd2867a5	いとうせいこう	http://twitter.com/seikoito
+71eef0f6-b636-4d08-86e5-152c567d877e	Tilts	http://twitter.com/tiltsband
+c325ed7f-f80f-41a8-9ff4-eeb093691cc2	Rrussell Bell	http://twitter.com/RRussellBell
+17b0875c-6c4c-4b27-9521-f9a19d524550	Katie Carroll	http://twitter.com/_katiecarroll
+c6750df0-29e0-482c-8b0e-952c5bbbad82	SiZK	http://twitter.com/sizk_starguitar
+844e439e-3f99-4c97-af79-b9a4f6bef79f	Brooks deForest	http://twitter.com/brooksdeforest
+e7ae7187-a6b6-4894-ad43-c087ee688628	Naima Adedapo	http://twitter.com/NAdedapoAI10
+f2506ff4-4091-4e57-ac5b-156110732aa9	Lauren Alaina	http://twitter.com/LAlainaAI10
+c0e02814-abda-4423-8fe7-7fb05fcbcdda	James Durbin	http://twitter.com/JDurbinAI10
+329afea6-31f4-4d99-8d9b-e82b2390c471	Ashthon Jones	http://twitter.com/AJonesAI10
+6c049125-fdff-44a2-984b-1ddfa3ef5b3b	Stefano Langone	http://twitter.com/SLangoneAI10
+24376d65-f6a4-4ade-97c2-5f8ecc0aa860	Jacob Lusk	http://twitter.com/JLuskAI10
+2294c553-58e4-425b-8bab-bee01f2d477a	Scotty McCreery	http://twitter.com/SMcCreeryAI10
+875267ab-9d61-4145-9e05-aa642836c4eb	Paul McDonald	http://twitter.com/PMcDonaldAI10
+8c7ff7fb-161f-44e4-90c9-6d568fb55ad7	Thia Megia	http://twitter.com/TMegiaAI10
+d774c8ff-2b2b-423d-94ba-a827b3554785	Haley Reinhart	http://twitter.com/HReinhartAI10
+da970bc8-9ca5-487b-8f52-f6c589fb423c	Karen Rodriguez	http://twitter.com/KRodriguezAI10
+ef9b5c7e-9d1f-4c45-8dfd-960ce2083da7	Pia Toscano	http://twitter.com/PToscanoAI10
+1c6a25b9-22d4-46b6-b931-cae772463cda	Casey Abrams	http://twitter.com/CAbramsAI10
+25309937-2515-4089-af40-b37ce81c7700	Edwin Congreave	http://twitter.com/edcongreave
+9be3b2b5-90cb-4b8e-83f2-a08890129250	Deadman Walking	http://twitter.com/lovethedead
+3d912820-8116-49b9-ba45-17f7ed45a0b0	Waqas Ali	http://twitter.com/waqasaliqadri
+ca10e23d-742e-411b-a610-8fc2512cf040	Thilo Bock	http://twitter.com/thilostips
+616938d5-3325-4e8b-8480-664e6e56f352	Andrea Badey	http://twitter.com/AndreaBadey
+033ef2bf-6d21-40a9-b93b-56fcf71a172f	Ade Payne	http://twitter.com/adepayne
+9c11a568-1c45-46ca-9f8a-2bbf36e73c52	Ivo Lotion	http://twitter.com/ivolotion
+312c7cc1-9b5c-4406-963b-9f73f50674c0	Rebecca Black	http://twitter.com/REBECCAFANCLUB
+8ff87dfc-b957-4aad-aa0b-98f3ff84332d	Parade	http://twitter.com/parade
+fcafeba5-c0f4-493c-9e92-4746fc419806	Lauren Frost	http://twitter.com/lauren_frost
+ab1aaf9c-c8b5-4799-87f4-2cb483e14662	Robbee Mariano	http://twitter.com/robbeemariano/
+f5bbf13a-9a09-4dbb-b49b-5f4d019369fb	Jason Karuza	http://twitter.com/smrtdrmmr
+db1fde81-1f43-4837-9a8d-4f3148c48ba6	Wrongnote	http://twitter.com/wrongnotetweets
+2505934c-4c24-450f-8bc6-21a63f25ca61	Syntax TerrOrkester	https://twitter.com/SyntaxTO
+7256b800-b76a-4eac-b0c5-662cd8d38c27	Tomato n' Pine	http://twitter.com/Tomapai_JP
+e9cdb230-8a5b-460f-a0a6-60b23c2d2f94	Musiqq	http://twitter.com/MusiqqLV
+773c0c77-16ad-4311-a56e-3f7c589eebc0	Starboy Nathan	http://twitter.com/starboynathan
+89ac2bb2-bfe5-4365-a4cc-d89a933ce5ff	SoundGirl	http://twitter.com/SoundgirlHQ
+3ad0e96d-efe7-44ab-a2bb-6e44ff5a64d7	Sneakbo	http://twitter.com/sneakbo1
+1d327dc3-a2a1-400a-a65b-d03094288bc2	Fariha Pervez	http://twitter.com/FarihaPervez
+29148953-3b3e-408f-9a98-aaaac36b1372	DJ Outlaw	http://twitter.com/djoutlaw
+f0487982-b3bc-44cb-ab5a-dfc2f45df929	DJ Outlaw	http://twitter.com/Joddey_DjOutlaw
+8f4b2748-8c57-447a-a6a3-8e20a8554e8b	Junai Kaden	http://twitter.com/JunaiKaden
+926154ed-86d5-4bd6-a8c4-e8bc2bda71ee	Aeiou	http://twitter.com/aeiouband
+bf9ed63f-e1c7-48b9-b01f-e1f4dd4425f2	The Brights	http://twitter.com/The_Brights
+71e1bed3-1e82-458f-aacf-c9f44b9391c2	Kapelle Josef Menzl	http://twitter.com/kapjosefmenzl
+180a3cc2-dec3-4ec6-9e12-23660da78170	Die Chiller	https://twitter.com/diechiller
+f5db0021-3ba1-4b1c-9737-380c802945e9	Agg Productions	http://twitter.com/aggproductions
+84b66898-cf93-4d5a-bf9b-59c8c84de0ab	Kellerkommando	http://twitter.com/kellerkommando
+77485dc9-ccfe-4c3d-9732-180d0142dbab	Chipocrite	https://twitter.com/chipocrite
+435056b8-4150-494d-8f67-ce3a7f5181f4	Saturday Night Gym Club	http://twitter.com/satnightgymclub
+d1c26a4d-3bb1-4c04-b9f9-4e42a16ce0fe	Craig Massiv	https://twitter.com/craigmassiv
+38a294ef-eb1b-47d6-9322-82616e21b90d	Josh Xantus	http://twitter.com/joshxantus
+ed026541-6699-48cc-a270-a54bd8d4f4d6	Six D	http://twitter.com/SixDofficial
+400dff59-c4ac-429b-ad97-fbecf455b49e	English Frank	http://twitter.com/englishfrank
+1fabe2b9-c800-4174-9097-034a43439059	RackNruin	http://twitter.com/racknruinmusic
+436ef7cb-ffeb-4516-99df-b160f9b8323c	Rizzle Kicks	http://twitter.com/rizzlekicks
+89bf7e7f-34ef-4d91-a4f2-4f2bfe8c5c67	Freeze The Atlantic	http://twitter.com/fta_band
+39b6dd85-65df-4fd2-a24e-3a1d18343651	Max Raptor	http://twitter.com/MAXRAPTOR
+b01f92f8-13f1-4f81-b007-94df189514f1	Library Of June	http://twitter.com/libraryofjune
+86796e32-c19c-4f14-9895-d768b0ff4a9d	Taranchyla	http://twitter.com/Taranchyla
+1d6d10a0-e3b9-4e5f-8077-5dc4a9f9ae1b	Da Professor	http://twitter.com/jetsetprofessor
+198194ff-a0bf-4266-a94e-eae0216ec1eb	Lorcan Mak	http://twitter.com/lorcanmak
+e8029e3b-4b53-478d-9c24-7550f138dee8	Micro Prophet	http://twitter.com/microprophet
+76780c58-431b-4acd-b339-97fbb858305f	Ben Oprstu	http://twitter.com/benoprstu
+c993faac-ac3d-45ea-a769-1ffd773c6e52	DJ Gummy Worms	http://twitter.com/IamDJGummyWorms
+977f764e-8f83-4e8c-b0fd-cab00e793915	Robert Boogert	http://twitter.com/robertboogert
+c8e97222-9f55-4adb-89a6-8e40c69141b6	Water Temples	http://twitter.com/watertemples
+072ace1d-6159-4933-b578-c0fe08f4a207	Kirk Spencer	http://twitter.com/kirkspencer1
+dc64d189-f6d1-40e6-9e3b-22c438992152	Jackalfeud	http://twitter.com/jackalfeud
+023aa70b-e786-43a5-ac6a-f172fc4199ea	A Northern Light	http://twitter.com/anorthlight
+d887429c-3ab5-42f7-a583-fc725f75515d	Chasing Owls	http://twitter.com/chasingowls
+9e3cabfa-2f71-467c-9de6-e62b0aa743dd	Xavia	http://twitter.com/xaviahq
+dba40880-d121-4ecb-bad0-ae60bce9ef4c	resettheatari	http://twitter.com/Mentazm
+853f41f8-98cf-424f-9de2-4f06d85e42cb	Rewd Adams	http://twitter.com/RewdAdams
+f09c1e74-3b4d-4b95-8551-f07776ffd88f	PAWS	http://twitter.com/wehavepaws
+17657a82-3015-4eb4-8225-4d2c13860a0b	The Imagineers	http://twitter.com/TheImagineers
+84f2a1e3-9d0a-4632-a62c-2a5f2415d53e	Samoans	http://twitter.com/samoanstheband
+ec0bfe7d-fc42-43c7-a2ea-dbf33a869ba3	Koreless	http://twitter.com/Koreless
+0f8804bf-caa6-48da-85e5-17038876ce0c	Woodenbox	http://twitter.com/woodenboxband
+96a0bf91-bbad-4481-981d-f008a9bd9f2f	Hark! A Shark	http://twitter.com/harkashark
+eabbbf0b-1b94-474a-ad01-bf14bb34119f	Chairman Kato	http://twitter.com/chairmankato
+4e2afc03-ac97-41b3-a9b6-9e3590afbab2	Drifta	http://twitter.com/djdrifta
+f7191ea9-8c91-48cc-b076-b02d00ae68f9	Raja Kumari	http://twitter.com/therajakumari
+bad01677-6876-49e8-98f4-fd7f111808d5	Free Swim	http://twitter.com/SwimmingFreely
+24d3a3fb-f69b-4b34-9406-02bacf610c47	Boy Mandeville	http://twitter.com/boymanband
+a0036191-ff1c-48ac-88f2-a016543bea72	CocknBullKid	http://twitter.com/COCKNBULLKID
+9c1de831-80b1-49a9-b1b3-225958356bf3	Vinyl Jacket	http://twitter.com/vinyljacketuk
+2ff41642-8c79-43bb-bc24-d1688940815f	Club AC30	http://twitter.com/clubac30
+596dc89f-c1f8-42ba-b317-fa81dd120fa2	Tommy Four Seven	http://twitter.com/tommyfourseven
+7e7507a7-65c6-41fc-bc92-330d5b316ec5	77 Bombay Street	http://twitter.com/77BombayStreet
+80b790f0-e5e3-4605-aa8b-46f98004c61e	Yo Camaleón	http://twitter.com/YOCAMALEONMX
+66029838-d236-4705-bba1-3b2cdb4c75b2	Ana Karla Escobar	http://twitter.com/anakarlaescobar
+543e703d-ace6-479c-bf4e-835ccffa3c09	Neverify	http://twitter.com/neverify
+83a52231-b502-43a7-9dfd-1c53c14fb252	Marry Waterson and Oliver Knight	http://twitter.com/MarryWaterson
+56b1a506-3f5a-4457-bc27-39661c8257ae	Sharks	http://twitter.com/SHARKSband
+90f46b5d-4c12-4804-9e36-2cb49431312b	The Bant Singh Project	http://twitter.com/bantsingh
+ac4e12a5-3455-485f-867f-4876b64a968b	Future The Prince	http://twitter.com/futuretheprince
+d5fe6c7b-e1da-499e-8e7b-07584642e14b	Kadija Kamara	http://twitter.com/kadijakamara
+822ef16b-2f79-43e8-9b0f-a6b929a9efd6	Ray Foxx	http://twitter.com/rayfoxx
+bda4116a-bd17-49c6-8c4d-32c7bc4f66f7	LOUISUBSOLE	http://twitter.com/lsukmusic
+45e21d8d-bd08-4441-9ec5-01d42c37de4b	DJ Sapnarella	http://twitter.com/sapnarella
+41400834-1c49-4673-b92d-67153f80c087	Natalie Storm	http://twitter.com/nataliestorm
+191a042b-e3aa-477c-80e6-f05bae291e71	Raju Johal	http://twitter.com/rajujohal
+a60108d4-48a6-4e4f-8ba2-c918705796dd	Marc Reis	http://twitter.com/marcreis68
+424b099a-474b-4390-af60-8ddc8577d966	Fiona Clayton	http://twitter.com/fionaclayton
+18f9ced1-cab5-4852-b885-e7e98e7c5df1	Alle Farben	http://twitter.com/allefarben
+df752990-b3a5-4d9a-9543-261085da1ae0	Chesca	http://twitter.com/ChescaSantos
+00d64a60-0b1c-4444-bf05-131e8f691f1e	Winter Wallace	http://twitter.com/winterwallaceis
+6ae7708a-75df-4360-b610-5f89449f1494	The Tontons	http://twitter.com/thetontons
+7fb372de-b22e-4dce-af90-9082aad699e8	The Snake Charmers	http://twitter.com/snakecharmers
+d08c1b85-de4f-488a-aa80-25c71a6a1258	Castle Lights	http://twitter.com/_Castlelights
+fd4cd790-96ab-4121-bfc2-1f09ad61b389	Low Man's Joe	http://twitter.com/lowmansjoe
+f52ae6d4-bb68-4314-88ab-b7339d8605f5	Mason Lankford & the Folk Family Revival	http://twitter.com/masonandtheffr
+eb11d19e-c614-4437-91a4-5b3cfcdbcc74	Пыльца	http://twitter.com/Pyltsa
+a3da1245-ff48-43de-8703-30fbcd99e6fb	Стас Шуринс	http://twitter.com/Shurins
+673e80dc-0f46-4a02-b3e7-83d5861b2ef5	Caroline Nin	http://twitter.com/#!/carolinenin
+1065e995-5787-4b4e-ac50-e33f4472e4f8	Андерсон	http://twitter.com/theandersonband
+e7fede47-2767-4513-ab13-8dcded0ed38e	Photobooth	http://twitter.com/photoboothband
+cc4a7c31-fa65-4c6d-b656-a0075225a620	Calibar	http://twitter.com/calibars
+cb3db00c-e5b4-4925-9bf0-3916a2287616	Gupz Saund	http://twitter.com/gupzsaund
+19acf8ca-cf82-41a3-8e42-367f5d592fef	Luke Fenlon	http://twitter.com/lukefenlon
+a446f453-4f0d-4bd6-a238-62e15b90aa59	Time to Leave	http://twitter.com/timetoleaveband
+a2a069ad-019a-4095-b4ec-04d72cacf411	DeLeon	http://twitter.com/ilovedeleon
+4d51eccd-10d8-4b19-8960-da6f2573862e	MAX	http://twitter.com/max_electro
+ad116876-c927-42e9-a5d7-ad1a6cba122f	zest:rave	http://twitter.com/zestrave
+900af36d-72b8-4a4c-b567-3517f14c3c27	Xilent	http://twitter.com/#!/Xilent
+ded95009-eec9-483e-b0fd-1b290aa5a358	Kevin Cossom	http://twitter.com/#!/kevincossom
+49f4d882-cbeb-4e72-9b42-a043a64151ee	Richie Faulkner	http://twitter.com/RichieFaulkner
+37548453-ed29-445f-a481-7fff6cc4df09	Viter	http://twitter.com/ViterBand
+f9e20199-a8e4-405d-bc9b-8694d1d743ba	The Music of A. Craze	http://www.twitter.com/ACrazeMusic
+b17aaddc-f7b3-4b4a-80b7-6292b9cac8e4	Homosapienz	http://twitter.com/#!/sapienz_music
+4b87bccb-d71b-4512-bb35-3fa302118da7	Riki Lindhome	http://twitter.com/rikilindhome/
+6e3571e3-0752-455e-afb9-a950810f14c4	Strangers	http://twitter.com/#!/Strangersau
+e458f45a-958b-4c64-b30f-bea1c5b31e25	Castles Sunk Below the Sea	http://twitter.com/#!/CSBTS
+ff69505f-70ac-4db4-a0cd-765d7185717e	Bernhard Sperrfechter	https://twitter.com/bsperrfechter
+897ba357-df04-4ddf-aa84-0ab978f5badb	Jody Has a Hitlist	http://twitter.com/jodyhasahitlist
+c874cf9c-e925-4a76-956c-824a1110526b	Haiku Salut	http://twitter.com/haikusalut
+baa64601-6517-4d39-88e1-3b4217014740	XSARA	http://www.twitter.com/Xsara_
+23abe7ce-5c99-4fd2-a5e2-79396cf89f77	Dead Set Gemini	http://twitter.com/DeadSetGemini
+eca38e32-146c-4cb2-b772-6191f7a0af00	The Second Division	http://twitter.com/2nd_division
+cfc9b873-27ed-4296-8b54-24f9829e79f1	Professor	http://twitter.com/reggaeprofessor
+13e43557-d1a9-46c9-b444-219748640376	Ortolan Soup	http://twitter.com/OrtolanSoupUK
+f88094c8-769b-4b7b-96d4-5848eecbae56	DTMD	http://twitter.com/#!/DTMDmusic
+0c40e00b-212d-4561-881a-e979791d8fe2	Jungle by Night	http://twitter.com/#!/junglebynight
+438d0afa-66e6-4f73-9cd5-1118eb6effad	Vii	https://twitter.com/viimusic
+5abb25c1-6cf7-411b-a86d-ff003710878a	Riot for Candy	https://twitter.com/#!/riotforcandy
+57ea5b34-a835-41c2-a82d-25a49cb719ca	Katie Malco	http://twitter.com/KatieMalco
+2def67ba-7eb6-4e22-acc5-b401d4be9f8c	KaNa	http://twitter.com/kanaijuin
+5bdeb32d-56a5-4b6d-a768-264101fa0a0a	J Balvin	http://twitter.com/#!/jbalvin
+29f650bf-16eb-434f-baad-3b4f0bf2a235	Alice Gold	http://twitter.com/AliceGold
+00da0af4-9deb-4266-87ba-20c0e64768d6	Treetop Flyers	http://twitter.com/treetopflyers
+c5002dac-6fe8-48dd-9e74-43e5048f27f7	Jedatek	http://twitter.com/Jedatek
+c3cc15d9-ce18-4c4a-9ee5-3bfd85020ac6	DJ Qazi	http://twitter.com/#!/djqazi
+7a7a0414-69d1-4aa6-9af7-8b708653284a	Paul Loeb	http://twitter.com/loebpaul
+32a8da95-4662-421c-9a96-2d5a5737731c	Gunday Monday	http://twitter.com/GundayMonday
+28d4f579-30ab-4f7d-9238-18cacc0b552e	Josh Mirman	http://twitter.com/joshmbroadcast
+35af8d7d-30ee-4703-b7d1-968df47a892d	Psycho Trigger	http://twitter.com/#!/psychotrigger
+e77e7e0a-4b48-4722-8db6-a3d5cb9a07df	Hartford	http://twitter.com/hartfordband
+66a65831-a2f2-4ad7-b393-9c54d7b21fdd	GoGoBot	http://twitter.com/GoGoBotMusic
+a359ae57-ca5d-4d7a-90f9-2d0c91ba4316	Unconscious Jungle	http://twitter.com/#!/UnconsciousJung
+a33e4ad5-2b37-475e-a0c6-0a0988b84096	Sailorine	https://twitter.com/#!/sailorine
+be9caedc-0505-460e-a4a5-99070bdfc05e	Bagdad Rodéo	http://twitter.com/#!/BAGDADRODEO
+4e3d1261-3714-4374-bea6-ef986616147a	Le Fly	http://twitter.com/#!/LE_FLY
+52471ae5-9354-4f3a-89c6-26ea12bc30cf	Shirt Boys	http://twitter.com/#!/shirtboys
+7ddc6972-08e0-4c87-8dc6-392ad566dcac	An Early Ending	http://twitter.com/anearlyending
+a9d16b6b-0b6c-43a4-a387-1a6f78e0da22	Loheem	http://twitter.com/Loheem_music
+827b8405-4e1e-4595-aeb6-60778fd6c8ae	Prom Date	http://twitter.com/askustoprom
+e7ab70fc-ae7b-4321-a9d1-4c2e9440e0f5	LUNA SEA	http://twitter.com/LUNASEAOFFICIAL
+84c2a1ee-f797-4760-a0d2-b20f608911a6	深澤秀行	http://twitter.com/eicheph
+0cd7dd8e-7cd6-4881-b5a1-1c5ff3e796a3	Elmobo	http://twitter.com/elmobo
+32a92586-6f9f-4882-b168-97fd60a99b6d	Moby	http://twitter.com/elmobo
+baa6db83-6337-4746-ae7e-7984aed55bd5	Frédéric Motte	http://twitter.com/elmobo
+caf7bdb8-7b7b-4804-826d-18d33e8ee9fe	a2c	http://twitter.com/mellowjamstudio
+0f65018d-f6e4-4f57-b35a-c019e0ee594b	斎藤滋	http://twitter.com/lantis_saito
+cb80e093-ed3f-4de9-9a4b-77a77aeb06e0	Caroline Bayendrian	http://twitter.com/brunemusic
+2a066f36-e373-4c68-a854-0499f1d59c91	Brune	http://twitter.com/brunemusic
+c1b433cf-d810-4d82-9761-29589def5822	Clémentine	http://twitter.com/clementine_news
+2daf648c-c077-442c-9448-4b27693e7f9e	東海林のり子	http://twitter.com/shoujinoriko
+2c99f6a3-1998-471e-8791-80f45e27fcff	Sébastien Prades	http://twitter.com/SebPrada
+003db9dd-163b-45e4-b880-6aa759340bd8	Nikki Yanofsky	http://twitter.com/NikkiYanofsky
+bd211b0a-fe2e-4960-98fa-0bef7f195a2e	Versailles	http://twitter.com/Versailles_P_Q
+8cda32b5-1447-4ded-8a0e-f1cf8e6b3480	Élodie Frégé	http://twitter.com/elodiefrege
+6e5ed31b-daa6-4c3e-a019-31d42ed351ea	Yoshiteru Himuro	http://twitter.com/himuro
+98d851f7-3a8f-427f-b73e-630918d2ac54	奥野敦士	http://twitter.com/atsushi_okuno
+b539e453-c4fe-47e3-8a07-8517eac74429	宇多田ヒカル	http://twitter.com/utadahikaru
+366f0d9f-b6ef-4320-9983-00148a1599e3	Bức Tường	http://twitter.com/buctuong
+432341dd-af33-4048-b8f5-c2b19e79f6e7	小嶋“ojjy”淳一朗	http://twitter.com/ojjyojjy
+6e845a0b-e327-45ab-9ff4-020cdb53f877	松本径	http://twitter.com/kei_matsumoto
+731552b6-04d5-4d5d-9fdf-4e38b410c04b	中川翔子	http://twitter.com/shokonakagawa
+ef71c26d-25e4-4ab7-bf1e-5981633d3429	taca	http://twitter.com/taca101
+c6ef8207-df1c-4845-9e86-3eadad472409	小山恭弘	http://twitter.com/kumadts
+ff0ecbbe-34b0-49c7-a36d-81a47700ac13	孫燕姿	http://twitter.com/Stefsunyanzi
+84a87594-8c48-4865-9ac2-5d8aa29c800a	meg rock	http://twitter.com/mgrck
+a2cde43a-cf18-41e3-a641-d71eac8974e3	NIKIIE	http://twitter.com/nikiiejp
+e72a7265-0849-41d9-8a81-b9287491fb84	流鬼.	http://twitter.com/RUKItheGazettE
+4e0c20c9-54ea-406c-ab4a-e7fb2e97d4cd	RUKI	http://twitter.com/RUKItheGazettE
+7004bc31-23ee-4216-8d74-0d230e88079f	高橋洋子	http://twitter.com/yokotakahashi_s
+180c209d-6ff9-49da-826c-9a944a6d76cd	稲垣潤一	http://twitter.com/InagakiJunichi
+0f8a6381-7504-4d45-a4fc-e6d644cf320e	こじまいづみ	http://twitter.com/otoshigoro
+e18bd5ee-53d2-4ef7-8ae6-04f987b5a7f8	久米康隆	http://twitter.com/kume39
+fbb325cd-3187-4835-98a1-e089b9f4b7e0	岩井俊二	http://twitter.com/sindyeye
+5652bb3e-f225-49de-9637-5aa1539b4a7c	Lily Chou-Chou	http://twitter.com/LilyChouChou_
+0a8a6bca-7c98-4713-b0db-b70811f0251e	宇宙戦隊NOIZ	http://twitter.com/uchusentainoiz
+a66af232-ee58-464b-9742-578d1c0a0941	冠徹弥	http://twitter.com/thekanmuri
+99527b3b-39b4-4009-9896-f11a8282f5f5	THE冠	http://twitter.com/THE_KANMURI
+463231bf-15c1-4833-ae11-b4fe8b00d3fc	SHUSE	http://twitter.com/shuse0317
+cc0cf054-147f-47c7-9548-621b32043a99	Lachlan Carrick	http://twitter.com/_lachlan_
+6827105e-31a2-4e00-a6f2-d35b1a062f51	NaNa	http://twitter.com/NaNa777MUSiC
+eeacda09-891d-4367-b9cc-c6371c96d4d9	やなぎなぎ	http://twitter.com/yanaginagi
+b0963f6a-55ad-4720-8204-9fe592f1a5b3	Annabel	http://twitter.com/A_nnabel
+b713fb44-7a24-41d0-827a-cc8777b1ce89	坂本慎太郎	http://twitter.com/smotostarobot
+6d57b91e-ef2b-4b59-9e2f-044a6ccd725a	Wild Orchid Children	http://twitter.com/WildOrcChildren
+453b0b6c-f967-4264-8707-7e332bec5bd3	Jack Stevens	http://twitter.com/jackspectrasoul
+d9626163-7645-4f14-83fe-276343b085bc	Danny John	http://twitter.com/danielmjohn
+ad6dca0e-2ce0-46d1-a572-b97ab04596c1	DJ Vix	http://twitter.com/djvixdholnbass
+7cfaac66-62e5-4fcd-af1b-9d3aa8f68e8b	Emeli Sande	http://twitter.com/emelisande
+2ec89bcc-5bf9-4d2a-ac5e-44b7496d115a	La Dispute	http://twitter.com/ladisputeband
+a87889be-9e98-42d3-a40f-33b589e8cee0	水野達也	http://twitter.com/M_Tatsuyan
+78ee4d50-8256-4eed-88b5-35e5ad0b5e05	LAZRtag	http://twitter.com/LAZRTAG
+c5c7b316-3fa6-411c-ac31-58f8a12524b2	Les Shades	http://twitter.com/LesShades
+724a879a-77a9-44e7-89c8-8c600cc92861	MERRY	http://twitter.com/merry_official
+98b753e9-c5c0-42f2-937c-f74bbf4f35e7	Kate Walsh	http://twitter.com/katewalshmusic
+5de122b6-d207-4fe5-8b0a-8ea31fb328d7	中西哲一	http://twitter.com/nakany765
+3f3e4781-2fde-4f69-a34c-08771f6dabe6	Lillith	http://twitter.com/lillithmusic
+f98b2cd9-8fdb-4318-9a2a-f54e31db5f56	Lucy Swann	http://twitter.com/lucyswann
+157ea952-039b-4be3-8796-30edd11e8baa	Madina Lake	http://twitter.com/madinalake
+73700583-9245-4a62-b73b-68f3904a0ef3	Oh Land	http://twitter.com/ohlandmusic
+b153dd7d-41e5-41e0-b8e6-2a88b054733c	ORBS	http://twitter.com/ORBSband
+dd2290b0-c121-4cb0-a508-ce8b7db7213e	Party Vibez	http://twitter.com/partyvibez
+59591b38-8f38-46f6-9deb-a68aae5844a9	Simon Says No!	http://twitter.com/simonsaysno
+a5165043-522a-4099-9024-433952f14f5e	SK1	http://twitter.com/sk1world
+66ca7462-753c-48d0-9fe7-80d4b0897d18	The Bronx	http://twitter.com/the_bronx
+ccecffbf-6631-46a3-8e32-ece2669ace37	Mariachi El Bronx	http://twitter.com/the_bronx
+318902ca-e4c5-42f3-9d52-6fac2456348b	Gary Lachance	http://twitter.com/garylachance
+a38618f2-d95d-4d5d-aa88-0e132cc80299	The Fitzcarraldo Sessions	http://twitter.com/thefitzsessions
+3b648563-e7a1-4dd4-a31c-110efd5188ee	Trophy Scars	http://twitter.com/trophyscarsband
+709706a5-b4ae-456c-a888-b31950d76ada	Vato Negro	http://twitter.com/vatonegro
+51f33514-92ec-470d-b373-2f05be28e1a0	Cloud Control	http://twitter.com/cloud_control
+08afa1c4-fa25-4edc-80aa-bdcd8b8280d2	梶原順	http://twitter.com/junkajiwara
+c96413df-f4cb-4231-bfa0-8e70c25742ef	阿保剛	http://twitter.com/valsound
+30bc7c94-0a41-4aa9-aed3-62493fdc501a	Pål Harald Alvsaker	http://twitter.com/tecfan
+e87ef05c-b458-433a-a2fc-b06e733d4278	Tecfan	http://twitter.com/tecfan
+0161213b-0461-4d0d-990a-3331c51ffcf6	Clock Opera	http://twitter.com/clockopera
+af591d22-e3a7-4978-82f5-c820506917ba	Ahmet Zappa	http://twitter.com/ahmetzappa
+ba0a3f29-5c47-4c18-bfa9-5dd71d8edc71	Casa Murilo	http://twitter.com/casamurilo
+631e2d6a-16ac-4c49-89ac-987dc81e60e9	Bill Conti	http://twitter.com/billyconti
+fefeb63b-9430-4fe8-a332-0c400351af50	Selah Sue	http://twitter.com/SelahSue
+3a768dc7-40d3-4c91-9d3e-2eabb12e5620	Bad Books	http://twitter.com/badbooksmusic
+b2ca3ae8-ec3c-4681-ad41-bd61a7c35a78	Amy Robbins-Wilson	http://twitter.com/arobbinswilson
+8569b509-d338-480f-a4de-296cfc15bd9b	Hamu(e)mon	http://twitter.com/hamuemonband
+94b72bc5-3e13-46ae-8470-0bfa17264068	Cocoon	http://twitter.com/listentococoon
+b872b5f2-5250-4d2e-a9b4-b279e918657b	Salyu	http://twitter.com/SALYUOFFICIAL
+fbec4154-4eb6-4e4b-9084-a6d74a60cd53	スグル・ヤマモト™	http://twitter.com/yamamotosuguru
+462a9ce0-e1f3-4cbc-a21e-0998003d9386	Anna Calvi	http://twitter.com/annacalvi
+724a38ab-f293-45ab-9138-3af988065619	上杉洋史	http://twitter.com/uesugihiroshi
+63215327-a08b-4e6d-a9cb-264903e3f96b	大江千里	http://twitter.com/1000hometown
+932cb13f-677c-4e63-beb1-fca45574d280	Zazie	http://twitter.com/zazieonline
+7b8c4e81-9ec7-400f-abf5-7be8da80487b	黒崎真音	http://twitter.com/kurosakimaon
+31af74c4-9fd6-4019-8142-8e37ad94c27d	General Bye Bye	http://twitter.com/generalbyebye
+46e5aa54-d0a2-4121-8ad8-e5d6147c0c08	Murray Gold	http://twitter.com/murraygold
+c30774c8-0bfe-490c-9619-1999908b0fe7	Jessica Lea Mayfield	http://twitter.com/jessicamayfield
+2943ebee-1533-460f-851b-3c16ed22149e	Fetsum Sebhat	http://twitter.com/fetsumlive
+09fcc58c-ba74-48e1-9975-d2e0aa96fa47	kana	http://twitter.com/0kana0
+03241803-1760-4e83-a104-bce7b1e2569b	樫原伸彦	http://twitter.com/nobuchang
+7edff86b-3a9b-4813-bf80-d6d99d6105f7	諫山実生	http://twitter.com/MioIsayama
+ec71c9de-8e53-499d-83fd-2b81e6370ad8	RYUICHI	http://twitter.com/RYUICHIofficial
+442db9c0-b637-472e-a4bf-b189a4c52f00	河村隆一	http://twitter.com/RYUICHIofficial
+29f56cf7-89e5-43b3-be5e-a48032fafb90	道譯進太郎	http://twitter.com/michiwake
+4a315fc1-aa0a-43ea-abb7-9602d8bd540b	中川浩二	http://twitter.com/KojiNakagawa765
+e727df57-b913-4d89-806d-bc2661567f61	Adolescent's Orquesta	http://twitter.com/adolescentspb
+590d97dd-a72d-4e99-98af-139daa9f886c	高橋弘太	http://twitter.com/kohta09
+486d352d-da0e-450c-854c-14781d52f546	Kohta "SOLIDSTATE" Takahashi	http://twitter.com/kohta09
+7c513b6b-44e5-467e-b2e5-43a2903ecf1d	高橋コウタ	http://twitter.com/kohta09
+fb2b5a43-518a-4812-94e1-13d2e34f6d4b	Abatis	http://twitter.com/abatismusic
+1a9fa260-4f97-43d7-8c0f-33314193d4ce	小林啓樹	http://twitter.com/eatingtoomuch
+b2515d3a-34f9-4e57-9fdf-27ae63a88354	早川暁雄	http://twitter.com/zudokko
+a89daf44-93a6-4382-839b-28ebfce5a80b	沢ちひろ	http://twitter.com/chihiro0317
+a454e56f-4e88-418f-aa70-b12ed0a614c4	松澤由美	http://twitter.com/yumimania
+83c9e077-92af-4c45-8d40-d3f8b1608219	松澤由実	http://twitter.com/yumimania
+c8bb5d21-2215-40ce-ba5b-515412b49c3d	まつざわゆみ	http://twitter.com/yumimania
+7a7b70f3-1d6f-40f1-8c55-f75a376bee87	Fireworks	http://twitter.com/WeAreFireworks
+c081eaf9-d4f0-4418-a723-ba5b42563dde	David Kennett	http://twitter.com/davespectrasoul
+ed706420-7379-412b-ab01-a6e6e3215e51	大村孝佳	http://twitter.com/TakayoshiOhmura
+38b566b6-d675-442d-a5b5-0cdd8216dcaa	伊藤賢治	http://twitter.com/itoken0705
+06f6d23e-23d3-43fe-b9ca-8df583b3abb6	B.B.クィーンズ	http://twitter.com/b_b_queens
+f64c4d85-5084-4930-8dde-224f6db1b3ed	高岡亜衣	http://twitter.com/aitakaoka
+3b7ee5e3-17ac-40fc-9d41-2827542176e2	稲留春雄	http://twitter.com/haruo_i
+30a20b26-d57e-4fd2-b1bf-4622339fec01	堀崎翔	http://twitter.com/horizakisho
+2b615bcf-baa0-4657-b9a5-1a5f34c386c4	浜崎あゆみ	http://twitter.com/ayu_19980408
+09431083-3c8b-4a04-9eef-1eb66cec1a33	MANABOON	http://twitter.com/manaboon
+65a10cfb-b574-48a3-9d23-c58061c5479f	D-E-A	http://twitter.com/TheD_E_A
+835c8fb2-29e2-475c-8180-b8e79b76ef6b	Michel Cloup	http://twitter.com/michelcloup
+95c5cc20-852f-4fec-a950-ded1fa7ffd86	MC Жан	http://twitter.com/mc_zhan
+b523b6b8-f2ea-4d6c-ba23-f25e02715727	Joseph Capriati	http://twitter.com/josephcapriati
+569f11cd-2d27-40da-9b01-237f7837db77	Doctor P	http://twitter.com/doctorpcircus
+e70e838f-f64d-49f2-a9d1-4d6fd5b1db9d	Aaron Delahunty	http://twitter.com/aarondelahunty
+8bf6148c-9630-428e-9ed7-fdeb62467ff2	安部潤	http://twitter.com/JunAbe_JunAbe
+a55c2f1b-3f3f-4d6a-aa30-5e186dbadce6	Suede	http://twitter.com/suedeHQ
+4be3b2fa-0b31-445c-babf-475944be8971	Mr.Kitty	http://twitter.com/mrkittydm
+63ba8239-cac4-402c-bef6-f26da4881da4	雅-MIYAVI-	http://twitter.com/miyavi_official
+bc4b50ff-a805-4436-93dc-097b65c0acdd	渡辺翔	http://twitter.com/watanabesho
+c502a882-ea55-4bdf-b6e0-a95330e14682	Aqua Timez	http://twitter.com/AquaTimezStaff
+a2b0affd-963f-46a3-9a8d-5b9d1332ccb3	CHiCO	http://twitter.com/CHiCOACE
+59e83bb6-e8b7-44e0-bea2-2275400850e5	工藤ともり	http://twitter.com/Tomori_Kudo
+a3297f2c-7365-4b8d-b18f-8b4e08d3adef	松浦勝人	http://twitter.com/masatomatsuura
+cc428620-45eb-4b64-9762-a32fff21f5a2	Voodoo Browne	http://twitter.com/voodoobrowne
+8cfaf3df-e098-4722-b840-dbc84d7aee20	Angelspit	http://twitter.com/angelspit
+7b3f60c5-5a3e-4045-8bf4-6de8161e2dd6	Bowerbirds	http://twitter.com/thebowerbirds
+79b1a2ac-c722-4505-8617-b182116dff1a	The Leaf Library	http://twitter.com/theleaflibrary
+dfe78af2-779e-4137-826a-3073a16e3278	PHANTOGRAM	http://www.twitter.com/PHANTOGRAM
+704439ea-26dd-4615-907f-30a79dbada25	AM Kidd	http://twitter.com/#!/amkidd
+1507b368-e660-4c15-af94-3f5603561045	Balmorhea	http://twitter.com/balmorheamusic
+0d29e243-4786-4f13-a89e-36e60e7c074d	Alondra de la Parra	http://twitter.com/alondradlp
+a49ada03-1486-4221-9864-b826b10bc155	Ely Guerra	http://twitter.com/ElyGuerra_
+69158f97-4c07-4c4e-baf8-4e4ab1ed666e	Boards of Canada	http://twitter.com/#!/boctransmission
+c6ce1577-3dd4-41a7-814d-ac2d92ebda8a	One Fine Day	http://twitter.com/#!/onefinedayband
+ecbfb0f0-7aef-4493-8341-a054c4bb23dd	Adam Tensta	http://www.twitter.com/ADAMTENSTA
+36f92b57-47d6-4abd-8981-a59f7ad8d7cb	Beatsofreen	http://www.twitter.com/beatsofreen
+536228c2-aa6a-40bc-ad78-7867f59d83b2	Farewell Continental	https://twitter.com/#!/tfcgofna
+f3d8c154-208d-4efa-b52d-7e9f16adcdae	喜多郎	http://twitter.com/Kitaronetwork
+ccc7485d-52b8-4d11-820e-5fabe43ccf20	Amethystium	http://twitter.com/amethystium
+c69eb932-e163-4de0-9dc1-4c3786e54a7b	Ian Eskelin	http://twitter.com/#!/ianeskelin
+696fab30-64f7-4790-9273-90332098ae59	Michael Bross	http://twitter.com/brossmusic
+c40b1abb-09b6-4510-88a3-45116138b0a9	Obenewa	http://www.twitter.com/obenewamusic
+889ff02f-762e-42b9-8394-b617601af8e2	Urthboy	http://twitter.com/#!/urthboy
+c5054656-a32f-4363-8a97-db5d5beda8ec	Verse the Villain	http://twitter.com/#!/versethevillain
+0642f638-6415-49ea-97fc-8fa8757eb6cf	Wippenberg	https://twitter.com/wippenberg
+908fedf4-548a-430f-b806-38fca9507dc4	Wir sind Helden	http://twitter.com/wirsindhelden
+d24fb461-dee8-41fc-bb15-2f13bb2644a6	Jessie J	http://twitter.com/jessiejofficial
+812ddfb7-2f2b-431e-abe0-1e441e9de5e6	Group 120	http://twitter.com/#!/group120
+34bfcd5d-a76d-4b31-8022-b5ac04d5801b	Karl Bartos	https://twitter.com/karlbartos
+fb12c289-db18-4b27-b291-b7b6c3b0b1b7	Amatorski	http://twitter.com/#!/amatorski
+74e3dbf2-ef00-417f-b575-4e061d44dae9	Frau Pouch	http://twitter.com/#!/fraupouch
+b45335d1-5219-4262-a44d-936aa36eeaed	Ladytron	http://twitter.com/ladytronmusic
+07c746c3-fe5d-4842-97ba-1ab91b99b4b4	Castle	http://twitter.com/#!/its_castle
+addb00fd-733c-4223-8fdf-f78be2488acd	Alesso	http://twitter.com/AlessoOfficial
+eafd660e-5946-4352-af4d-612569f2f59f	Komajota	http://twitter.com/Komajota
+49614edb-033d-4fd2-acbe-ffc117a5b69f	Samuel Flynn Scott	http://twitter.com/samuelfscott
+edc72f81-e9b4-4b5a-b56f-cfd50b0d7913	The Phoenix Foundation	http://www.twitter.com/phoenixfound
+e834e6b3-8a06-4b8f-af61-fd2378efcc8d	Valentina Gullace	http://twitter.com/valegullace
+e07fc344-2f0d-4e44-9df6-4716c3793b81	Pauline Taylor	http://twitter.com/PaulineTaylorMu
+a2b950cb-3896-4f53-b11b-63532ef0e9a6	DJ Earl-e	http://twitter.com/#!/DJEarlE
+58513fb9-39ac-4248-a6da-d597e35dcda4	Ewert and The Two Dragons	http://twitter.com/ewert2dragons
+89aeaa91-f01b-4390-9346-a481f7fa6cdf	Friday Bridge	http://twitter.com/fridaybridge
+af9e8d94-d471-4f91-82c7-250c22545162	Austra	http://twitter.com/austratalks
+3452df7c-55d6-4f2e-bd7f-92db082d6885	New Cherry	http://twitter.com/#!/newcherry_indie
+34650c85-f787-491a-b1ba-31dfac4e0995	True Widow	http://twitter.com/#!/truewidow
+3dcc9329-6008-4f4c-99eb-dca8d613f0d1	Emily in Love	http://twitter.com/emilyinlove
+bfaa69de-b75c-410a-8a23-c1accc0b5107	Guy J	http://twitter.com/#!/djguyj
+94685947-d298-4ea8-8671-5301859a2908	Electric Litany	http://www.twitter.com/electriclitany
+2456f1ba-4d91-4fd8-b20c-0bef16393e07	MJ Hibbett & The Validators	http://twitter.com/MJHibbett
+da47a4e0-078e-4b0e-9ad1-bf25dd545075	Işın Karaca	http://twitter.com/ishinkaraca
+112beffb-1adc-488b-8d61-7b2ab3475d52	B.J. The Chicago Kid	http://twitter.com/#!/LISTENTOBJCOM
+0e14caa1-1af6-4879-9216-76ecd40932c3	Tom Milsom	http://twitter.com/#!/hexachordal
+942075c2-c929-4e1e-922b-f8d7f2d436b5	Hervé	http://twitter.com/#!/hervespace
+a2a4ab71-cbda-436b-8d1d-94a1469ffbe6	Sophie Hunger	http://twitter.com/SophieHunger
+302bd7b9-d012-4360-897a-93b00c855680	David Guetta	http://twitter.com/davidguetta
+2e5d5a88-b8b8-44a8-aa7e-14795fe7f643	DCUP	http://twitter.com/dcupmusic
+454b3de5-1b64-4e9f-afae-94d0a5596a6e	GnuQuartet	http://twitter.com/gnuquartet
+c3562748-adf7-45c7-8fa1-365d0c73df7a	My Riot	http://twitter.com/MYRIOTBAND
+ee65d6ea-16d5-4eef-8e2c-f04a044d7ce7	Allan Theo	http://twitter.com/allantheo_music
+93bcce33-28b1-43d6-a045-4ef2ce64342b	大山徹也	http://twitter.com/OhyamaTetsuya
+eab003ca-21bc-4cd4-8e46-9d4c4e2721ac	Big Black Delta	http://twitter.com/bigblackdelta
+04c8fddd-dc33-424a-8581-c28eaee66eb9	Seven Saturdays	http://twitter.com/#!/sevensaturdays
+a20b32e2-90a0-4d18-a3a1-949e3e84a968	Suburban Legends	http://twitter.com/#!/sublegends
+07ac82f4-9141-4907-bc94-db93b8464235	The Rabble	http://www.twitter.com/therabble
+a16b31fb-1736-4069-9446-bb7c1917703f	Grand Valley State University New Music Ensemble	http://twitter.com/GVSUNME
+68483bac-6ccb-4ae8-a5a0-92a8742ebc75	Repeater 64	http://twitter.com/#!/Repeater64
+3b0e8f01-3fd9-4104-9532-1e4b526ce562	Delain	http://twitter.com/delainmusic
+54572437-7dd6-4467-ba58-61b6e1631c89	山田稔明	http://twitter.com/toshiakiyamada
+2ac08359-7091-479a-a397-6eac56683218	Voodoo Glow Skulls	http://twitter.com/#!/glowskulls
+ac267c7f-5d23-4268-b10e-7fb8a1cee609	Älymystö	http://twitter.com/Alymysto
+86ac890f-2a9e-4e51-8dd9-1a417e904d18	Francesqa	http://twitter.com/#!/francesqa
+dc53d9e2-0ab4-407b-bf28-813af9fbc426	Wildpath	http://twitter.com/Wildpath
+674d1dd5-baf9-4a89-943f-78afb84b36b5	Protagonist	http://twitter.com/#!/protagonistfl
+440b3563-7f4a-4375-91f0-54172087e510	Seay	http://twitter.com/#!/seay
+e152db13-ccd4-4330-af16-62d963b1e703	The Reigning Monarchs	http://twitter.com/#!/reigningmonarch
+94155e7d-b0f7-435b-bcfe-ee41600d7521	Kivimetsän Druidi	http://twitter.com/officialKmD
+a93aaedc-06ea-41d6-b817-d1f37099d188	Linc	http://www.twitter.com/Linc_oln_line
+c23e5738-1a56-44fd-8cba-d2591f6c82a6	Big Hozone	http://twitter.com/BigHozone
+ff734df1-6795-43ec-84a7-ae04b356dad1	Nach	http://twitter.com/Nachsoyyo
+de548477-205e-4802-8908-e71d3ad67be0	Coma	http://twitter.com/comagroup
+4555b254-6f86-4b95-af03-b70c721c87b9	Escuela de Odio	http://twitter.com/escueladeodio
+99075985-0d80-4692-a15e-b16f78831792	Swedish House Mafia	http://twitter.com/#!/swedishousemfia
+1bc41dff-5397-4c53-bb50-469d2c277197	The Dillinger Escape Plan	http://twitter.com/DILLINGERESCPLN
+0039c7ae-e1a7-4a7d-9b49-0cbc716821a6	Death Cab for Cutie	http://twitter.com/dcfc
+07b5e94b-95ac-467d-80e0-a691c709dd11	Jah Cure	http://twitter.com/cureagain
+cfbc0924-0035-4d6c-8197-f024653af823	Nas	http://twitter.com/Nas
+99298e13-87d6-4f0c-9334-d327d73f83c0	Stephen Marley	http://twitter.com/StephenMarley1
+c71abd83-9d66-4c7b-9f0d-c9c36e85a955	Dilated Peoples	http://twitter.com/PeoplesDilated
+995c1ef8-5a55-40dc-b87f-f4a0ee95650b	Evidence	http://twitter.com/evidence
+505d7432-7dbf-4aa5-8499-af11a8171a56	Nathan Boddy	http://twitter.com/#!/nathanboddy
+c1bdd2e9-66b3-4955-96bf-fb435416bbca	HeyHiHello	http://twitter.com/#!/heyhihello
+90570cdb-4cb3-4ffa-a0f1-a4b834ac03e4	Sadie Jemmett	https://twitter.com/sadiejemmett

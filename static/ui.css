@@ -1,0 +1,48 @@
+
+.CSS_SEARCH_HORIZ {
+  padding-left: 20px;
+  background: url('header_bg.png');
+  width: 780px;
+  height: 98px;
+  -moz-border-radius-topleft:10px;
+  -moz-border-radius-topright:10px;
+  -webkit-border-top-left-radius:10px;
+  -webkit-border-top-right-radius:10px;
+}
+
+.CSS_SEARCH_BAR {
+  float: left;
+  padding-top: 30px;
+}
+
+.CSS_LOADING_SPINNER {
+  float: left;
+  margin-left: 10px;
+  margin-top: 3px;
+}
+
+.CSS_RESULTS {
+  clear: both;
+  float: left;
+
+  width: 800px;
+
+  background-color: gray;
+  padding-top: 20px;
+  font-weight: bold;
+  
+}
+
+.CSS_CONTAINER {
+
+  width: 800px;
+  margin: auto;
+  padding-top: 20px;
+  
+
+
+}
+
+.CSS_CLEAR {
+  clear: both;
+}
