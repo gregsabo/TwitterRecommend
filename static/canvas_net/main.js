@@ -17,13 +17,14 @@
     function Node(x, y) {
       this.x = x;
       this.y = y;
+      this.name = "Michael Jackson";
       this.connections = [];
       this.size = 10;
       this.hover_x = 0;
       this.hover_y = 0;
     }
     Node.prototype.draw = function(ctx, color) {
-      var connection, this_x, this_y, _i, _len, _ref;
+      var connection, textWidth, this_x, this_y, _i, _len, _ref;
       if (color == null) {
         color = COLOR.node;
       }
@@ -32,6 +33,9 @@
       this_x = this.x + x_offset - (this.size / 2) + this.hover_x;
       this_y = this.y + y_offset - (this.size / 2) + this.hover_y;
       ctx.fillRect(this_x, this_y, this.size, this.size);
+      ctx.font = "bold 12px sans-serif";
+      textWidth = ctx.measureText(this.name);
+      ctx.fillText(this.name, this_x - textWidth.width / 2, this_y + 30);
       _ref = this.connections;
       for (_i = 0, _len = _ref.length; _i < _len; _i++) {
         connection = _ref[_i];
