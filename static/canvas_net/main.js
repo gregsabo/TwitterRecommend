@@ -14,10 +14,10 @@
     node: "#CCC"
   };
   Node = (function() {
-    function Node(x, y) {
+    function Node(x, y, name) {
       this.x = x;
       this.y = y;
-      this.name = "Michael Jackson";
+      this.name = name;
       this.connections = [];
       this.size = 10;
       this.hover_x = 0;
@@ -91,23 +91,20 @@
       return _results;
     }
   };
-  add_node = function(root_node) {
-    var RADIUS, angle, i, node, num_similar, this_x, this_y;
-    if (!root_node) {
-      this_x = 0;
-      this_y = 0;
-      root_node = new Node(this_x, this_y);
-      nodes.push(root_node);
-    }
+  add_node = function(root_node, connections) {
+    var RADIUS, angle, connection, i, node, num_similar, this_x, this_y, _i, _len;
     RADIUS = 200;
-    num_similar = Math.floor(Math.random() * 20);
+    num_similar = connections.length;
     angle = 2 * Math.PI / num_similar;
-    for (i = 0; 0 <= num_similar ? i < num_similar : i > num_similar; 0 <= num_similar ? i++ : i--) {
+    i = 0;
+    for (_i = 0, _len = connections.length; _i < _len; _i++) {
+      connection = connections[_i];
       this_x = Math.cos(angle * i) * RADIUS + root_node.x;
       this_y = Math.sin(angle * i) * RADIUS + root_node.y;
-      node = new Node(this_x, this_y);
+      node = new Node(this_x, this_y, connection);
       root_node.connections.push(node);
       nodes.push(node);
+      i += 1;
     }
     return root_node;
   };
@@ -125,11 +122,12 @@
   };
   bind_click_events = function() {
     return $('canvas').click(function(event) {
-      var node;
+      var connections, node;
       node = find_node_by_coordinates(event.offsetX, event.offsetY);
       if (node) {
         currentTargetNode = node;
-        add_node(node);
+        connections = getConnectionsFor(node.name, true);
+        add_node(node, connections);
         target_x_offset = (-1 * node.x) + WIDTH / 2;
         return target_y_offset = (-1 * node.y) + HEIGHT / 2;
       }
@@ -143,9 +141,13 @@
       return draw(ctx);
     }, 10);
   };
-  $(function() {
+  window.start_canvas_with_nodes = function(initial_person, connected_names) {
+    var root_node, this_x, this_y;
     initialize_canvas();
-    currentTargetNode = add_node();
+    this_x = 0;
+    this_y = 0;
+    root_node = new Node(this_x, this_y, initial_person);
+    currentTargetNode = add_node(root_node, connected_names);
     return bind_click_events();
-  });
+  };
 }).call(this);
