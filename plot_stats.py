@@ -28,15 +28,26 @@ if __name__ == '__main__':
     # order by followers
     order = np.argsort(np.array(map(lambda x: x[1], data)))[-1::-1]
     data = np.array(data)[order]
-
     P.figure()
-    P.plot([d[1] for d in data], label='followers')
+    P.subplot(2,1,1)
+    P.semilogy([d[1] for d in data], label='followers')
     P.title('Artist followers')
     P.legend(loc='upper right')
-    P.show(False)
+    P.subplot(2,1,2)
+    P.semilogy([d[2] for d in data], 'r', label='followees')
+    P.title('Artist followees')
+    P.legend(loc='upper right')
 
+    # order by followees
+    order = np.argsort(np.array(map(lambda x: x[2], data)))[-1::-1]
+    data = np.array(data)[order]
     P.figure()
-    P.plot([d[2] for d in data], 'r', label='followees')
+    P.subplot(2,1,1)
+    P.semilogy([d[1] for d in data], label='followers')
+    P.title('Artist followers')
+    P.legend(loc='upper right')
+    P.subplot(2,1,2)
+    P.semilogy([d[2] for d in data], 'r', label='followees')
     P.title('Artist followees')
     P.legend(loc='upper right')
     P.show(True)
