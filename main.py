@@ -24,12 +24,12 @@ def get_screenname(twitter_id):
 
 def get_similars(twitter_id):
     url_str = 'https://thierrybm.cloudant.com/twitterrecommend/_search?q=twitter_id:%s&include_docs=true' % twitter_id
+    print "URL WOULD BE", url_str
     res = urllib2.urlopen(url_str)
     d = json.loads(res.read())
-    print "D IS", d
-    if len(d['rows']) == 0:
+    if isinstance(d, list):
         return None
-    return d['rows'][0]['doc']['close']
+    return d['rows'][0]['doc']['close'][1:]
 
  
 urls = (
@@ -51,11 +51,11 @@ class similar:
         return json.dumps(out_names)
 
 class twittersimilar:
-    def GET(self, screen_name):
+    def GET(self, twitter_id):
+        if len(twitter_id) == 0:
+            twitter_id = 14400000
         # twitter_id = get_twitter_id(screen_name)
-        twitter_id = 14048000
-        print "TWITTER ID IS", twitter_id
-        return get_similars(14048000)
+        return json.dumps(get_similars(twitter_id))
 
 if __name__ == "__main__":
     app.run()
