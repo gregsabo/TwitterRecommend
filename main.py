@@ -10,6 +10,9 @@ from pyechonest import artist, util, config
 config.ECHO_NEST_API_KEY="PO5UWOR7W54TXMERI"
 
  
+names_to_ids = {}
+ids_to_names = {}
+ 
 #Ex: get_twitter_id('djfractal')
 def get_twitter_id(screen_name):
     url_str = 'https://thierrybm.cloudant.com/twitterrecommend/_search?q=screen_name:%s&include_docs=true' % screen_name
@@ -37,7 +40,8 @@ def get_similars(twitter_id):
  
 urls = (
     '/similar/(.*)', 'similar',
-    '/twittersimilar/(.*)', 'twittersimilar'
+    '/twittersimilar/(.*)', 'twittersimilar',
+    '/usernamesimilar/(.*)', 'usernamesimilar'
 )
 app = web.application(urls, globals())
 
@@ -58,7 +62,37 @@ class twittersimilar:
         if len(twitter_id) == 0:
             twitter_id = 14400000
         # twitter_id = get_twitter_id(screen_name)
-        return json.dumps(get_similars(twitter_id))
+        similars = json.dumps(get_similars(twitter_id))
+
+class usernamesimilar:
+    def GET(self, username):
+        ids_to_names, names_to_ids = read_usernames()
+        try:
+            twitter_id = names_to_ids[username]
+        except KeyError:
+            return json.dumps("not found")
+        similars = get_similars(twitter_id)
+        converted_items = []
+        
+        for item in similars:
+            try:
+                item[0] = ids_to_names[item[0]]
+            except KeyError:
+                pass
+        
+        return json.dumps(similars)
+        
+        
+def read_usernames():
+    in_file = open('ids_to_names.txt', 'r')
+    lines = in_file.readlines()
+    for line in lines:
+        tid, name = line.strip('\n').split("\t")
+        ids_to_names[tid] = name
+        names_to_ids[name] = tid
+    return ids_to_names, names_to_ids
 
 if __name__ == "__main__":
+    read_usernames()
     app.run()
+    

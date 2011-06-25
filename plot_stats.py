@@ -31,7 +31,12 @@ if __name__ == '__main__':
 
     P.figure()
     P.plot([d[1] for d in data], label='followers')
-    P.plot([d[2] for d in data], 'r', label='followees')
-    P.title('Artist followers and followees')
+    P.title('Artist followers')
     P.legend(loc='upper right')
-    P.show()
+    P.show(False)
+
+    P.figure()
+    P.plot([d[2] for d in data], 'r', label='followees')
+    P.title('Artist followees')
+    P.legend(loc='upper right')
+    P.show(True)
