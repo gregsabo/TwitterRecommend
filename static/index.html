@@ -1,0 +1,95 @@
+
+<html>
+
+
+<head>
+  <title>Insert Clever Title Here</title>
+
+
+
+  <script src="http://code.jquery.com/jquery-latest.js"></script>
+
+  <script type="text/javascript">
+    // TODO(tek): Move this out to a new file?
+
+    function grabSimilarArtistsSuccessCallback(data) {
+      console.log(data);
+
+      var data = $.parseJSON(data);
+
+      var resultElt = $("#results");
+
+      var concatText = "";
+
+      $.each(data, function(index, val) {
+        concatText = concatText + val + " <br>";
+      });
+
+      resultElt.html(concatText);
+
+      $("#loading_spinner").hide();
+    }
+
+    function grabSimilarArtists() {
+      var artistName = $("#artist_handle").val();
+
+      console.log("Checking out : " + artistName);
+
+      $("#loading_spinner").show();
+
+      $.ajax({
+        type: "get",
+        url: "http://127.0.0.1:8080/similar/" + artistName,
+        success: grabSimilarArtistsSuccessCallback,
+        error: function() {
+          console.log("fail");
+        }
+      });
+    }
+
+    // Calls grabSimilarArtists if return keycode detected
+    function maybeSearch(event) {
+       var keyCode;
+       if (window.event) {
+         keyCode = event.keyCode;
+       } else {
+         keyCode = event.which;
+       }  
+
+      if (keyCode == 13) {
+        grabSimilarArtists();
+      }
+    }
+    
+
+  </script>
+
+
+  <LINK REL=StyleSheet HREF="ui.css" TYPE="text/css" MEDIA=screen>
+
+</head>
+
+
+<body>
+
+  <div class="CSS_SEARCH_HORIZ">
+    <div class="CSS_SEARCH_BAR">
+
+      <input type="text" id="artist_handle" size="40" onkeydown="maybeSearch(event)">
+
+      <button onclick="grabSimilarArtists()">Search</button>
+
+
+    </div>
+
+    <div class="CSS_LOADING_SPINNER">
+      <img src="ajax-loader.gif" id="loading_spinner" style="display: none">
+    </div>
+  </div>
+
+
+  <div class="CSS_RESULTS" id="results">
+    
+  </div>
+
+</body>
