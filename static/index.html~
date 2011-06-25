@@ -15,9 +15,10 @@
     // TODO(tek): Move this out to a new file?
 
     function grabSimilarArtistsSuccessCallback(data) {
-      console.log(data);
 
       var data = $.parseJSON(data);
+
+      console.log(data)
 
       start_canvas_with_nodes($("#artist_handle").val(), data);
 
@@ -34,7 +35,7 @@
 
         $.ajax({
           type: "get",
-          url: "http://127.0.0.1:8080/similar/" + artistName,
+          url: "http://127.0.0.1:8080/twittersimilar/" + artistName,
           success: function(data) { ret = $.parseJSON(data) },
           async: false
         });
@@ -45,7 +46,7 @@
       } else {
         $.ajax({
           type: "get",
-          url: "http://127.0.0.1:8080/similar/" + artistName,
+          url: "http://127.0.0.1:8080/twittersimilar/" + artistName,
           success: grabSimilarArtistsSuccessCallback,
           error: function() {
             $("#loading_spinner").hide();
