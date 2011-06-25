@@ -3,6 +3,7 @@
 # (http://csc.media.mit.edu/docs/divisi2)
 import divisi2
 import numpy as np
+import sys
 from csc_utils.ordered_set import OrderedSet
 
 fakebands = OrderedSet([])
@@ -31,9 +32,12 @@ for line in file:
     matrix[row,col] += 1
     counter += 1
     if counter % 1000 == 0:
-        print counter
+        print >> sys.stderr, counter
 file.close()
 
 U, S, V = matrix.normalize_rows(offset=0.01).svd(k=20)
-similarity = U * S
-divisi2.save(similarity, 'similarity.mat')
+similar_bands = divisi2.reconstruct_similarity(U, S)
+for band in fakebands:
+    similar = similar_bands.row_named(band).top_items(10)
+    print "%s\t%s" % (band, similar)
+            
