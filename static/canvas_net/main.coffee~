@@ -6,11 +6,12 @@ x_offset = 400
 y_offset = 200
 target_x_offset = 400
 target_y_offset = 200
+currentTargetNode = null
 nodes = []
 
 COLOR =
   background: "#FFF"
-  node: "#000"
+  node: "#CCC"
 
 class Node
   constructor: (@x, @y) ->
@@ -19,8 +20,9 @@ class Node
     @hover_x = 0
     @hover_y = 0
   
-  draw: (ctx) ->
-    ctx.fillStyle = COLOR.node
+  draw: (ctx, color=COLOR.node) ->
+    ctx.fillStyle = color
+    ctx.strokeStyle = color
     this_x = @x + x_offset - (@size/2) + @hover_x
     this_y = @y + y_offset - (@size/2) + @hover_y
     ctx.fillRect this_x, this_y, @size, @size
@@ -57,6 +59,12 @@ draw = (ctx) ->
   advance_offset_target()
   for node in nodes
     node.draw(ctx)
+  if (currentTargetNode != null) 
+    currentTargetNode.draw(ctx, "000")
+    for node in currentTargetNode.connections
+    	node.draw(ctx, "000")
+
+
   
 add_node = (root_node) ->
   if not root_node
@@ -74,6 +82,7 @@ add_node = (root_node) ->
     node = new Node(this_x, this_y)
     root_node.connections.push node
     nodes.push node
+  return root_node
 
 find_node_by_coordinates = (x, y) ->
   for node in nodes
@@ -86,7 +95,9 @@ find_node_by_coordinates = (x, y) ->
 bind_click_events = ->
   $('canvas').click (event) ->
     node = find_node_by_coordinates(event.offsetX, event.offsetY)
+
     if node
+      currentTargetNode = node
       add_node(node)
       target_x_offset = (-1 * node.x) + WIDTH/2
       target_y_offset = (-1 * node.y) + HEIGHT/2
@@ -102,6 +113,6 @@ initialize_canvas = ->
 
 $( ->
   initialize_canvas()
-  add_node()
+  currentTargetNode = add_node()
   bind_click_events()
 )
