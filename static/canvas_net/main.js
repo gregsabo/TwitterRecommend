@@ -92,18 +92,32 @@
       return _results;
     }
   };
-  add_node = function(root_node, connections) {
-    var RADIUS, angle, connection, i, node, num_similar, this_x, this_y, _i, _len;
+  add_node = function(root_node, connections_and_radii) {
+    var RADIUS, angle, connection, highestValue, i, lowestRadii, node, num_similar, radii, this_x, this_y, _i, _j, _k, _len, _len2, _len3;
     RADIUS = 200;
-    num_similar = connections.length;
+    num_similar = connections_and_radii.length;
     angle = 2 * Math.PI / num_similar;
     i = 0;
-    for (_i = 0, _len = connections.length; _i < _len; _i++) {
-      connection = connections[_i];
-      RADIUS = 60 * Math.random() + 140;
+    lowestRadii = 1000;
+    for (_i = 0, _len = connections_and_radii.length; _i < _len; _i++) {
+      radii = connections_and_radii[_i];
+      if (lowestRadii > radii[1]) {
+        lowestRadii = radii[1];
+      }
+    }
+    highestValue = -1;
+    for (_j = 0, _len2 = connections_and_radii.length; _j < _len2; _j++) {
+      radii = connections_and_radii[_j];
+      if (highestValue < radii[1]) {
+        highestValue = radii[1];
+      }
+    }
+    for (_k = 0, _len3 = connections_and_radii.length; _k < _len3; _k++) {
+      connection = connections_and_radii[_k];
+      RADIUS = (1.00001 - ((connection[1] - lowestRadii) / (highestValue - lowestRadii))) * 140 + 60;
       this_x = Math.cos(angle * i) * RADIUS + root_node.x;
       this_y = Math.sin(angle * i) * RADIUS + root_node.y;
-      node = new Node(this_x, this_y, connection);
+      node = new Node(this_x, this_y, connection[0]);
       root_node.connections.push(node);
       nodes.push(node);
       i += 1;
@@ -143,7 +157,7 @@
       return draw(ctx);
     }, 10);
   };
-  window.start_canvas_with_nodes = function(initial_person, connected_names) {
+  window.start_canvas_with_nodes = function(initial_person, connected_names_and_radii) {
     var root_node, this_x, this_y;
     if (!initialized_canvas) {
       initialize_canvas();
@@ -155,7 +169,7 @@
     nodes.push(root_node);
     target_x_offset = 400;
     target_y_offset = 200;
-    currentTargetNode = add_node(root_node, connected_names);
+    currentTargetNode = add_node(root_node, connected_names_and_radii);
     if (!initialized_canvas) {
       bind_click_events();
     }

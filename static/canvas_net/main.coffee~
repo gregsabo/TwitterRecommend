@@ -74,17 +74,19 @@ draw = (ctx) ->
 
 
   
-add_node = (root_node, connections) ->
+add_node = (root_node, connections_and_radii) ->
     
   RADIUS = 200  
   num_similar = connections.length
   angle = 2 * Math.PI / num_similar
   i = 0
 
-  for connection in connections
+  for connection in connections_and_radii
+
+    RADIUS = connection[1];
     this_x = Math.cos(angle * i) * RADIUS + root_node.x
     this_y = Math.sin(angle * i) * RADIUS + root_node.y
-    node = new Node(this_x, this_y, connection)
+    node = new Node(this_x, this_y, connection[0])
     root_node.connections.push node
     nodes.push node
 
@@ -122,7 +124,8 @@ initialize_canvas = ->
   , 10)
 
 
-window.start_canvas_with_nodes = (initial_person, connected_names) ->
+
+window.start_canvas_with_nodes = (initial_person, connected_names_and_radii) ->
   if (!initialized_canvas)
     initialize_canvas()
 
@@ -132,13 +135,14 @@ window.start_canvas_with_nodes = (initial_person, connected_names) ->
   this_y = 0
   root_node = new Node(this_x, this_y, initial_person)
 
+  nodes.push(root_node)
 
   target_x_offset = 400
   target_y_offset = 200
  
 
 
-  currentTargetNode = add_node(root_node, connected_names)
+  currentTargetNode = add_node(root_node, connected_names_and_radii)
   
   if (!initialized_canvas)
     bind_click_events()
