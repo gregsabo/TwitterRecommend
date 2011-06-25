@@ -5,8 +5,11 @@ import httplib, json
 
 def get_twitter_id(username, api):
   api.request('GET', '/1/users/show.json?screen_name='+username)
-  res = api.getresponse().read()
-  return json.loads(res)['id']
+  res = api.getresponse()
+  if res.status() == 201:
+    return json.loads(res.read())['id']
+  else:
+    return None
 
 def main():
   artist_twitterid = []
