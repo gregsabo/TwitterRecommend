@@ -73,24 +73,27 @@
 
 <body>
 
-  <div class="CSS_SEARCH_HORIZ">
-    <div class="CSS_SEARCH_BAR">
-
-      <input type="text" id="artist_handle" size="40" onkeydown="maybeSearch(event)">
-
-      <button onclick="grabSimilarArtists()">Search</button>
-
-
+  <div class="CSS_CONTAINER">
+    <div class="CSS_SEARCH_HORIZ">
+      <div class="CSS_SEARCH_BAR">
+	
+	<input type="text" id="artist_handle" size="40" onkeydown="maybeSearch(event)" placeholder="Enter an artist's name or twitter handle">
+	
+	<button onclick="grabSimilarArtists()">Search</button>
+	
+	
+      </div>
+      
+      <div class="CSS_LOADING_SPINNER">
+	<img src="ajax-loader.gif" id="loading_spinner" style="display: none">
+      </div>
     </div>
-
-    <div class="CSS_LOADING_SPINNER">
-      <img src="ajax-loader.gif" id="loading_spinner" style="display: none">
-    </div>
-  </div>
-
-
-  <div class="CSS_RESULTS" id="results">
     
-  </div>
 
+    <div class="CSS_RESULTS" id="results">
+      
+    </div>
+
+    <div class="CSS_CLEAR"></div>
+  </div>
 </body>
