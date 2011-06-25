@@ -42,7 +42,8 @@
         url: "http://127.0.0.1:8080/similar/" + artistName,
         success: grabSimilarArtistsSuccessCallback,
         error: function() {
-          console.log("fail");
+          $("#loading_spinner").hide();
+          $("#results").html("Error occurred...check the name?");
         }
       });
     }
