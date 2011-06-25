@@ -6,21 +6,21 @@ import numpy as np
 import sys
 from csc_utils.ordered_set import OrderedSet
 
-fakebands = OrderedSet([])
+thebands = OrderedSet([])
 
-file = open('social-graph.small')
+file = open('band-graph.txt')
 for line in file:
     band, fan = line.strip().split()
-    fakebands.add(band)
+    thebands.add(band)
 
-NBANDS = len(fakebands)
+NBANDS = len(thebands)
 NBITS = 12
 MODULO = 1<<NBITS
 print NBANDS
 
 matrix = divisi2.DenseMatrix(
     np.zeros((NBANDS, MODULO)),
-    row_labels = fakebands
+    row_labels = thebands
 )
 
 file.seek(0)
@@ -37,7 +37,7 @@ file.close()
 
 U, S, V = matrix.normalize_rows(offset=0.01).svd(k=20)
 similar_bands = divisi2.reconstruct_similarity(U, S)
-for band in fakebands:
+for band in thebands:
     similar = similar_bands.row_named(band).top_items(10)
     print "%s\t%s" % (band, similar)
-            
+
