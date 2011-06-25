@@ -1,0 +1,4 @@
+Twitter Recommender
+===================
+
+Our goal is to do [collaborative filtering](http://en.wikipedia.org/wiki/Collaborative_filtering) on the social graph data present in twitter.
