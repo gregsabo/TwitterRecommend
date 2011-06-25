@@ -55,7 +55,7 @@ class twittersimilar:
         if len(twitter_id) == 0:
             twitter_id = 14400000
         # twitter_id = get_twitter_id(screen_name)
-        return get_similars(twitter_id)
+        return json.dumps(get_similars(twitter_id))
 
 if __name__ == "__main__":
     app.run()
