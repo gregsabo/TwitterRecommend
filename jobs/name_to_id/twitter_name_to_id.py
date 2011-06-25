@@ -22,7 +22,7 @@ def main():
 
   for line in sys.stdin:
       line = line.strip()
-      id, artist, profile = line.split('\t')
+      id1, id2, artist, profile = line.split('\t')
       username = profile.split('/')[-1]
       tid = get_twitter_id(username, api)
       artist_twitterid.append((artist, username, tid))
