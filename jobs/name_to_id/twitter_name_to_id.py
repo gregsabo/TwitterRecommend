@@ -1,16 +1,21 @@
 #!/usr/bin/env python
 
-import os, sys
+import os, sys, time
 import httplib, json
 
 def get_twitter_id(username, api):
   api.request('GET', '/1/users/show.json?screen_name='+username)
+  t0 = time.clock
   while True:
     try:
       res = api.getresponse()
       break
     except:
-      print "Response not yet ready"
+      if time.clock() - t0 < 30:
+        print "Response not yet ready"
+      else:
+        print "Timeout"
+        break
   if res.status == 200:
     return json.loads(res.read())['id']
   else:
