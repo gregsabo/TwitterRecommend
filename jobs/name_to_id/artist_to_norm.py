@@ -9,7 +9,7 @@ def main():
       line = line.strip()
       id1, id2, artist, profile = line.split('\t')
       username = profile.split('/')[-1]
-      artist_twitterid.append((artist, username))
+      artist_norm.append((artist, username))
 
   for artist, username in artist_norm:
       print '%s\t%s'% (artist, username)
