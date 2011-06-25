@@ -8,7 +8,7 @@ sys.path.append("deps/python-oauth2")
 sys.path.append("deps/simplejson-2.1.6")
 sys.path.append("deps/python-twitter-0.8.2")
 
-from deps.python_twitter import twitter
+import twitter
 
 class MRNameToId(MRJob):
   def run(self):
