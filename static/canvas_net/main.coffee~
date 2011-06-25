@@ -15,7 +15,6 @@ COLOR =
 
 class Node
   constructor: (@x, @y) ->
-    @name = "Michael Jackson"
     @connections = []
     @size = 10
     @hover_x = 0
@@ -27,12 +26,6 @@ class Node
     this_x = @x + x_offset - (@size/2) + @hover_x
     this_y = @y + y_offset - (@size/2) + @hover_y
     ctx.fillRect this_x, this_y, @size, @size
-
-    ctx.font = "bold 12px sans-serif";
-    textWidth = ctx.measureText(@name);
-
-    ctx.fillText(@name, this_x - textWidth.width/2, this_y + 30);
-
     for connection in @connections
       ctx.beginPath()
       ctx.moveTo(@x + x_offset + @hover_x, @y + y_offset + @hover_y)
