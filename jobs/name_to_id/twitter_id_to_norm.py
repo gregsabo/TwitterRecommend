@@ -8,7 +8,7 @@ def main():
   for line in sys.stdin:
       line = line.strip()
       tid, name = line.split('\t')
-			print '%s\t%s'% (name, tid)
+      print '%s\t%s'% (name, tid)
 
 if __name__ == '__main__':
   main()
