@@ -5,10 +5,7 @@ REST server for the similarity data
 import web
 import json
 import urllib2
-from pyechonest import artist, util, config
-
-config.ECHO_NEST_API_KEY="PO5UWOR7W54TXMERI"
-
+from pyechonest import artist, util
  
 #Ex: get_twitter_id('djfractal')
 def get_twitter_id(screen_name):
