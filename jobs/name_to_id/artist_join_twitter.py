@@ -11,7 +11,8 @@ def main():
       artists.setdefault(twittername, [])
       artists[twittername].append(val)
 
-  for tname, vals in artists:
+  for tname in artists:
+    vals = artists[tname]
     if vals[0].isdigit():
       name = vals[1]
       tid = vals[0]
