@@ -1,5 +1,5 @@
 (function() {
-  var COLOR, HEIGHT, MAX_HOVER, Node, WIDTH, add_node, advance_offset_target, bind_click_events, clear_screen, currentTargetNode, draw, find_node_by_coordinates, initialize_canvas, nodes, target_x_offset, target_y_offset, x_offset, y_offset;
+  var COLOR, HEIGHT, MAX_HOVER, Node, WIDTH, add_node, advance_offset_target, bind_click_events, clear_screen, currentTargetNode, draw, find_node_by_coordinates, initialize_canvas, initialized_canvas, nodes, target_x_offset, target_y_offset, x_offset, y_offset;
   HEIGHT = 500;
   WIDTH = 800;
   MAX_HOVER = 50;
@@ -9,6 +9,7 @@
   target_y_offset = 200;
   currentTargetNode = null;
   nodes = [];
+  initialized_canvas = false;
   COLOR = {
     background: "#FFF",
     node: "#CCC"
@@ -143,11 +144,19 @@
   };
   window.start_canvas_with_nodes = function(initial_person, connected_names) {
     var root_node, this_x, this_y;
-    initialize_canvas();
+    if (!initialized_canvas) {
+      initialize_canvas();
+    }
+    nodes = [];
     this_x = 0;
     this_y = 0;
     root_node = new Node(this_x, this_y, initial_person);
+    target_x_offset = 400;
+    target_y_offset = 200;
     currentTargetNode = add_node(root_node, connected_names);
-    return bind_click_events();
+    if (!initialized_canvas) {
+      bind_click_events();
+    }
+    return initialized_canvas = true;
   };
 }).call(this);
