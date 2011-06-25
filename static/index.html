@@ -6,8 +6,10 @@
   <title>Insert Clever Title Here</title>
 
 
-
+  
   <script src="http://code.jquery.com/jquery-latest.js"></script>
+
+  <script src="canvas_net/main.js"></script>
 
   <script type="text/javascript">
     // TODO(tek): Move this out to a new file?
@@ -17,35 +19,48 @@
 
       var data = $.parseJSON(data);
 
-      var resultElt = $("#results");
-
-      var concatText = "";
-
-      $.each(data, function(index, val) {
-        concatText = concatText + val + " <br>";
-      });
-
-      resultElt.html(concatText);
+      start_canvas_with_nodes($("#artist_handle").val(), data);
 
       $("#loading_spinner").hide();
+    }
+
+    function getConnectionsFor(artistName, synchronous) {
+      $("#loading_spinner").show();
+
+      ret = ""
+
+      if (synchronous) {
+
+
+        $.ajax({
+          type: "get",
+          url: "http://127.0.0.1:8080/similar/" + artistName,
+          success: function(data) { ret = $.parseJSON(data) },
+          async: false
+        });
+
+       $("#loading_spinner").hide();
+       return ret;
+
+      } else {
+        $.ajax({
+          type: "get",
+          url: "http://127.0.0.1:8080/similar/" + artistName,
+          success: grabSimilarArtistsSuccessCallback,
+          error: function() {
+            $("#loading_spinner").hide();
+            $("#results").html("Error occurred...check the name?");
+          },
+          async: false
+        });
+      }
     }
 
     function grabSimilarArtists() {
       var artistName = $("#artist_handle").val();
 
-      console.log("Checking out : " + artistName);
+      getConnectionsFor(artistName, false)
 
-      $("#loading_spinner").show();
-
-      $.ajax({
-        type: "get",
-        url: "http://127.0.0.1:8080/similar/" + artistName,
-        success: grabSimilarArtistsSuccessCallback,
-        error: function() {
-          $("#loading_spinner").hide();
-          $("#results").html("Error occurred...check the name?");
-        }
-      });
     }
 
     // Calls grabSimilarArtists if return keycode detected
@@ -91,7 +106,7 @@
     
 
     <div class="CSS_RESULTS" id="results">
-      
+      <canvas width=800, height=500>
     </div>
 
     <div class="CSS_CLEAR"></div>

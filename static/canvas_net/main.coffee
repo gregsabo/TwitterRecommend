@@ -6,24 +6,34 @@ x_offset = 400
 y_offset = 200
 target_x_offset = 400
 target_y_offset = 200
+currentTargetNode = null
 nodes = []
+
+initialized_canvas = false
 
 COLOR =
   background: "#FFF"
-  node: "#000"
+  node: "#CCC"
 
 class Node
-  constructor: (@x, @y) ->
+  constructor: (@x, @y, @name) ->
     @connections = []
     @size = 10
     @hover_x = 0
     @hover_y = 0
   
-  draw: (ctx) ->
-    ctx.fillStyle = COLOR.node
+  draw: (ctx, color=COLOR.node) ->
+    ctx.fillStyle = color
+    ctx.strokeStyle = color
     this_x = @x + x_offset - (@size/2) + @hover_x
     this_y = @y + y_offset - (@size/2) + @hover_y
     ctx.fillRect this_x, this_y, @size, @size
+
+    ctx.font = "bold 12px sans-serif";
+    textWidth = ctx.measureText(@name);
+
+    ctx.fillText(@name, this_x - textWidth.width/2, this_y + 30);
+
     for connection in @connections
       ctx.beginPath()
       ctx.moveTo(@x + x_offset + @hover_x, @y + y_offset + @hover_y)
@@ -57,23 +67,31 @@ draw = (ctx) ->
   advance_offset_target()
   for node in nodes
     node.draw(ctx)
+  if (currentTargetNode != null) 
+    currentTargetNode.draw(ctx, "000")
+    for node in currentTargetNode.connections
+    	node.draw(ctx, "000")
+
+
   
-add_node = (root_node) ->
-  if not root_node
-    this_x = 0
-    this_y = 0
-    root_node = new Node(this_x, this_y)
-    nodes.push(root_node)
+add_node = (root_node, connections) ->
     
   RADIUS = 200  
-  num_similar = Math.floor(Math.random() * 20)
+  num_similar = connections.length
   angle = 2 * Math.PI / num_similar
-  for i in [0...num_similar]
+  i = 0
+
+  for connection in connections
+    RADIUS = 60 * Math.random() + 140;
     this_x = Math.cos(angle * i) * RADIUS + root_node.x
     this_y = Math.sin(angle * i) * RADIUS + root_node.y
-    node = new Node(this_x, this_y)
+    node = new Node(this_x, this_y, connection)
     root_node.connections.push node
     nodes.push node
+
+    i += 1
+
+  return root_node
 
 find_node_by_coordinates = (x, y) ->
   for node in nodes
@@ -86,8 +104,13 @@ find_node_by_coordinates = (x, y) ->
 bind_click_events = ->
   $('canvas').click (event) ->
     node = find_node_by_coordinates(event.offsetX, event.offsetY)
+
     if node
-      add_node(node)
+      currentTargetNode = node
+
+      connections = getConnectionsFor(node.name, true)
+
+      add_node(node, connections)
       target_x_offset = (-1 * node.x) + WIDTH/2
       target_y_offset = (-1 * node.y) + HEIGHT/2
       
@@ -100,8 +123,28 @@ initialize_canvas = ->
   , 10)
 
 
-$( ->
-  initialize_canvas()
-  add_node()
-  bind_click_events()
-)
+window.start_canvas_with_nodes = (initial_person, connected_names) ->
+  if (!initialized_canvas)
+    initialize_canvas()
+
+  nodes = []
+
+  this_x = 0
+  this_y = 0
+  root_node = new Node(this_x, this_y, initial_person)
+
+  nodes.push(root_node)
+
+  target_x_offset = 400
+  target_y_offset = 200
+ 
+
+
+  currentTargetNode = add_node(root_node, connected_names)
+  
+  if (!initialized_canvas)
+    bind_click_events()
+
+  initialized_canvas = true
+    
+
